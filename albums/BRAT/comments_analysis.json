@@ -1,0 +1,1702 @@
+[
+    {
+        "original_comment": "it&#39;s not a 10",
+        "cleaned_comment": "",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "I like how Fantano basically shrugs about this album for 15 minutes and then ends up giving it a TEN like it&#39;s no big deal",
+        "cleaned_comment": "like fantano basically shrugs album minutes ends giving ten like big deal",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.549,
+            "pos": 0.451,
+            "compound": 0.7506
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "YESSSSSSSSSSSSSS A 10/10 HELL FLIPPING YES",
+        "cleaned_comment": "yessssssssssssss hell flipping yes",
+        "sentiment": {
+            "neg": 0.48,
+            "neu": 0.208,
+            "pos": 0.312,
+            "compound": -0.3832
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.5,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "F",
+        "cleaned_comment": "f",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "are u fr",
+        "cleaned_comment": "u fr",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Thanks Melon I was recovering from a migraine day and couldnt look at the video xD",
+        "cleaned_comment": "thanks melon recovering migraine day couldnt look video xd",
+        "sentiment": {
+            "neg": 0.237,
+            "neu": 0.54,
+            "pos": 0.224,
+            "compound": -0.0444
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "This guy is so good at what he does!",
+        "cleaned_comment": "guy good",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.256,
+            "pos": 0.744,
+            "compound": 0.4404
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "I’d give it like a 7 or an 8 not really my thing but the production was out of this world.",
+        "cleaned_comment": "id give like really thing production world",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.706,
+            "pos": 0.294,
+            "compound": 0.3612
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "you would have gave it a ten it it was called brat",
+        "cleaned_comment": "would gave ten called brat",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "Maggie Rogers &#39;Don&#39;t Forget Me&#39; next pls",
+        "cleaned_comment": "maggie rogers dont forget next pls",
+        "sentiment": {
+            "neg": 0.177,
+            "neu": 0.581,
+            "pos": 0.242,
+            "compound": 0.1139
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 1.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "W",
+        "cleaned_comment": "w",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "A 10, wait you&#39;re serious! 🤣😂🤣😂🤣😂🤣😂🤣",
+        "cleaned_comment": "wait youre serious",
+        "sentiment": {
+            "neg": 0.394,
+            "neu": 0.606,
+            "pos": 0.0,
+            "compound": -0.0772
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "This not a 10, grippy hurt cole&#39;s legacy. This 10 hurt yours, guess we just gotta move on bald man.",
+        "cleaned_comment": "grippy hurt coles legacy hurt guess got ta move bald man",
+        "sentiment": {
+            "neg": 0.43,
+            "neu": 0.57,
+            "pos": 0.0,
+            "compound": -0.7783
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.33,
+            "Sad": 0.67,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "to pimp a bratterfly",
+        "cleaned_comment": "pimp bratterfly",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Did melon just come out?",
+        "cleaned_comment": "melon come",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "All I knew about Charli XCX going into this album were the songs Boom Clap and I Love It. Literally the most basic knowledge possible. I was absolutely blown away by this album, this is by no means my genre of expertise and what I listen to is radically different, but I love this so much. I hope to get into some of her other works, but I&#39;m not sure if she topped this album.\r<br>\r<br>I know it might be random, but some parts of this album give me JPEGMAFIA vibes",
+        "cleaned_comment": "knew charli xcx going album songs boom clap love literally basic knowledge possible absolutely blown away album means genre expertise listen radically different love much hope get works im sure topped album know might random parts album give jpegmafia vibes",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.726,
+            "pos": 0.274,
+            "compound": 0.9274
+        },
+        "emotions": {
+            "Happy": 0.18,
+            "Angry": 0.09,
+            "Surprise": 0.27,
+            "Sad": 0.09,
+            "Fear": 0.36
+        }
+    },
+    {
+        "original_comment": "I&#39;m gettin&#39; frustrated seeing Brat get this level of praise that Pop 2 did not get because she had less money from the label marketing her? I believe Pop 2 should be the 10 and brat the decent 7",
+        "cleaned_comment": "im gettin frustrated seeing brat get level praise pop get less money label marketing believe pop brat decent",
+        "sentiment": {
+            "neg": 0.148,
+            "neu": 0.696,
+            "pos": 0.157,
+            "compound": 0.0516
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.33,
+            "Surprise": 0.33,
+            "Sad": 0.0,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "It’s a pride month miracle",
+        "cleaned_comment": "pride month miracle",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.139,
+            "pos": 0.861,
+            "compound": 0.7351
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "TPAB<br>BPAB<br>BPAT<br>BRAT",
+        "cleaned_comment": "tpabbpabbpatbrat",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "<a href=\"https://www.youtube.com/watch?v=bLJ-zfBmChA&amp;t=370\">6:10</a> skibidi fantano",
+        "cleaned_comment": "skibidi fantano",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "it&#39;d be a ten if it was called brat and was by charli xcx",
+        "cleaned_comment": "itd ten called brat charli xcx",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Easily the worst album cover ever to grace a Fantano 10, but otherwise yeah, no complaints.",
+        "cleaned_comment": "easily worst album cover ever grace fantano otherwise yeah complaints",
+        "sentiment": {
+            "neg": 0.354,
+            "neu": 0.26,
+            "pos": 0.385,
+            "compound": -0.1027
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.6,
+            "Fear": 0.4
+        }
+    },
+    {
+        "original_comment": "брат",
+        "cleaned_comment": "",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Wait this is massive!!!! Congrats charli!!!",
+        "cleaned_comment": "wait massive congrats charli",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.469,
+            "pos": 0.531,
+            "compound": 0.5267
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "the way im a diehard charli fan and i wouldve given this like a strong 8 at best",
+        "cleaned_comment": "way im diehard charli fan wouldve given like strong best",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.328,
+            "pos": 0.672,
+            "compound": 0.9062
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Ngl this is giving skibidi toilet vibes",
+        "cleaned_comment": "ngl giving skibidi toilet vibes",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.625,
+            "pos": 0.375,
+            "compound": 0.34
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "we are infact living in the right universe",
+        "cleaned_comment": "infact living right universe",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "🎉🎉🎉🎉🎉🎉<br>Jooooooooo <br>Wth 10/10 dammmn",
+        "cleaned_comment": "jooooooooo wth dammmn",
+        "sentiment": {
+            "neg": 0.63,
+            "neu": 0.37,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "HUGE DAY FOR GREEN FANS",
+        "cleaned_comment": "huge day green fans",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.566,
+            "pos": 0.434,
+            "compound": 0.3182
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I think she topped her debut record Pure Heroine with this one. What do we think?",
+        "cleaned_comment": "think topped debut record pure heroine one think",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.654,
+            "pos": 0.346,
+            "compound": 0.5719
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "FANTANO WHERE IS THE DILLOM ALBUM",
+        "cleaned_comment": "fantano dillom album",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "10!!!!",
+        "cleaned_comment": "",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Guys she is straight so I don’t understand what is going on with people’s minds. I’m bi and I am happy pride is here but maybe I’m missing something idk 🤷‍♂️",
+        "cleaned_comment": "guys straight dont understand going peoples minds im bi happy pride maybe im missing something idk",
+        "sentiment": {
+            "neg": 0.159,
+            "neu": 0.487,
+            "pos": 0.354,
+            "compound": 0.6597
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.25,
+            "Sad": 0.25,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Haha, a 10 it is not. Good album, yes. Up there with some of the best albums ever made 😂😂😂😂. No. Pitchfork got it right on the money. 8.",
+        "cleaned_comment": "haha good album yes best albums ever made pitchfork got right money",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.385,
+            "pos": 0.615,
+            "compound": 0.9153
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "you only give  Renaissance an 8.  no fucking way this is a 10",
+        "cleaned_comment": "give renaissance fucking way",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "We dont agree",
+        "cleaned_comment": "dont agree",
+        "sentiment": {
+            "neg": 0.678,
+            "neu": 0.322,
+            "pos": 0.0,
+            "compound": -0.2755
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "ITSSSS A TEEEEEEEEEN",
+        "cleaned_comment": "itssss teeeeeeeeen",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "I love the album tbh its the most vulnerable she’s ever been i like the you know bratty side of herself but also admitting her insecurities and thinking about her future as a woman in the industry and her personal life. She’s pumping herself yp but also others. She’s in her early 30s now seems like she is in a place in her life where she’s in between crazy party days and settling down a little bit. Much like her career. Reminiscing about the past but also knowing her brand now. I love this concept Ive loved her for 12yrs now. i love it she brought us a bit of the 2000s/early 2010 art pop club bops vibes💚Loved your commentary gained a sub!",
+        "cleaned_comment": "love album tbh vulnerable shes ever like know bratty side also admitting insecurities thinking future woman industry personal life shes pumping yp also others shes early seems like place life shes crazy party days settling little bit much like career reminiscing past also knowing brand love concept ive loved yrs love brought us bit searly art pop club bops vibesloved commentary gained sub",
+        "sentiment": {
+            "neg": 0.081,
+            "neu": 0.584,
+            "pos": 0.335,
+            "compound": 0.9726
+        },
+        "emotions": {
+            "Happy": 0.28,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.33,
+            "Fear": 0.39
+        }
+    },
+    {
+        "original_comment": "The instant regret Anthony had when he sang &quot;🎶talk talk to me🎶&quot; hahhahahaha",
+        "cleaned_comment": "instant regret anthony sang quottalk talk mequot hahhahahaha",
+        "sentiment": {
+            "neg": 0.286,
+            "neu": 0.714,
+            "pos": 0.0,
+            "compound": -0.4215
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Not like we took you seriously ever.",
+        "cleaned_comment": "like took seriously ever",
+        "sentiment": {
+            "neg": 0.274,
+            "neu": 0.323,
+            "pos": 0.403,
+            "compound": 0.2023
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Brathony Melontano",
+        "cleaned_comment": "brathony melontano",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "TORI by Tori Kelly is an underrated album",
+        "cleaned_comment": "tori tori kelly underrated album",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "If it was called To pimp a… Oh wait HE GAVE IT A 10!",
+        "cleaned_comment": "called pimp oh wait gave",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "&quot;ooh i love my wife&quot; - zero &quot;ooh i love my husband&quot; - ten I recognize you, Tony. I recognize you.",
+        "cleaned_comment": "quotooh love wifequot zero quotooh love husbandquot ten recognize tony recognize",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.517,
+            "pos": 0.483,
+            "compound": 0.8555
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Glad to see fantano finally brought to justice for his crimes against music 💯",
+        "cleaned_comment": "glad see fantano finally brought justice crimes music",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.484,
+            "pos": 0.516,
+            "compound": 0.7506
+        },
+        "emotions": {
+            "Happy": 0.2,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.4,
+            "Fear": 0.4
+        }
+    },
+    {
+        "original_comment": "anthany is a fellow green fan",
+        "cleaned_comment": "anthany fellow green fan",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.566,
+            "pos": 0.434,
+            "compound": 0.3182
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "if this was called Brat you would have given it a 10",
+        "cleaned_comment": "called brat would given",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "No fucking way",
+        "cleaned_comment": "fucking way",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "&quot;I was a shiity friend, I kinda pushed this person...&quot; ::I tense up and go white:: &quot;...away&quot; -- oh thank God 😵‍💫",
+        "cleaned_comment": "quoti shiity friend kinda pushed personquot tense go white quotawayquot oh thank god",
+        "sentiment": {
+            "neg": 0.113,
+            "neu": 0.475,
+            "pos": 0.412,
+            "compound": 0.6872
+        },
+        "emotions": {
+            "Happy": 0.2,
+            "Angry": 0.0,
+            "Surprise": 0.4,
+            "Sad": 0.0,
+            "Fear": 0.4
+        }
+    },
+    {
+        "original_comment": "The first 10 for a while",
+        "cleaned_comment": "first",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "I really liked this review but you didnt have to say the &quot;I would&#39;ve given it an 11 if it was named brap&quot; line. Really unnecessary and out of place",
+        "cleaned_comment": "really liked review didnt say quoti wouldve given named brapquot line really unnecessary place",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.808,
+            "pos": 0.192,
+            "compound": 0.4754
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "Best review, that 10 is well deserved, Charli is a fkn genius ❤",
+        "cleaned_comment": "best review well deserved charli fkn genius",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.442,
+            "pos": 0.558,
+            "compound": 0.743
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "To Pimp a BRATterfy",
+        "cleaned_comment": "pimp bratterfy",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Absolutely no way, this album was painfully mid and I say that as a Charli xcx fan. The billie album was so much better.",
+        "cleaned_comment": "absolutely way album painfully mid say charli xcx fan billie album much better",
+        "sentiment": {
+            "neg": 0.194,
+            "neu": 0.53,
+            "pos": 0.276,
+            "compound": 0.1372
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "Loser 😂😂😂😂😂",
+        "cleaned_comment": "loser",
+        "sentiment": {
+            "neg": 1.0,
+            "neu": 0.0,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "pro women except for (ma)rina",
+        "cleaned_comment": "pro women except marina",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Bro is twerking for the ABCD community.",
+        "cleaned_comment": "bro twerking abcd community",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "<a href=\"https://www.youtube.com/watch?v=bLJ-zfBmChA&amp;t=775\">12:55</a> All this yapping &amp; talking bout the production yet he didn’t once mention the sample of Kanye &amp; Ty’s Vultures being used in Everything is Romantic.",
+        "cleaned_comment": "yapping amp talking bout production yet didnt mention sample kanye amp tys vultures used everything romantic",
+        "sentiment": {
+            "neg": 0.121,
+            "neu": 0.737,
+            "pos": 0.142,
+            "compound": 0.1027
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "The pinnacle of every artist&#39;s career is a Fantano 10/10. Screw the Grammys, No. 1 etc.",
+        "cleaned_comment": "pinnacle every artists career fantano screw grammys etc",
+        "sentiment": {
+            "neg": 0.167,
+            "neu": 0.833,
+            "pos": 0.0,
+            "compound": -0.1027
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Just handing out 10s to anyone now",
+        "cleaned_comment": "handing anyone",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "b",
+        "cleaned_comment": "b",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "It is 4-5 at max. No way a 10",
+        "cleaned_comment": "max way",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "This album is not half as good as what she was doing 2017-20, I thought it had a few couple hooks but mostly completely bored with 75% of it. It is so weird to me that anyone would give it that high of a score",
+        "cleaned_comment": "album half good thought couple hooks mostly completely bored weird anyone would give high score",
+        "sentiment": {
+            "neg": 0.227,
+            "neu": 0.623,
+            "pos": 0.15,
+            "compound": -0.1208
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.25,
+            "Surprise": 0.0,
+            "Sad": 0.25,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "Should the title have been &quot;To Pimp A Brat-terfly,&quot; you would have rated it an 11.",
+        "cleaned_comment": "title quotto pimp bratterflyquot would rated",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "New thou album just dropped should review",
+        "cleaned_comment": "new thou album dropped review",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Holy shit",
+        "cleaned_comment": "holy shit",
+        "sentiment": {
+            "neg": 0.783,
+            "neu": 0.217,
+            "pos": 0.0,
+            "compound": -0.5574
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "fetch the bolt cutters a 7 but this a 10 is kinda crazy but i&#39;m not mad",
+        "cleaned_comment": "fetch bolt cutters kinda crazy im mad",
+        "sentiment": {
+            "neg": 0.502,
+            "neu": 0.498,
+            "pos": 0.0,
+            "compound": -0.6179
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.5,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "Thoughts on the bonus tracks? I loved all of them just as much as the album",
+        "cleaned_comment": "thoughts bonus tracks loved much album",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.351,
+            "pos": 0.649,
+            "compound": 0.8126
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "Will we get an aurora review",
+        "cleaned_comment": "get aurora review",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Emika - Haze",
+        "cleaned_comment": "emika haze",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "i don’t have the nerve to watch this entire video but let me say this:<br><br>i randomly gave this album a shot and listened to a few songs without knowing the artist - it was random bullshit and nothing anyone would wanna listen to again. a light 2/10 for me",
+        "cleaned_comment": "dont nerve watch entire video let say thisi randomly gave album shot listened songs without knowing artist random bullshit nothing anyone would wan na listen light",
+        "sentiment": {
+            "neg": 0.132,
+            "neu": 0.868,
+            "pos": 0.0,
+            "compound": -0.5859
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.2,
+            "Sad": 0.2,
+            "Fear": 0.6
+        }
+    },
+    {
+        "original_comment": "genuine question is melon one of the gays?? is he one of us???",
+        "cleaned_comment": "genuine question melon one gays one us",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "Heheheheheheheheheheheheheheeh the people mad in the comments heheheheheheheheheeheheheh",
+        "cleaned_comment": "heheheheheheheheheheheheheheeh people mad comments heheheheheheheheheeheheheh",
+        "sentiment": {
+            "neg": 0.444,
+            "neu": 0.556,
+            "pos": 0.0,
+            "compound": -0.4939
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 1.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "HAPPY PRIDE MONTH",
+        "cleaned_comment": "happy pride month",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.141,
+            "pos": 0.859,
+            "compound": 0.7269
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "a fucking 10 from Fantano and a 94 on Metacritic? Indeed, BRAT is that highly regarded record, huh?",
+        "cleaned_comment": "fucking fantano metacritic indeed brat highly regarded record huh",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "one of the best review by fantano",
+        "cleaned_comment": "one best review fantano",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.417,
+            "pos": 0.583,
+            "compound": 0.6369
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "giving her a 10 just because she’s a girl is kinda crazy, but i respect your opinion melon",
+        "cleaned_comment": "giving shes girl kinda crazy respect opinion melon",
+        "sentiment": {
+            "neg": 0.171,
+            "neu": 0.406,
+            "pos": 0.424,
+            "compound": 0.4792
+        },
+        "emotions": {
+            "Happy": 0.25,
+            "Angry": 0.0,
+            "Surprise": 0.25,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "everyone go stream brat please",
+        "cleaned_comment": "everyone go stream brat please",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.635,
+            "pos": 0.365,
+            "compound": 0.3182
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Hyperpop being the ‘future’ yet it hasn’t taken off",
+        "cleaned_comment": "hyperpop future yet hasnt taken",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "I LOVE YOU CHARLI",
+        "cleaned_comment": "love charli",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.192,
+            "pos": 0.808,
+            "compound": 0.6369
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "OH MY FUCKING GOD",
+        "cleaned_comment": "oh fucking god",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.455,
+            "pos": 0.545,
+            "compound": 0.3384
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "10",
+        "cleaned_comment": "",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "How much did she pay you",
+        "cleaned_comment": "much pay",
+        "sentiment": {
+            "neg": 0.583,
+            "neu": 0.417,
+            "pos": 0.0,
+            "compound": -0.1027
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "After giving 10s exclusively to men in the 10&#39;s, Fantano has so far given 10s exclusively to women in the 20&#39;s.  Progress!",
+        "cleaned_comment": "giving exclusively men fantano far given exclusively women progress",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.574,
+            "pos": 0.426,
+            "compound": 0.6369
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "DAMN.",
+        "cleaned_comment": "damn",
+        "sentiment": {
+            "neg": 1.0,
+            "neu": 0.0,
+            "pos": 0.0,
+            "compound": -0.4019
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Huge win for insufferable people everywhere",
+        "cleaned_comment": "huge win insufferable people everywhere",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.33,
+            "pos": 0.67,
+            "compound": 0.7269
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Absolutely loving the evolution and creativity of Charli XCX! 🌟 Her music just keeps getting better and better!",
+        "cleaned_comment": "absolutely loving evolution creativity charli xcx music keeps getting better better",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.353,
+            "pos": 0.647,
+            "compound": 0.9162
+        },
+        "emotions": {
+            "Happy": 0.33,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.67
+        }
+    },
+    {
+        "original_comment": "I iust watched this review and I&#39;m crying rn. Everyone else at the funeral is looking at me too",
+        "cleaned_comment": "iust watched review im crying rn everyone else funeral looking",
+        "sentiment": {
+            "neg": 0.412,
+            "neu": 0.588,
+            "pos": 0.0,
+            "compound": -0.6808
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "Glazed",
+        "cleaned_comment": "glazed",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Brat<br>Charli<br>Vroom vroom<br>How I’m feeling now <br><br>Pop 2<br>Number 1 angel",
+        "cleaned_comment": "bratcharlivroom vroomhow im feeling pop number angel",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.641,
+            "pos": 0.359,
+            "compound": 0.2023
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "Fine. I guess I’ll love it 🙄",
+        "cleaned_comment": "fine guess ill love",
+        "sentiment": {
+            "neg": 0.286,
+            "neu": 0.102,
+            "pos": 0.612,
+            "compound": 0.4939
+        },
+        "emotions": {
+            "Happy": 0.67,
+            "Angry": 0.0,
+            "Surprise": 0.33,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Happy Pride Month indeed",
+        "cleaned_comment": "happy pride month indeed",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.247,
+            "pos": 0.753,
+            "compound": 0.7269
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Can u review elseq 1-5 and NTS Sessions 1-4 from autechre pls",
+        "cleaned_comment": "u review elseq nts sessions autechre pls",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.794,
+            "pos": 0.206,
+            "compound": 0.0772
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "she wanna flex that shes the best",
+        "cleaned_comment": "wan na flex shes best",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.488,
+            "pos": 0.512,
+            "compound": 0.6369
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Because it&#39;s tpab with the letters flipped, he only gave Brat a 10.",
+        "cleaned_comment": "tpab letters flipped gave brat",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.5,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "can&#39;t wait for charli&#39;s next album to be a 7",
+        "cleaned_comment": "cant wait charlis next album",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "completely deserved. this album is sooo enjoyable",
+        "cleaned_comment": "completely deserved album sooo enjoyable",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.58,
+            "pos": 0.42,
+            "compound": 0.4404
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Love the shirt man 👕🔥",
+        "cleaned_comment": "love shirt man",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.323,
+            "pos": 0.677,
+            "compound": 0.6369
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "We get it Fantano you&#39;re a Mean Girl",
+        "cleaned_comment": "get fantano youre mean girl",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "if it was called BRAD you would&#39;ve given it a light 3",
+        "cleaned_comment": "called brad wouldve given light",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    }
+]

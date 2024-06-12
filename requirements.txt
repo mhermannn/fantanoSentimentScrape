@@ -1,0 +1,6 @@
+google-api-python-client
+youtube-transcript-api
+nltk
+text2emotion
+matplotlib
+pandas
