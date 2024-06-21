@@ -1,0 +1,1702 @@
+[
+    {
+        "original_comment": "LOLLL i love how serious you were about this but c&#39;monnn shit&#39;s so funny",
+        "cleaned_comment": "lolll love serious cmonnn shits funny",
+        "sentiment": {
+            "neg": 0.326,
+            "neu": 0.148,
+            "pos": 0.526,
+            "compound": 0.5719
+        },
+        "emotions": {
+            "Happy": 0.33,
+            "Angry": 0.0,
+            "Surprise": 0.67,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "this album is the spiritual personification of what happens when your friend asks you to pass the AUX cord.",
+        "cleaned_comment": "album spiritual personification happens friend asks pass aux cord",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.714,
+            "pos": 0.286,
+            "compound": 0.4939
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "goated album not even TPAB could make Anthony go insane",
+        "cleaned_comment": "goated album even tpab could make anthony go insane",
+        "sentiment": {
+            "neg": 0.252,
+            "neu": 0.748,
+            "pos": 0.0,
+            "compound": -0.4019
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I think melons mental health is on a decline.",
+        "cleaned_comment": "think melons mental health decline",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "if this album was called Angelic 2 The Butterfly you still would have hated it because its a bad album",
+        "cleaned_comment": "album called angelic butterfly still would hated bad album",
+        "sentiment": {
+            "neg": 0.524,
+            "neu": 0.476,
+            "pos": 0.0,
+            "compound": -0.8271
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "As a producer this album is a big source of motivation for me. Motivation to not ever make an album this horrible",
+        "cleaned_comment": "producer album big source motivation motivation ever make album horrible",
+        "sentiment": {
+            "neg": 0.229,
+            "neu": 0.458,
+            "pos": 0.314,
+            "compound": 0.0772
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.33,
+            "Fear": 0.67
+        }
+    },
+    {
+        "original_comment": "What confuses me about Corey is that he clearly wants to be respected as a music artist in his own right, yet he sounds like he is doing a bad impression of Michael Jackson in the majority is his songs. <br><br>It’s difficult for me to take him seriously when he releases an album like this which sounds and looks like it was produced by a 5-year old. The album cover alone looks like something a child would throw together in an hour using Paint.",
+        "cleaned_comment": "confuses corey clearly wants respected music artist right yet sounds like bad impression michael jackson majority songs difficult take seriously releases album like sounds looks like produced year old album cover alone looks like something child would throw together hour using paint",
+        "sentiment": {
+            "neg": 0.201,
+            "neu": 0.503,
+            "pos": 0.296,
+            "compound": 0.6908
+        },
+        "emotions": {
+            "Happy": 0.33,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.67
+        }
+    },
+    {
+        "original_comment": "man, i&#39;ve definitely heard that synth bit before, but i can&#39;t remember what don&#39;t it&#39;s from",
+        "cleaned_comment": "man ive definitely heard synth bit cant remember dont",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.748,
+            "pos": 0.252,
+            "compound": 0.4019
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "honestly it sounds like cocaine, like, i dont know how else Corey Feldman could make it. A surprising number of those tracks where there&#39;s 20 instruments laid over each other, if he just turned those individual melodies into songs they&#39;d probably be at least passable (or at least Just derivative and dull) songs, or that one EDM track that actually kinda banged until it randomly turned into a Funky Town bootleg? Or pulled the Party Rock Anthem synth track?<br><br>This sounds like something made on a coke bender surrounded by people who are paid too much to tell him no. It&#39;d also explain the absolutely bonkers genre switches, beyond what Melon said about this just being every bad idea Feldman&#39;s ever had, which is likely also true.",
+        "cleaned_comment": "honestly sounds like cocaine like dont know else corey feldman could make surprising number tracks theres instruments laid turned individual melodies songs theyd probably least passable least derivative dull songs one edm track actually kinda banged randomly turned funky town bootleg pulled party rock anthem synth trackthis sounds like something made coke bender surrounded people paid much tell itd also explain absolutely bonkers genre switches beyond melon said every bad idea feldmans ever likely also true",
+        "sentiment": {
+            "neg": 0.083,
+            "neu": 0.707,
+            "pos": 0.211,
+            "compound": 0.8689
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.3,
+            "Sad": 0.4,
+            "Fear": 0.3
+        }
+    },
+    {
+        "original_comment": "I feel like if the album had a smell it wouldn’t smell SO bad but it would smell musty",
+        "cleaned_comment": "feel like album smell wouldnt smell bad would smell musty",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.599,
+            "pos": 0.401,
+            "compound": 0.6542
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "one of my favorite things that fantano gets hung up on is the fact that the skits are trying to do both charlie&#39;s angels and batman at the same time<br>it&#39;s such an inane criticism yet against even more inane music<br>corey truly boggled this man&#39;s mind",
+        "cleaned_comment": "one favorite things fantano gets hung fact skits trying charlies angels batman timeits inane criticism yet even inane musiccorey truly boggled mans mind",
+        "sentiment": {
+            "neg": 0.101,
+            "neu": 0.694,
+            "pos": 0.205,
+            "compound": 0.4588
+        },
+        "emotions": {
+            "Happy": 0.25,
+            "Angry": 0.0,
+            "Surprise": 0.75,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "could you imagine if bowie released this instead of blackstar",
+        "cleaned_comment": "could imagine bowie released instead blackstar",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "I just can&#39;t laugh at Corey. I mean especially after knowing what Corey said about his music. He knows he doesn&#39;t have a good voice. It&#39;s just dun for him. What I find WAAAAAY MORE pathetic, are the people that will just make videos just to mk fun of Corey. Now thats pathetic and sad.    Gotta respect Corey also for not caring what idiots say. He&#39;s having fun and that&#39;s all that matters to him.  If you had gone through even some of the shit he went through as a kid....most would&#39;ve already checked out of this life long ago. <br>I just can&#39;t make fun of a person that does something cause they enjoy doing it. Especially when they know they aren&#39;t really that good. So to mk fun of a guy for being bad even after he told you its not that good......is pretty shitty and says alot about that person&#39;s character.  Its all unfortunate....",
+        "cleaned_comment": "cant laugh corey mean especially knowing corey said music knows doesnt good voice dun find waaaaay pathetic people make videos mk fun corey thats pathetic sad got ta respect corey also caring idiots say hes fun thats matters gone even shit went kidmost wouldve already checked life long ago cant make fun person something cause enjoy especially know arent really good mk fun guy bad even told goodis pretty shitty says alot persons character unfortunate",
+        "sentiment": {
+            "neg": 0.278,
+            "neu": 0.487,
+            "pos": 0.235,
+            "compound": -0.7128
+        },
+        "emotions": {
+            "Happy": 0.32,
+            "Angry": 0.05,
+            "Surprise": 0.05,
+            "Sad": 0.36,
+            "Fear": 0.23
+        }
+    },
+    {
+        "original_comment": "<a href=\"https://www.youtube.com/watch?v=L3E0kq9YkjA&amp;t=769\">12:49</a> Oscar the Grouch’s guest number during a crossover episode with Yo Gabba Gabba <br><br>That’s the vibe",
+        "cleaned_comment": "oscar grouchs guest number crossover episode yo gabba gabba thats vibe",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.885,
+            "pos": 0.115,
+            "compound": 0.0772
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.67,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "It sounds so 80s in all the wrong ways",
+        "cleaned_comment": "sounds wrong ways",
+        "sentiment": {
+            "neg": 0.608,
+            "neu": 0.392,
+            "pos": 0.0,
+            "compound": -0.4767
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "These genuinely sound like kids show musical numbers",
+        "cleaned_comment": "genuinely sound like kids show musical numbers",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.706,
+            "pos": 0.294,
+            "compound": 0.3612
+        },
+        "emotions": {
+            "Happy": 0.33,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.33,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "Why did no one tell him how awful this was during the recording of this album??!! 😂😂",
+        "cleaned_comment": "one tell awful recording album",
+        "sentiment": {
+            "neg": 0.429,
+            "neu": 0.571,
+            "pos": 0.0,
+            "compound": -0.4588
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Just jooked on Feldmans wiki to see what the &quot;Corey&#39;s angels&quot; thing was based on and HOLY SHIT WTF EW",
+        "cleaned_comment": "jooked feldmans wiki see quotcoreys angelsquot thing based holy shit wtf ew",
+        "sentiment": {
+            "neg": 0.425,
+            "neu": 0.575,
+            "pos": 0.0,
+            "compound": -0.8126
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.33,
+            "Sad": 0.67,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I didn&#39;t realize they released the Amazing Spider-Man 2 soundtrack as an album.",
+        "cleaned_comment": "didnt realize released amazing spiderman soundtrack album",
+        "sentiment": {
+            "neg": 0.339,
+            "neu": 0.661,
+            "pos": 0.0,
+            "compound": -0.4717
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "it has to be one massive troll. How could he possibly be serious? its complete noise, just absolute trash. I would be SO ashamed. the shock value keeps me coming back, so maybe that is th epoint. if you have zero talent, act like you believe you do as the only way to have any kind of relevance? its perplexing.",
+        "cleaned_comment": "one massive troll could possibly serious complete noise absolute trash would ashamed shock value keeps coming back maybe th epoint zero talent act like believe way kind relevance perplexing",
+        "sentiment": {
+            "neg": 0.175,
+            "neu": 0.549,
+            "pos": 0.277,
+            "compound": 0.6249
+        },
+        "emotions": {
+            "Happy": 0.12,
+            "Angry": 0.25,
+            "Surprise": 0.38,
+            "Sad": 0.12,
+            "Fear": 0.12
+        }
+    },
+    {
+        "original_comment": "Came here after watching The Masked Singer Season 11.",
+        "cleaned_comment": "came watching masked singer season",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I own a signed physical copy of this album. On the shelf in my bedroom with random Internet collectibles, it’s one of the showpieces. Now that you can’t listen to this album on streaming anymore, I feel like I own a small piece of the Holy Grail.",
+        "cleaned_comment": "signed physical copy album shelf bedroom random internet collectibles one showpieces cant listen album streaming anymore feel like small piece holy grail",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.894,
+            "pos": 0.106,
+            "compound": 0.3612
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "Each of his songs sounds like there&#39;s 3 people in the same room listening to three different songs at the same time.  Each of these songs are different genres and are playing at different beats/time signatures.  It sounds like a mess and it&#39;s exhausting to listen to.  I&#39;d imagine you have to have a considerable amount of molly onboard to think this noise sounds like music.",
+        "cleaned_comment": "songs sounds like theres people room listening three different songs time songs different genres playing different beatstime signatures sounds like mess exhausting listen id imagine considerable amount molly onboard think noise sounds like music",
+        "sentiment": {
+            "neg": 0.118,
+            "neu": 0.662,
+            "pos": 0.22,
+            "compound": 0.5106
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.2,
+            "Surprise": 0.4,
+            "Sad": 0.0,
+            "Fear": 0.4
+        }
+    },
+    {
+        "original_comment": "I cannot wait until we get Angelic 3 The Core",
+        "cleaned_comment": "wait get angelic core",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "<a href=\"https://www.youtube.com/watch?v=L3E0kq9YkjA&amp;t=2020\">33:40</a> sums up the whole album just🤤😨😰😖😞😭",
+        "cleaned_comment": "sums whole album",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "If JEREMY DEWITTE and STEVEN SEAGAL had a love child out of wedlock, in their 70s.. you would get corey feldman.  Checkmate",
+        "cleaned_comment": "jeremy dewitte steven seagal love child wedlock would get corey feldman checkmate",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.724,
+            "pos": 0.276,
+            "compound": 0.6369
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "just seen this after some person on another clip implored the watcher to watch...well. Funny is putting it mildly. A pretty dull day has been replaced with this comedy gold review of the worst music known to man. Thank you...got to watch again for your laugh...superb...deffo an album to send to someone you really do not like.",
+        "cleaned_comment": "seen person another clip implored watcher watchwell funny putting mildly pretty dull day replaced comedy gold review worst music known man thank yougot watch laughsuperbdeffo album send someone really like",
+        "sentiment": {
+            "neg": 0.156,
+            "neu": 0.526,
+            "pos": 0.318,
+            "compound": 0.7264
+        },
+        "emotions": {
+            "Happy": 0.22,
+            "Angry": 0.0,
+            "Surprise": 0.22,
+            "Sad": 0.33,
+            "Fear": 0.22
+        }
+    },
+    {
+        "original_comment": "I listened to this album fully yesterday and there&#39;s some stuff that Anthony should&#39;ve mentioned here. Mainly how most of the songs go into completely different directions like &quot;Break Free&quot; suddenly turns into a metal song. &quot;Mercy&quot; goes from a slow jam to a church choir song.",
+        "cleaned_comment": "listened album fully yesterday theres stuff anthony shouldve mentioned mainly songs go completely different directions like quotbreak freequot suddenly turns metal song quotmercyquot goes slow jam church choir song",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.91,
+            "pos": 0.09,
+            "compound": 0.4144
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.33,
+            "Surprise": 0.67,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Y’all bullied this man so hard he deleted all copies of this album.",
+        "cleaned_comment": "yall bullied man hard deleted copies album",
+        "sentiment": {
+            "neg": 0.524,
+            "neu": 0.476,
+            "pos": 0.0,
+            "compound": -0.6705
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 1.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "this is one of my favorite videos on youtube",
+        "cleaned_comment": "one favorite videos youtube",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.5,
+            "pos": 0.5,
+            "compound": 0.4588
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Better than tpab",
+        "cleaned_comment": "better tpab",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.256,
+            "pos": 0.744,
+            "compound": 0.4404
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "I thoroughly enjoyed this review than the entire Corey Feldman&#39;s discography and existence combined lol",
+        "cleaned_comment": "thoroughly enjoyed review entire corey feldmans discography existence combined lol",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.556,
+            "pos": 0.444,
+            "compound": 0.7501
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "It&#39;s actually the worst album ever, not just for the year. Come on, give it it&#39;s dues.",
+        "cleaned_comment": "actually worst album ever year come give dues",
+        "sentiment": {
+            "neg": 0.369,
+            "neu": 0.631,
+            "pos": 0.0,
+            "compound": -0.6249
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "I laughed, cried and nearly died listening to this album, what a rollercoaster. May god bless Corey",
+        "cleaned_comment": "laughed cried nearly died listening album rollercoaster may god bless corey",
+        "sentiment": {
+            "neg": 0.308,
+            "neu": 0.299,
+            "pos": 0.393,
+            "compound": 0.1779
+        },
+        "emotions": {
+            "Happy": 0.33,
+            "Angry": 0.0,
+            "Surprise": 0.33,
+            "Sad": 0.0,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "I come back at least every 6 months for this. One of the greatest YT videos ever.",
+        "cleaned_comment": "come back least every months one greatest yt videos ever",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.682,
+            "pos": 0.318,
+            "compound": 0.6369
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Corey is a beast bro. Original drill artist.",
+        "cleaned_comment": "corey beast bro original drill artist",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.685,
+            "pos": 0.315,
+            "compound": 0.3182
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "one of the crazy things after all these years (remember the day was uploaded) is his take on Lil Peep&#39;s Hellboy being Brokencyde quality!!! :-O",
+        "cleaned_comment": "one crazy things years remember day uploaded take lil peeps hellboy brokencyde quality",
+        "sentiment": {
+            "neg": 0.167,
+            "neu": 0.833,
+            "pos": 0.0,
+            "compound": -0.34
+        },
+        "emotions": {
+            "Happy": 0.33,
+            "Angry": 0.0,
+            "Surprise": 0.33,
+            "Sad": 0.0,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "Guy has the worst voice ever but insists on being a singer lol he just won&#39;t give this shit up",
+        "cleaned_comment": "guy worst voice ever insists singer lol wont give shit",
+        "sentiment": {
+            "neg": 0.244,
+            "neu": 0.416,
+            "pos": 0.34,
+            "compound": 0.1591
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.25,
+            "Sad": 0.25,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "I&#39;ve heard better vocals on LuLu",
+        "cleaned_comment": "ive heard better vocals lulu",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.58,
+            "pos": 0.42,
+            "compound": 0.4404
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "He knows he is awful. Since he can&#39;t   make something good his does this. ....and we are talking about it..",
+        "cleaned_comment": "knows awful since cant make something good talking",
+        "sentiment": {
+            "neg": 0.474,
+            "neu": 0.526,
+            "pos": 0.0,
+            "compound": -0.6604
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I&#39;m seeing him live in August along with Limp Bizkit and BONES..what have I signed up for? A great time 😂",
+        "cleaned_comment": "im seeing live august along limp bizkit boneswhat signed great time",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.709,
+            "pos": 0.291,
+            "compound": 0.6249
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "Corey Feldman is a long way from Super Robot Monkey Team Hyperforce Go",
+        "cleaned_comment": "corey feldman long way super robot monkey team hyperforce go",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.698,
+            "pos": 0.302,
+            "compound": 0.5994
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "😂😂😂",
+        "cleaned_comment": "",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "I watched this too many times.",
+        "cleaned_comment": "watched many times",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Fantano is what idubbbz could have been",
+        "cleaned_comment": "fantano idubbbz could",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "I don&#39;t think he listens to his own music",
+        "cleaned_comment": "dont think listens music",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "All of us from Justin David 🙋🙋🙋🙋 let&#39;s gather here",
+        "cleaned_comment": "us justin david lets gather",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "<a href=\"https://www.youtube.com/watch?v=L3E0kq9YkjA&amp;t=2134\">35:34</a>",
+        "cleaned_comment": "",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "&quot;Play it again, Sam! Wow, that Jazz certainly does swing!&quot; 😂😂😂😂💀💀💀💀",
+        "cleaned_comment": "quotplay sam wow jazz certainly swingquot",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.392,
+            "pos": 0.608,
+            "compound": 0.7351
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "<a href=\"https://www.youtube.com/watch?v=L3E0kq9YkjA&amp;t=2345\">39:05</a> nooo Cory, don&#39;t sample my favorite 80s movie, lostboys doesn&#39;t deserve that.",
+        "cleaned_comment": "nooo cory dont sample favorite movie lostboys doesnt deserve",
+        "sentiment": {
+            "neg": 0.237,
+            "neu": 0.763,
+            "pos": 0.0,
+            "compound": -0.357
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "This is an excellent companion piece to the Bonfire takedowns of Feldog and this album",
+        "cleaned_comment": "excellent companion piece bonfire takedowns feldog album",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.619,
+            "pos": 0.381,
+            "compound": 0.5719
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Does he really think this is good music. It sucks.",
+        "cleaned_comment": "really think good music sucks",
+        "sentiment": {
+            "neg": 0.288,
+            "neu": 0.346,
+            "pos": 0.366,
+            "compound": 0.1725
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Ascension Millennium is Corey&#39;s answer to Temporary Secretary by Paul McCartney - in all the best ways",
+        "cleaned_comment": "ascension millennium coreys answer temporary secretary paul mccartney best ways",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.682,
+            "pos": 0.318,
+            "compound": 0.6369
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "I’m back 😄😄",
+        "cleaned_comment": "im back",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "i know if i heard this when i was 12 in my scene phase, i would&#39;ve said &quot;aw yeah, better than that justin beiber crap!&quot;",
+        "cleaned_comment": "know heard scene phase wouldve said quotaw yeah better justin beiber crapquot",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.662,
+            "pos": 0.338,
+            "compound": 0.6249
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Before Hardy’s the mockingbird and the crow, there was Corey Feldman’s angelic to the core. Respect your elders kids",
+        "cleaned_comment": "hardys mockingbird crow corey feldmans angelic core respect elders kids",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.744,
+            "pos": 0.256,
+            "compound": 0.4767
+        },
+        "emotions": {
+            "Happy": 0.67,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "Track 2 tried to rip off that beat in the old six flags commercials with old dude dancing hahaha.....and the rest of this masterpiece sounds like he used a bunch of jackie Moon&#39;s left over beats from the  &quot;Love Me Sexy&quot; sessions that didn&#39;t make the cut......which is nice. Not to mention,  Jackie Moon was actually in the studio with Corey throughout the entirety of the recording of the smash hit &quot; Angelic to the Core&quot;",
+        "cleaned_comment": "track tried rip beat old six flags commercials old dude dancing hahahaand rest masterpiece sounds like used bunch jackie moons left beats quotlove sexyquot sessions didnt make cutwhich nice mention jackie moon actually studio corey throughout entirety recording smash hit quot angelic corequot",
+        "sentiment": {
+            "neg": 0.048,
+            "neu": 0.817,
+            "pos": 0.135,
+            "compound": 0.6449
+        },
+        "emotions": {
+            "Happy": 0.14,
+            "Angry": 0.14,
+            "Surprise": 0.43,
+            "Sad": 0.14,
+            "Fear": 0.14
+        }
+    },
+    {
+        "original_comment": "You can&#39;t even buy this album anymore :(",
+        "cleaned_comment": "cant even buy album anymore",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "<a href=\"https://www.youtube.com/watch?v=L3E0kq9YkjA&amp;t=562\">9:22</a> like Guilty Eyes Fever or some shizz",
+        "cleaned_comment": "like guilty eyes fever shizz",
+        "sentiment": {
+            "neg": 0.337,
+            "neu": 0.361,
+            "pos": 0.301,
+            "compound": -0.0772
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I like die antword",
+        "cleaned_comment": "like die antword",
+        "sentiment": {
+            "neg": 0.527,
+            "neu": 0.135,
+            "pos": 0.338,
+            "compound": -0.34
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "It has to be performance art. It&#39;s so bad that I think the actual musicians that are doing guest spots on the album would otherwise sound ok themselves.  They all sound so bad I&#39;m thinking that they must be doing it on purpose. As a spoof album it&#39;s actually succeeding.  That&#39;s the only way my brain can make sense of it. It&#39;s impossible that no one around him during the production of this album would say &quot;hey dude.... this is revolting music.",
+        "cleaned_comment": "performance art bad think actual musicians guest spots album would otherwise sound ok sound bad im thinking must purpose spoof album actually succeeding thats way brain make sense impossible one around production album would say quothey dude revolting music",
+        "sentiment": {
+            "neg": 0.148,
+            "neu": 0.738,
+            "pos": 0.114,
+            "compound": -0.3818
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "Hey if yyou  marry my neice please send me an invite or at least lemme know shes a sweetie",
+        "cleaned_comment": "hey yyou marry neice please send invite least lem know shes sweetie",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.559,
+            "pos": 0.441,
+            "compound": 0.7269
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.33,
+            "Sad": 0.0,
+            "Fear": 0.67
+        }
+    },
+    {
+        "original_comment": "Completely wiped from streaming, piracy is the only way now LMAO",
+        "cleaned_comment": "completely wiped streaming piracy way lmao",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.562,
+            "pos": 0.438,
+            "compound": 0.5994
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Space Pants.",
+        "cleaned_comment": "space pants",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "<a href=\"https://www.youtube.com/watch?v=L3E0kq9YkjA&amp;t=2047\">34:07</a> my favorite thing about this whole video is that it was uploaded in Late September. That had to be deliberate, right?",
+        "cleaned_comment": "favorite thing whole video uploaded late september deliberate right",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.727,
+            "pos": 0.273,
+            "compound": 0.4588
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Nice wonderbra sister",
+        "cleaned_comment": "nice wonderbra sister",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.417,
+            "pos": 0.583,
+            "compound": 0.4215
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "this album is what people who hate trout mask replica hear when they listen to trout mask replica",
+        "cleaned_comment": "album people hate trout mask replica hear listen trout mask replica",
+        "sentiment": {
+            "neg": 0.27,
+            "neu": 0.73,
+            "pos": 0.0,
+            "compound": -0.5719
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "😮...... 😂😂😂😂😂😂the song at <a href=\"https://www.youtube.com/watch?v=L3E0kq9YkjA&amp;t=831\">13:51</a> sounds literally like when my daughter was little and got ahonld of my cell phone into the settings and just randomly pressed on the different ringtones letting each one play for 1 second then the next over and over again with no dead space in between 😂😂😂",
+        "cleaned_comment": "song sounds literally like daughter little got ahonld cell phone settings randomly pressed different ringtones letting one play second next dead space",
+        "sentiment": {
+            "neg": 0.152,
+            "neu": 0.674,
+            "pos": 0.174,
+            "compound": -0.1027
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.33,
+            "Fear": 0.67
+        }
+    },
+    {
+        "original_comment": "Remember that episode of the original Star Trek series where the Enterprise passed through a time warp and various random 3 second snippets of moments in time were experienced?<br>Now imagine you, the cast and crew, director, cameraman and everyone involved was on HEAVY concentrates of LSD and mushrooms while simultaneously EVERY childhood garage band ever assembled plays their very best original tunes....in reverse.<br>Now image Corey Feldman on vocals.<br>Yuuup....thats Angelic to the Core.",
+        "cleaned_comment": "remember episode original star trek series enterprise passed time warp various random second snippets moments time experiencednow imagine cast crew director cameraman everyone involved heavy concentrates lsd mushrooms simultaneously every childhood garage band ever assembled plays best original tunesin reversenow image corey feldman vocalsyuuupthats angelic core",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.795,
+            "pos": 0.205,
+            "compound": 0.8689
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.18,
+            "Sad": 0.18,
+            "Fear": 0.64
+        }
+    },
+    {
+        "original_comment": "LOOK at the guy.<br>Did you expect his EARS to be any better?",
+        "cleaned_comment": "look guydid expect ears better",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.58,
+            "pos": 0.42,
+            "compound": 0.4404
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Aaaaaahhhh.....the soothing sound of.....FELDMAN???<br>Not since Gilbert Gottfried has there been anything like it.",
+        "cleaned_comment": "aaaaaahhhhthe soothing sound offeldmannot since gilbert gottfried anything like",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.593,
+            "pos": 0.407,
+            "compound": 0.5859
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "This album is not on Spotify or YouTube how do I listen lol",
+        "cleaned_comment": "album spotify youtube listen lol",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.588,
+            "pos": 0.412,
+            "compound": 0.4215
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "This is the auditory version of when you go the wrong direction in Mario Kart",
+        "cleaned_comment": "auditory version go wrong direction mario kart",
+        "sentiment": {
+            "neg": 0.341,
+            "neu": 0.659,
+            "pos": 0.0,
+            "compound": -0.4767
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "This begs the question : could joe jackson turn corey feldman into michael jackson?",
+        "cleaned_comment": "begs question could joe jackson turn corey feldman michael jackson",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.33,
+            "Sad": 0.33,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "This is the only way to listen to the album now 😢",
+        "cleaned_comment": "way listen album",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Coming all the way back. Sad news today.",
+        "cleaned_comment": "coming way back sad news today",
+        "sentiment": {
+            "neg": 0.383,
+            "neu": 0.617,
+            "pos": 0.0,
+            "compound": -0.4767
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I genuinely had no idea that music could be this bad.  I struggle to imagine what kind of mental illness created this.",
+        "cleaned_comment": "genuinely idea music could bad struggle imagine kind mental illness created",
+        "sentiment": {
+            "neg": 0.427,
+            "neu": 0.302,
+            "pos": 0.271,
+            "compound": -0.4767
+        },
+        "emotions": {
+            "Happy": 0.33,
+            "Angry": 0.0,
+            "Surprise": 0.33,
+            "Sad": 0.33,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "So sad we can’t stream this album anymore. Never take life for granted guys, you never know what you have till its gone 😢",
+        "cleaned_comment": "sad cant stream album anymore never take life granted guys never know till gone",
+        "sentiment": {
+            "neg": 0.287,
+            "neu": 0.713,
+            "pos": 0.0,
+            "compound": -0.5913
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "I&#39;m here because now this is one of the only ways to hear this album.<br>RIP.",
+        "cleaned_comment": "im one ways hear albumrip",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "This album (along with most of Corey Feldman’s other material) was just removed from streaming services. So now Anthony’s review will be the only proof that this existed.",
+        "cleaned_comment": "album along corey feldmans material removed streaming services anthonys review proof existed",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "Fantano&#39;s worst take honestly.",
+        "cleaned_comment": "fantanos worst take honestly",
+        "sentiment": {
+            "neg": 0.451,
+            "neu": 0.22,
+            "pos": 0.33,
+            "compound": -0.2732
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "If Michael Jackson and Marylin Manson had a crack baby .",
+        "cleaned_comment": "michael jackson marylin manson crack baby",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Seamless sounds like something the muppets would sing.",
+        "cleaned_comment": "seamless sounds like something muppets would sing",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.706,
+            "pos": 0.294,
+            "compound": 0.3612
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "It is February 2024. I came back to this video today after being aware of this phenomenon of a record (thx to melon) with historic news. I just walked in on my friends roommate who was just studying and WAS LISTENING TO ANGELIC 2 THE CORE UNIRONICALLY. He likes it, hes a fan, and he was vibing to it. I was to awestruck and frankly afraid to confront him and backed out. This HAPPENED seriously. Its actually affecting me but at least my friend is thinking about moving out of there now. Wtf man",
+        "cleaned_comment": "february came back video today aware phenomenon record thx melon historic news walked friends roommate studying listening angelic core unironically likes hes fan vibing awestruck frankly afraid confront backed happened seriously actually affecting least friend thinking moving wtf man",
+        "sentiment": {
+            "neg": 0.19,
+            "neu": 0.581,
+            "pos": 0.229,
+            "compound": 0.2434
+        },
+        "emotions": {
+            "Happy": 0.22,
+            "Angry": 0.0,
+            "Surprise": 0.11,
+            "Sad": 0.56,
+            "Fear": 0.11
+        }
+    },
+    {
+        "original_comment": "More like AWFUL TO THE CORE!!!",
+        "cleaned_comment": "like awful core",
+        "sentiment": {
+            "neg": 0.462,
+            "neu": 0.154,
+            "pos": 0.385,
+            "compound": -0.128
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "i think this video contains every facial expression anthony fantano is capable of making. I&#39;ve seen every single one of his teeth now",
+        "cleaned_comment": "think video contains every facial expression anthony fantano capable making ive seen every single one teeth",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.852,
+            "pos": 0.148,
+            "compound": 0.3818
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.25,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.25
+        }
+    },
+    {
+        "original_comment": "Albums like this legit creep the hell out of me, and I spend my time listening to a whole damn lot of bad creepy music. Honestly this is disturbing. I&#39;m laughing nervously",
+        "cleaned_comment": "albums like legit creep hell spend time listening whole damn lot bad creepy music honestly disturbing im laughing nervously",
+        "sentiment": {
+            "neg": 0.444,
+            "neu": 0.311,
+            "pos": 0.246,
+            "compound": -0.7906
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "that moment at <a href=\"https://www.youtube.com/watch?v=L3E0kq9YkjA&amp;t=2401\">40:01</a> is my favourite &quot;accidentally experimental&quot; moment. just pure intense dissonance, i can almost unironically enjoy that moment",
+        "cleaned_comment": "moment favourite quotaccidentally experimentalquot moment pure intense dissonance almost unironically enjoy moment",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.703,
+            "pos": 0.297,
+            "compound": 0.4976
+        },
+        "emotions": {
+            "Happy": 0.4,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.6
+        }
+    },
+    {
+        "original_comment": "He needs steven Segall to lay down some killer blues licks...",
+        "cleaned_comment": "needs steven segall lay killer blues licks",
+        "sentiment": {
+            "neg": 0.417,
+            "neu": 0.583,
+            "pos": 0.0,
+            "compound": -0.6486
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "kid: i want michael jackson!<br><br>mum: we have muchael jackson at home<br><br>*michael jackson at home.",
+        "cleaned_comment": "kid want michael jacksonmum muchael jackson homemichael jackson home",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.86,
+            "pos": 0.14,
+            "compound": 0.0772
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Corey Feldman actually said, on video, that he was <b>exactly</b> like Michael Jackson in every way.<br>This album is a hot-mess tragedy. How many music styles can he mix in one song?<br>Corey, I beg of you -pick a key, any key. Pick a note, ANY note that is not ridiculously high or flat. Or…find a note period. Omg.",
+        "cleaned_comment": "corey feldman actually said video exactly like michael jackson every waythis album hotmess tragedy many music styles mix one songcorey beg pick key key pick note note ridiculously high flat orfind note period omg",
+        "sentiment": {
+            "neg": 0.169,
+            "neu": 0.769,
+            "pos": 0.062,
+            "compound": -0.6486
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.29,
+            "Sad": 0.57,
+            "Fear": 0.14
+        }
+    },
+    {
+        "original_comment": "This literally sounds like he tried to replicate plastic beach without any of the charisma and musical talent that gorillas has😭",
+        "cleaned_comment": "literally sounds like tried replicate plastic beach without charisma musical talent gorillas",
+        "sentiment": {
+            "neg": 0.157,
+            "neu": 0.674,
+            "pos": 0.169,
+            "compound": 0.0433
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "This is syphilis",
+        "cleaned_comment": "syphilis",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "This album sounds like my wifes tiktok shit when im trying to fall asleep.",
+        "cleaned_comment": "album sounds like wifes tiktok shit im trying fall asleep",
+        "sentiment": {
+            "neg": 0.255,
+            "neu": 0.567,
+            "pos": 0.177,
+            "compound": -0.2732
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.5,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "No one can recreate Michael Jackson.",
+        "cleaned_comment": "one recreate michael jackson",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Oh how I&#39;ve missed this video. Now it&#39;s going to be my obsession again for the next few weeks",
+        "cleaned_comment": "oh ive missed video going obsession next weeks",
+        "sentiment": {
+            "neg": 0.434,
+            "neu": 0.566,
+            "pos": 0.0,
+            "compound": -0.5574
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I played &quot;Duh&quot; in my care and had 200 dogs chase me down the street.",
+        "cleaned_comment": "played quotduhquot care dogs chase street",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.417,
+            "pos": 0.583,
+            "compound": 0.6808
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "[NOT GOOD]",
+        "cleaned_comment": "good",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 1.0,
+            "compound": 0.4404
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Horrible doesn&#39;t even cover this and the fact is if he was serious he could afford vocal training and retain a vocal coach he could have a real producer actually engineer his tracks and after 30 years of him trying he still doesn&#39;t do any of it sad really",
+        "cleaned_comment": "horrible doesnt even cover fact serious could afford vocal training retain vocal coach could real producer actually engineer tracks years trying still doesnt sad really",
+        "sentiment": {
+            "neg": 0.164,
+            "neu": 0.749,
+            "pos": 0.087,
+            "compound": -0.3063
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.29,
+            "Fear": 0.71
+        }
+    },
+    {
+        "original_comment": "I mean seriously????  It is a &quot;bit&quot; my man. It&#39;s a parody.......kinda like spinal tap remember?  He is literally on tour with various artists. He is very aware of the fact that he is neither a musician or singer. He can&#39;t get jobs doing his craft in Hollywood so he got creative and reinvented himself and got a publicist and started touring around. He doesn&#39;t get a lot of gigs on his own bill but has been touring and opening up with larger headliners and hence playing to a larger crowd. But I guess if you&#39;re not in the know.....I can see how crazy this would seem!  Lol. Sorry ya did a whole post without being hip to what he&#39;s actually doing. He&quot;s gotta make a living, ya know. I think you should do another post, if not, to redeem yourself, maybe a little promotion to encourage people to go to his show. Cuz he isn&#39;t going to do it. It is the &quot;schtick&quot;  Ooooh, unless that is....he paid you to do a bad review on him and cut him down to further add to the authenticity!  If that&#39;s the case.....hilarious!",
+        "cleaned_comment": "mean seriously quotbitquot man parodykinda like spinal tap remember literally tour various artists aware fact neither musician singer cant get jobs craft hollywood got creative reinvented got publicist started touring around doesnt get lot gigs bill touring opening larger headliners hence playing larger crowd guess youre knowi see crazy would seem lol sorry ya whole post without hip hes actually hequots got ta make living ya know think another post redeem maybe little promotion encourage people go show cuz isnt going quotschtickquot ooooh unless ishe paid bad review cut add authenticity thats casehilarious",
+        "sentiment": {
+            "neg": 0.103,
+            "neu": 0.776,
+            "pos": 0.122,
+            "compound": 0.4627
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.09,
+            "Surprise": 0.09,
+            "Sad": 0.45,
+            "Fear": 0.36
+        }
+    }
+]

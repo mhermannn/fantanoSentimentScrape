@@ -1,0 +1,1702 @@
+[
+    {
+        "original_comment": "im not gonna lie this is a 10/10 perfect album for me. has some of the best songs ive personally ever heard in my life, and in the case of Unfold, perhaps the best song i’ve ever heard. if anything deserves a 10, it’s nurture.",
+        "cleaned_comment": "im gon na lie perfect album best songs ive personally ever heard life case unfold perhaps best song ive ever heard anything deserves nurture",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.58,
+            "pos": 0.42,
+            "compound": 0.9382
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "“This feels like what living in animal crossing must be like” best way to describe nurture",
+        "cleaned_comment": "feels like living animal crossing must like best way describe nurture",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.376,
+            "pos": 0.624,
+            "compound": 0.891
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 1.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "this album is a 10 but its okay we all make mistakes fantano",
+        "cleaned_comment": "album okay make mistakes fantano",
+        "sentiment": {
+            "neg": 0.338,
+            "neu": 0.405,
+            "pos": 0.257,
+            "compound": -0.1531
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "It&#39;s my favourite album of all time - and i&#39;m not a huge EDM fan, but something about this album - just hits spots i never knew needing hitting",
+        "cleaned_comment": "favourite album time im huge edm fan something album hits spots never knew needing hitting",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.739,
+            "pos": 0.261,
+            "compound": 0.5574
+        },
+        "emotions": {
+            "Happy": 0.25,
+            "Angry": 0.5,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.25
+        }
+    },
+    {
+        "original_comment": "I’m aware he’s not gonna see this but I just think dullscythe is an incredible track to follow mother about the disarray when moving out and finding stability in that",
+        "cleaned_comment": "im aware hes gon na see think dullscythe incredible track follow mother disarray moving finding stability",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.25,
+            "Sad": 0.5,
+            "Fear": 0.25
+        }
+    },
+    {
+        "original_comment": "No way he calls nurture the “discovery of this generation” and still only gives it an 8",
+        "cleaned_comment": "way calls nurture discovery generation still gives",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.714,
+            "pos": 0.286,
+            "compound": 0.34
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Most 9 sounding 8 i’ve ever seen",
+        "cleaned_comment": "sounding ive ever seen",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "This has become my favorite album of all time",
+        "cleaned_comment": "become favorite album time",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.5,
+            "pos": 0.5,
+            "compound": 0.4588
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I wonder if Porter knew the influence this man had on EDM, hyperpop and even stuff like glitchcore, glitchbreak just from this ONE ALBUM",
+        "cleaned_comment": "wonder porter knew influence man edm hyperpop even stuff like glitchcore glitchbreak one album",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.839,
+            "pos": 0.161,
+            "compound": 0.3612
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.5,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "It&#39;s been two years already since this released. My god",
+        "cleaned_comment": "two years already since released god",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.704,
+            "pos": 0.296,
+            "compound": 0.2732
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "All the real ones love dullsythe",
+        "cleaned_comment": "real ones love dullsythe",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.417,
+            "pos": 0.583,
+            "compound": 0.6369
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "You know you&#39;ve achieved your magnum opus when Fantano rates your album above 5",
+        "cleaned_comment": "know youve achieved magnum opus fantano rates album",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "“Nurture is the Discovery of this generation” is all the proof I need to assume that he either secretly thinks both albums are a 10, or he thinks that our generation is worse than his.",
+        "cleaned_comment": "nurture discovery generation proof need assume either secretly thinks albums thinks generation worse",
+        "sentiment": {
+            "neg": 0.188,
+            "neu": 0.667,
+            "pos": 0.145,
+            "compound": -0.1779
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.25,
+            "Fear": 0.25
+        }
+    },
+    {
+        "original_comment": "Dullscythe is a bit of an oddball, but I don’t really see it as poorly paced or incoherent at all. To me it sounds like a song being written in real time.",
+        "cleaned_comment": "dullscythe bit oddball dont really see poorly paced incoherent sounds like song written real time",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.848,
+            "pos": 0.152,
+            "compound": 0.3612
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "The piano piece on wind tempos and blossom is some of the best music I’ve heard in a minute.",
+        "cleaned_comment": "piano piece wind tempos blossom best music ive heard minute",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.682,
+            "pos": 0.318,
+            "compound": 0.6369
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Worlds to me is still his best album. Peak EDM.<br><br>For this one, Nurture, I actually expected it to be scored 7 since some parts of it felt repetitive. 8 is a really good review that I wouldn&#39;t complain with.",
+        "cleaned_comment": "worlds still best album peak edmfor one nurture actually expected scored since parts felt repetitive really good review wouldnt complain",
+        "sentiment": {
+            "neg": 0.069,
+            "neu": 0.519,
+            "pos": 0.412,
+            "compound": 0.8721
+        },
+        "emotions": {
+            "Happy": 0.25,
+            "Angry": 0.25,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "The beginning of wind tempos reminded me a lot of All My Friends lol",
+        "cleaned_comment": "beginning wind tempos reminded lot friends lol",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.459,
+            "pos": 0.541,
+            "compound": 0.7096
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "9/10 one of the best, most impactful edm records I&#39;ve heard",
+        "cleaned_comment": "one best impactful edm records ive heard",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.588,
+            "pos": 0.412,
+            "compound": 0.6369
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "When I have found his music and started listening to his album sometime earlier this year it was such a different type of music and it completely changed my life and the way I view music. The music has also made me become more one with nature because of that laying in a grassy field feeling that the album gives you. I do agree there are some songs that don&#39;t make sense but other than that it&#39;s a beautifully written and composed album.",
+        "cleaned_comment": "found music started listening album sometime earlier year different type music completely changed life way view music music also made become one nature laying grassy field feeling album gives agree songs dont make sense beautifully written composed album",
+        "sentiment": {
+            "neg": 0.071,
+            "neu": 0.833,
+            "pos": 0.095,
+            "compound": 0.0005
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.43,
+            "Fear": 0.57
+        }
+    },
+    {
+        "original_comment": "Discovery is now a 10 for him. Which only makes this praise even more amazing",
+        "cleaned_comment": "discovery makes praise even amazing",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.288,
+            "pos": 0.712,
+            "compound": 0.8126
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Porter gets a 9 and thundercat gets 6. This is why needledrop will go down as the absolute worst reviewer in the game.",
+        "cleaned_comment": "porter gets thundercat gets needledrop go absolute worst reviewer game",
+        "sentiment": {
+            "neg": 0.313,
+            "neu": 0.687,
+            "pos": 0.0,
+            "compound": -0.6249
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "FT better",
+        "cleaned_comment": "ft better",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.256,
+            "pos": 0.744,
+            "compound": 0.4404
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Look at the sky I&#39;m still here I&#39;ll be alive next💚",
+        "cleaned_comment": "look sky im still ill alive next",
+        "sentiment": {
+            "neg": 0.269,
+            "neu": 0.481,
+            "pos": 0.25,
+            "compound": -0.0516
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "This album is just beautiful, i didnt know Poter so i wasn&#39;t expecting the electronic sound at all when i listen to it, from the art cover i was expecting something more acoustic, so it completely blew me away, i can&#39;t belive such concepts could be mixed and coincided so well thogether, the statement: &#39;&#39;AI meats nature&#39;&#39; is 100% accurate when describing this album, beautiful.",
+        "cleaned_comment": "album beautiful didnt know poter wasnt expecting electronic sound listen art cover expecting something acoustic completely blew away cant belive concepts could mixed coincided well thogether statement ai meats nature accurate describing album beautiful",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.758,
+            "pos": 0.242,
+            "compound": 0.872
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.12,
+            "Surprise": 0.12,
+            "Sad": 0.0,
+            "Fear": 0.25
+        }
+    },
+    {
+        "original_comment": "Timestamps:<br>Background: <a href=\"https://www.youtube.com/watch?v=NKtqB-SFIaw\">0:00</a><br>Lifelike: (not present)<br>Look At the Sky: <a href=\"https://www.youtube.com/watch?v=NKtqB-SFIaw&amp;t=170\">2:50</a><br>Get Your Wish: <a href=\"https://www.youtube.com/watch?v=NKtqB-SFIaw&amp;t=219\">3:39</a><br>Wind Tempos: <a href=\"https://www.youtube.com/watch?v=NKtqB-SFIaw&amp;t=253\">4:13</a><br>Musician: <a href=\"https://www.youtube.com/watch?v=NKtqB-SFIaw&amp;t=297\">4:57</a><br>Do-re-mi-fa-so-la-ti-do: <a href=\"https://www.youtube.com/watch?v=NKtqB-SFIaw&amp;t=312\">5:12</a><br>Mother: <a href=\"https://www.youtube.com/watch?v=NKtqB-SFIaw&amp;t=333\">5:33</a><br>Dullscythe: <a href=\"https://www.youtube.com/watch?v=NKtqB-SFIaw&amp;t=344\">5:44</a><br>Sweet Time: <a href=\"https://www.youtube.com/watch?v=NKtqB-SFIaw&amp;t=371\">6:11</a><br>Mirror: (not present)<br>Something Comforting: <a href=\"https://www.youtube.com/watch?v=NKtqB-SFIaw&amp;t=384\">6:24</a><br>Blossom: <a href=\"https://www.youtube.com/watch?v=NKtqB-SFIaw&amp;t=389\">6:29</a><br>Unfold: <a href=\"https://www.youtube.com/watch?v=NKtqB-SFIaw&amp;t=392\">6:32</a><br>Trying to Feel Alive: <a href=\"https://www.youtube.com/watch?v=NKtqB-SFIaw&amp;t=402\">6:42</a><br><br>Final Thoughts: <a href=\"https://www.youtube.com/watch?v=NKtqB-SFIaw&amp;t=406\">6:46</a><br>Score: <a href=\"https://www.youtube.com/watch?v=NKtqB-SFIaw&amp;t=520\">8:40</a><br>Tran: <a href=\"https://www.youtube.com/watch?v=NKtqB-SFIaw&amp;t=524\">8:44</a>",
+        "cleaned_comment": "timestampsbackground lifelike presentlook sky get wish wind tempos musician doremifasolatido mother dullscythe sweet time mirror presentsomething comforting blossom unfold trying feel alive final thoughts score tran",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.667,
+            "pos": 0.333,
+            "compound": 0.875
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.25,
+            "Surprise": 0.0,
+            "Sad": 0.25,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "Nurture has changed my life. Makes me cry every time",
+        "cleaned_comment": "nurture changed life makes cry every time",
+        "sentiment": {
+            "neg": 0.295,
+            "neu": 0.476,
+            "pos": 0.229,
+            "compound": -0.1779
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "This album has been my self care for the last 6 months. Been to see Porter&#39;s live show featuring Nurture twice now since April, and its an absolutely positive, feel good, sensation. So grateful to have been re-discovering his music at this time and to be there for the live performances.",
+        "cleaned_comment": "album self care last months see porters live show featuring nurture twice since april absolutely positive feel good sensation grateful rediscovering music time live performances",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.561,
+            "pos": 0.439,
+            "compound": 0.9399
+        },
+        "emotions": {
+            "Happy": 0.33,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.67
+        }
+    },
+    {
+        "original_comment": "This album sounds like frolicking through a grass filled valley in heaven",
+        "cleaned_comment": "album sounds like frolicking grass filled valley heaven",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.508,
+            "pos": 0.492,
+            "compound": 0.7003
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.33,
+            "Sad": 0.0,
+            "Fear": 0.67
+        }
+    },
+    {
+        "original_comment": "Completely agree. I literally have zero criticisms about your criticisms.",
+        "cleaned_comment": "completely agree literally zero criticisms criticisms",
+        "sentiment": {
+            "neg": 0.396,
+            "neu": 0.313,
+            "pos": 0.291,
+            "compound": -0.0018
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Burn in hell forever",
+        "cleaned_comment": "burn hell forever",
+        "sentiment": {
+            "neg": 0.697,
+            "neu": 0.303,
+            "pos": 0.0,
+            "compound": -0.6808
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "This video is part of nurture live now",
+        "cleaned_comment": "video part nurture live",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.556,
+            "pos": 0.444,
+            "compound": 0.34
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Just came back from his nurture live show, was absolutely amazing!",
+        "cleaned_comment": "came back nurture live show absolutely amazing",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.435,
+            "pos": 0.565,
+            "compound": 0.7574
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": ":",
+        "cleaned_comment": "",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "i dont really agree that it has themes rooted in escapism like worlds. worlds was very much making songs out of stories, while the narrative of nurture is focused on porter himself/the struggles hes faced. its one of the reasons i like it so much, its more honest, and the sounds really reflect that. on a different note i wouldnt call nurture feel good and/or blissful. its not really sad either, but i just wouldnt really call it happy.",
+        "cleaned_comment": "dont really agree themes rooted escapism like worlds worlds much making songs stories narrative nurture focused porter himselfthe struggles hes faced one reasons like much honest sounds really reflect different note wouldnt call nurture feel good andor blissful really sad either wouldnt really call happy",
+        "sentiment": {
+            "neg": 0.171,
+            "neu": 0.493,
+            "pos": 0.336,
+            "compound": 0.8772
+        },
+        "emotions": {
+            "Happy": 0.29,
+            "Angry": 0.14,
+            "Surprise": 0.0,
+            "Sad": 0.43,
+            "Fear": 0.14
+        }
+    },
+    {
+        "original_comment": "What&#39;s the album in the background?",
+        "cleaned_comment": "whats album background",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "My god what a jewel, what a masterpiece. To think it got a strong 8 makes me wonder what a strong 9 would be for this guy...",
+        "cleaned_comment": "god jewel masterpiece think got strong makes wonder strong would guy",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.282,
+            "pos": 0.718,
+            "compound": 0.936
+        },
+        "emotions": {
+            "Happy": 0.33,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.17,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "as someone who has discovery in their top 3 albums of all time, i just need to check this out now after that comparison.",
+        "cleaned_comment": "someone discovery top albums time need check comparison",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.795,
+            "pos": 0.205,
+            "compound": 0.2023
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "watched this to hear his opinion on mirror and he didn’t even mention it lmao",
+        "cleaned_comment": "watched hear opinion mirror didnt even mention lmao",
+        "sentiment": {
+            "neg": 0.31,
+            "neu": 0.69,
+            "pos": 0.0,
+            "compound": -0.4847
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "recently of his album list of 2021 he really gave this album on top of the Top 10s<br><br>this album absolutely grew onto him and it&#39;s easily the best album of the year for sure<br><br>( it really feels like it&#39;s now a 9/10 lol )",
+        "cleaned_comment": "recently album list really gave album top top sthis album absolutely grew onto easily best album year sure really feels like lol",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.439,
+            "pos": 0.561,
+            "compound": 0.9526
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.4,
+            "Sad": 0.0,
+            "Fear": 0.6
+        }
+    },
+    {
+        "original_comment": "I disagree with many points made in this review. However, you are very attractive and hot. Every time I see your bald head I get shi",
+        "cleaned_comment": "disagree many points made review however attractive hot every time see bald head get shi",
+        "sentiment": {
+            "neg": 0.141,
+            "neu": 0.703,
+            "pos": 0.157,
+            "compound": 0.0772
+        },
+        "emotions": {
+            "Happy": 0.17,
+            "Angry": 0.0,
+            "Surprise": 0.17,
+            "Sad": 0.33,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "dude ur entire purpose is parasitic. it’s sad that the society bothers w music reviews. same society that used to take joy in public executions so no news there. u just feeding the beast. porter is as pure and beautiful as they come. wish he didn’t give this rake legitimacy by appearing",
+        "cleaned_comment": "dude ur entire purpose parasitic sad society bothers w music reviews society used take joy public executions news u feeding beast porter pure beautiful come wish didnt give rake legitimacy appearing",
+        "sentiment": {
+            "neg": 0.125,
+            "neu": 0.611,
+            "pos": 0.265,
+            "compound": 0.7579
+        },
+        "emotions": {
+            "Happy": 0.2,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.4,
+            "Fear": 0.4
+        }
+    },
+    {
+        "original_comment": "This generations &quot;Discovery&quot; is not Nurture in our opinion. Its Charmed by DJ Sabrina The Teenage DJ.",
+        "cleaned_comment": "generations quotdiscoveryquot nurture opinion charmed dj sabrina teenage dj",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.565,
+            "pos": 0.435,
+            "compound": 0.6597
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "DULLSCYTHE is not the worst track at all.",
+        "cleaned_comment": "dullscythe worst track",
+        "sentiment": {
+            "neg": 0.672,
+            "neu": 0.328,
+            "pos": 0.0,
+            "compound": -0.6249
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I’ve listened to this album so many times now and I still can’t believe how good it is",
+        "cleaned_comment": "ive listened album many times still cant believe good",
+        "sentiment": {
+            "neg": 0.231,
+            "neu": 0.769,
+            "pos": 0.0,
+            "compound": -0.3412
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Proceeds to be snubbed by the Grammys",
+        "cleaned_comment": "proceeds snubbed grammys",
+        "sentiment": {
+            "neg": 0.6,
+            "neu": 0.4,
+            "pos": 0.0,
+            "compound": -0.4588
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "dullscythe is my favorite song in the album",
+        "cleaned_comment": "dullscythe favorite song album",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.5,
+            "pos": 0.5,
+            "compound": 0.4588
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Robbed ,man. Robbed",
+        "cleaned_comment": "robbed man robbed",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "You appear in his new Tour visuals Mr. fun moment",
+        "cleaned_comment": "appear new tour visuals mr fun moment",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.645,
+            "pos": 0.355,
+            "compound": 0.5106
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "Seeing this video pop up during Porter’s Nurture tour visuals had me in tears. I wish I could see it again.",
+        "cleaned_comment": "seeing video pop porters nurture tour visuals tears wish could see",
+        "sentiment": {
+            "neg": 0.127,
+            "neu": 0.533,
+            "pos": 0.34,
+            "compound": 0.4939
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Who’s here after seeing “worlds strong 5” on the big screen on the nurture tour. This fan base will never let that down 😂",
+        "cleaned_comment": "whos seeing worlds strong big screen nurture tour fan base never let",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.529,
+            "pos": 0.471,
+            "compound": 0.7906
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Good thing fantano wore the same shirt for 7 years",
+        "cleaned_comment": "good thing fantano wore shirt years",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.633,
+            "pos": 0.367,
+            "compound": 0.4404
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Wow he called it this generations &quot;Discovery&quot; wow",
+        "cleaned_comment": "wow called generations quotdiscoveryquot wow",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.283,
+            "pos": 0.717,
+            "compound": 0.8225
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Nuture&gt;worlds....nostalgia cant redeem itself",
+        "cleaned_comment": "nuturegtworldsnostalgia cant redeem",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "&quot;the &#39;Discovery&#39; of this generation&quot;<br><br>now that is a compliment",
+        "cleaned_comment": "quotthe discovery generationquotnow compliment",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.492,
+            "pos": 0.508,
+            "compound": 0.4767
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Yeeeeeeeeesss",
+        "cleaned_comment": "yeeeeeeeeesss",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Mirror is one of the most gorgeous songs I&#39;ve heard in a couple of years.",
+        "cleaned_comment": "mirror one gorgeous songs ive heard couple years",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.636,
+            "pos": 0.364,
+            "compound": 0.6124
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Given that I loved Dullscythe, this is easily a 9 for me.",
+        "cleaned_comment": "given loved dullscythe easily",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.241,
+            "pos": 0.759,
+            "compound": 0.743
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "Better then Worlds",
+        "cleaned_comment": "better worlds",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.256,
+            "pos": 0.744,
+            "compound": 0.4404
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "this does put a smile on my face",
+        "cleaned_comment": "put smile face",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.444,
+            "pos": 0.556,
+            "compound": 0.3612
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Congrats on the cameo.",
+        "cleaned_comment": "congrats cameo",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.227,
+            "pos": 0.773,
+            "compound": 0.5267
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Aimer - &quot;daydream&quot; album PLEASE...🥺",
+        "cleaned_comment": "aimer quotdaydreamquot album please",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.566,
+            "pos": 0.434,
+            "compound": 0.3182
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "&quot;Some Artificial Intelligence having a religious experience.&quot; Damn Melon you good ?",
+        "cleaned_comment": "quotsome artificial intelligence religious experiencequot damn melon good",
+        "sentiment": {
+            "neg": 0.197,
+            "neu": 0.365,
+            "pos": 0.438,
+            "compound": 0.5106
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "When I find myself feeling sad or down, I watch this review.",
+        "cleaned_comment": "find feeling sad watch review",
+        "sentiment": {
+            "neg": 0.408,
+            "neu": 0.395,
+            "pos": 0.197,
+            "compound": -0.3818
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I agree that nurture is better than worlds overall. Worlds has a few very good tracks though, namely goodbye to a world as an example.",
+        "cleaned_comment": "agree nurture better worlds overall worlds good tracks though namely goodbye world example",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.457,
+            "pos": 0.543,
+            "compound": 0.8658
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "HOW IS DULLSCYTHE UR LEAST FAVORITE WHAT",
+        "cleaned_comment": "dullscythe ur least favorite",
+        "sentiment": {
+            "neg": 0.453,
+            "neu": 0.547,
+            "pos": 0.0,
+            "compound": -0.357
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "This a 10 melonboy",
+        "cleaned_comment": "melonboy",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Nurture Review\r<br>\r<br>Jake Peffley 9/20/21\r<br>\r<br>Before I get into the bulk of this material, I want to explain my thoughts on Porter’s music in general, and how I got turned onto him. Back in 2016, when I was either 12 or 13, I was recommended Porter’s legendary track, “Shelter”. At the time, this was one of, if not the most beautiful track I had ever heard. The mix of synth-pop instrumentation, obscure female vocal sample passages, and heart wrenching lyrics, I was infatuated with the track instantly. So Obviously after hearing this, I had to check out his other material. Now although I did like overall his SpitFire EP, what I did not expect was how amazingly surprised I was at his earth-shattering debut album, “Worlds”. From the Enormous “Divinity”, to the more melancholic tracks such as, “Fellow feeling”, or “Goodbye to a world”, there is NEVER a dull moment on this record. After listening to this album religiously for about a year, I was really wondering where Porter would go with his sound next, which leads me to Nurture.\r<br>\r<br>The roll out for this album was spectacular, not only because every track promoting this album was Stellar, but also the aesthetics of the art work, really resonated with me. What I’ll finish this thought up with, is that the Album cover looks like what the album sounds like, Laying face down in a field of digital grass. A very Warm, melancholic, but freeing mixture of emotions.\r<br>\r<br>For my actual review, I will be going track by track, and listing all of the qualities that stand out to me, but before doing this, I just want to say every track on here is amazing in their own way, and spoiler, I believe this album to be nothing less than a 10. (which is rare coming from me.)\r<br>\r<br>Lifelike: A beautiful mix of folk, glitch hop, and electronic music, that serve as an amazing opener to this project. From the beautiful pianos, to the subtle vocals porter lays into the track, I think it works so well. \r<br>\r<br>Look at the sky: One of my personal favorites here, given the sentiment alone. “Look at the sky, I’m still here. I’ll be Alive next year.” This single line was almost enough to make me tear up, considering the timing of this album roll out. The pandemic had shown my true colors of what I am on the inside, relating to my depression, and existential thoughts. Hearing Porter repeat this phrase over and over, really did make me feel comforted. Something I was in desperate need of. Now going into the instrumental, Again there’s a mix of folky strings, and the electronic synths and samples porter is so good at orchestrating. Overall this track feels very uplifting.\r<br>\r<br>Get your wish: This track is a great little song about moving forward. The instant standout in this track for me, is the soul crushing electronic instrumentation Porter implements when singing the chorus“So tell me how it felt, when you walked on water, did you get your wish.” This is a big part about what I love in the album, how Porter uses his amazing electronic mastery, as well as these folk elements to really emphasize the message he’s trying to portray.\r<br>\r<br>Wind Tempos: This is probably the most underrated track on the album, and is easily in my top 5. The piano / violin duo that makes up the intro is certainly beautiful, however what this eventually blossoms into is one of the most exhilarating, and heart wrenching things I think I’ve ever heard. Basically, over these melancholic pianos, a female-like android’s vocals are added. Now, it’s hard to describe, but in Fantano’s words, it sounds like she’s going through a “religious experience.” This is definitely one of the tracks that makes more sense when executed, then explained, so go listen to it, as that’s better than any explanation I could give.\r<br>\r<br>Musician: Being the most upbeat track on here, Musician offers a much needed exciting feeling to this record, and succeeds in flying colors. From the synth pop sound, to the enthusiastic lead vocals, Musician is one of the catchiest songs in the bunch.\r<br>\r<br>Do-re-mi-fa-so-la-ti-do: The second track with no lyrics, which serves as an interlude of sorts. One could maybe write this song off as being not as exciting as the other tracks, and on one hand while I slightly agree, I think this track has a feeling of frolicking in a field of digital flowers.(Which more than makes up for the lack of structure, in my opinion.)\r<br>\r<br>Mother: One of the most beautiful sentiments on the record, seeing porter express his love for his parents, while at the same time grieving the feeling of growing up. The heavy synths that Porter layers his passionate vocals on top of, truly makes this track one a “Happy Cry Moment.”\r<br>\r<br>dullscythe: Another fully instrumental cut here, with most of the track filled up with glitching piano, drum, and synths, that all add on top of one another, and eventually all give away to show a cavernous piano solo at the end. I can see this track leaving some of Porter&#39;s fans, and general listeners, kind of confused, however I think this weird little passage is very unique, and fits into the album quite well.\r<br>\r<br>Sweet Time: I need a girl that will treat me like Porter treats his fiance. This whole track is dedicated to Porter having a fear of death, not because of his own mortality, no he’s just scared that he will never be able to see his fiance ever again. She is so important to him, that he would not be able to live without her, and this is something that is so beautiful to me. As for the instrumentation, the nocturnal drums, spacious synths, and the wasm feeling add to Porter&#39;s very heartfelt lyrics in a beautiful way. And once these sounds build up, a new layer of spaced out synth tones make way for porter to repeat these same sentiments, but hitting harder due to this space he has allowed for himself to fit over.\r<br>\r<br>Mirror: As you may know, Nurture arrived 7 whole years after worlds, due to Porter kind of doubting himself and his art, given past criticisms, and fear he would not live up to his full potential. This song is basically addressing that confrontation, and sounding beautiful while doing it. The majority of this track is the repeated chorus, “And I know you&#39;ll say how I&#39;m a burden. Yeah, do your worst all at once, I know what you want from me, from me\r<br>I know what you&#39;re thinking, And it&#39;s not the voice of all the others, You&#39;ve only said it to yourself, I know what you want from me, from me, I know what you&#39;re thinking.”\r<br>\r<br>Something Comforting: My favorite song on the album, maybe even my favorite song of all time. The constant feeling of being let down, feeling like there&#39;s nothing you can do, and wanting, needing, and CRAVING something that will comfort you, having someone that will give you comforting words, is something that I connect with, on a deeply personal level. The Electronic, Folk, Synthpop, and glitch hop sounds that pop up here are almost as powerful as the ideas presented here in Porter&#39;s lyrics. I’m not ashamed to say this, but the first time I heard this track, I basically bawled my eyes out. Everytime I hear this track, I tear up slightly. It just hits so close to home, that I can’t help but be addicted to the feeling this track gives me. And Porter If you’re reading this, which you probably aren’t, thank you for making this song, I love and adore you for it.\r<br>\r<br>Blossom: A beautiful little guitar ballad, written to his Fiance, with the same sentiment of the track sweet time.TThis one really doubles down on the feels, like I said before, being fully guitar driven. It’s very easy to see how much Porter deeply, and truly is enamoured with this person, Especially the tone of voice he uses  when he says “If I can’t stop time.” and “I just want you happy.” A great transition into the outstanding outro tracks of this album.\r<br>\r<br>Unfold: A top 3 track for me, and I think the heaviest track Porter has ever put out, sonically. The track starts out with these weird pitched up vocals that build up into the chorus, that just blows me away e=very single time I hear it. From the Crashing percussion, to the heavily layered, yet also spacious synths, I seriously don’t know how a human is able to come up with this kind of sound. As the track continues, Porter repeats this Chorus, “As I watch the Water Unfold, It’s a feeling I want you to know. Cuz I’m not the same as I was, as I shoulder the weight of the world.” and gets more and more demented, and heartbroken. It really makes you feel as if the Earth is falling apart at the seams, and nothing is real. A real mindblower for sure.\r<br>\r<br>Trying to feel alive: The last track on this album, and is a damn good finish. This is another track for me that is extremely relatable, as well. The main theme I pulled from this is that Porter is trying to get all of these things that he thinks will fulfill him, and give him purpose, and is underwhelmed, constantly on the search for a greater purpose in Living. With these thoughts in mind, Porter proposes that maybe he doesn’t NEED to feel, “Alive.” The dissatisfaction in life is inevitable, and he uses this to drive himself forward, and give himself purpose. \r<br>\r<br>Overall, I think Porter has really done something special with this project, and I’m likely never going to enjoy an Electronic release as much as I admire this one. Thank you for giving us this experience Porter, and I hope to see you continue your musical journey throughout the next few decades. And on that note, if you guys are still here , thank you for taking your time to read my thoughts on something that is highly personal to me, that I cherish as much as I do.\r<br>\r<br>Favorite Tracks : Look at the Sky, Get Your Wish, Wind Tempos, Musician, Mother, Mirror, Something Comforting, Unfold, Trying to Feel Alive\r<br>\r<br>10/10",
+        "cleaned_comment": "nurture review jake peffley get bulk material want explain thoughts porters music general got turned onto back either recommended porters legendary track shelter time one beautiful track ever heard mix synthpop instrumentation obscure female vocal sample passages heart wrenching lyrics infatuated track instantly obviously hearing check material although like overall spitfire ep expect amazingly surprised earthshattering debut album worlds enormous divinity melancholic tracks fellow feeling goodbye world never dull moment record listening album religiously year really wondering porter would go sound next leads nurture roll album spectacular every track promoting album stellar also aesthetics art work really resonated ill finish thought album cover looks like album sounds like laying face field digital grass warm melancholic freeing mixture emotions actual review going track track listing qualities stand want say every track amazing way spoiler believe album nothing less rare coming lifelike beautiful mix folk glitch hop electronic music serve amazing opener project beautiful pianos subtle vocals porter lays track think works well look sky one personal favorites given sentiment alone look sky im still ill alive next year single line almost enough make tear considering timing album roll pandemic shown true colors inside relating depression existential thoughts hearing porter repeat phrase really make feel comforted something desperate need going instrumental theres mix folky strings electronic synths samples porter good orchestrating overall track feels uplifting get wish track great little song moving forward instant standout track soul crushing electronic instrumentation porter implements singing chorusso tell felt walked water get wish big part love album porter uses amazing electronic mastery well folk elements really emphasize message hes trying portray wind tempos probably underrated track album easily top piano violin duo makes intro certainly beautiful however eventually blossoms one exhilarating heart wrenching things think ive ever heard basically melancholic pianos femalelike androids vocals added hard describe fantanos words sounds like shes going religious experience definitely one tracks makes sense executed explained go listen thats better explanation could give musician upbeat track musician offers much needed exciting feeling record succeeds flying colors synth pop sound enthusiastic lead vocals musician one catchiest songs bunch doremifasolatido second track lyrics serves interlude sorts one could maybe write song exciting tracks one hand slightly agree think track feeling frolicking field digital flowerswhich makes lack structure opinion mother one beautiful sentiments record seeing porter express love parents time grieving feeling growing heavy synths porter layers passionate vocals top truly makes track one happy cry moment dullscythe another fully instrumental cut track filled glitching piano drum synths add top one another eventually give away show cavernous piano solo end see track leaving porters fans general listeners kind confused however think weird little passage unique fits album quite well sweet time need girl treat like porter treats fiance whole track dedicated porter fear death mortality hes scared never able see fiance ever important would able live without something beautiful instrumentation nocturnal drums spacious synths wasm feeling add porters heartfelt lyrics beautiful way sounds build new layer spaced synth tones make way porter repeat sentiments hitting harder due space allowed fit mirror may know nurture arrived whole years worlds due porter kind doubting art given past criticisms fear would live full potential song basically addressing confrontation sounding beautiful majority track repeated chorus know youll say im burden yeah worst know want know youre thinking voice others youve said know want know youre thinking something comforting favorite song album maybe even favorite song time constant feeling let feeling like theres nothing wanting needing craving something comfort someone give comforting words something connect deeply personal level electronic folk synthpop glitch hop sounds pop almost powerful ideas presented porters lyrics im ashamed say first time heard track basically bawled eyes everytime hear track tear slightly hits close home cant help addicted feeling track gives porter youre reading probably arent thank making song love adore blossom beautiful little guitar ballad written fiance sentiment track sweet timetthis one really doubles feels like said fully guitar driven easy see much porter deeply truly enamoured person especially tone voice uses says cant stop time want happy great transition outstanding outro tracks album unfold top track think heaviest track porter ever put sonically track starts weird pitched vocals build chorus blows away every single time hear crashing percussion heavily layered yet also spacious synths seriously dont know human able come kind sound track continues porter repeats chorus watch water unfold feeling want know cuz im shoulder weight world gets demented heartbroken really makes feel earth falling apart seams nothing real real mindblower sure trying feel alive last track album damn good finish another track extremely relatable well main theme pulled porter trying get things thinks fulfill give purpose underwhelmed constantly search greater purpose living thoughts mind porter proposes maybe doesnt need feel alive dissatisfaction life inevitable uses drive forward give purpose overall think porter really done something special project im likely never going enjoy electronic release much admire one thank giving us experience porter hope see continue musical journey throughout next decades note guys still thank taking time read thoughts something highly personal cherish much favorite tracks look sky get wish wind tempos musician mother mirror something comforting unfold trying feel alive",
+        "sentiment": {
+            "neg": 0.083,
+            "neu": 0.631,
+            "pos": 0.285,
+            "compound": 0.9996
+        },
+        "emotions": {
+            "Happy": 0.21,
+            "Angry": 0.05,
+            "Surprise": 0.17,
+            "Sad": 0.3,
+            "Fear": 0.27
+        }
+    },
+    {
+        "original_comment": "Lil easter egg in the visuals at second sky ;) Like if you saw it and came here.",
+        "cleaned_comment": "lil easter egg visuals second sky like saw came",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.762,
+            "pos": 0.238,
+            "compound": 0.3612
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "Fellow Traveler better",
+        "cleaned_comment": "fellow traveler better",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.408,
+            "pos": 0.592,
+            "compound": 0.4404
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Wait.. he didn&#39;t mention mirror",
+        "cleaned_comment": "wait didnt mention mirror",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "He wore his good review flannel so I was pretty confident from the beginning! ☺️",
+        "cleaned_comment": "wore good review flannel pretty confident beginning",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.301,
+            "pos": 0.699,
+            "compound": 0.8519
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "I just want to come forward and say that I cried after Blossom",
+        "cleaned_comment": "want come forward say cried blossom",
+        "sentiment": {
+            "neg": 0.329,
+            "neu": 0.506,
+            "pos": 0.165,
+            "compound": -0.3182
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "As a fan of worlds, and someone who discovered Robinson through Shelter originally, I fully agree Nurture is leaps beyond these. This whole album is a masterpiece, it’s so beautiful, every song deserves its own praise, from soft and atmospheric to the unique and experimental like dullscythe. I don’t think I’ll ever get tired of this album, nothing has touched me more then “Trying to Feel Alive”.",
+        "cleaned_comment": "fan worlds someone discovered robinson shelter originally fully agree nurture leaps beyond whole album masterpiece beautiful every song deserves praise soft atmospheric unique experimental like dullscythe dont think ill ever get tired album nothing touched trying feel alive",
+        "sentiment": {
+            "neg": 0.05,
+            "neu": 0.485,
+            "pos": 0.465,
+            "compound": 0.9716
+        },
+        "emotions": {
+            "Happy": 0.2,
+            "Angry": 0.0,
+            "Surprise": 0.4,
+            "Sad": 0.2,
+            "Fear": 0.2
+        }
+    },
+    {
+        "original_comment": "This is becoming my favorite album of all time",
+        "cleaned_comment": "becoming favorite album time",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.5,
+            "pos": 0.5,
+            "compound": 0.4588
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "This album is legitimately great. I can only find 2 songs that I don&#39;t really find playlist worthy but there&#39;s banger after banger here.",
+        "cleaned_comment": "album legitimately great find songs dont really find playlist worthy theres banger banger",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.602,
+            "pos": 0.398,
+            "compound": 0.8055
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "To me dullscythe is like a quarrel between porter robinson and virtual self",
+        "cleaned_comment": "dullscythe like quarrel porter robinson virtual self",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.706,
+            "pos": 0.294,
+            "compound": 0.3612
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Fellow Traveler&#39;s Nurture is better",
+        "cleaned_comment": "fellow travelers nurture better",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.274,
+            "pos": 0.726,
+            "compound": 0.6486
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "If u listen to the lyrics he talks a lot about how he didn’t know what he could make that would match the expectations of worlds which was huge that’s why he took so long bc in his eyes he wasn’t satisfied with his work",
+        "cleaned_comment": "u listen lyrics talks lot didnt know could make would match expectations worlds huge thats took long bc eyes wasnt satisfied work",
+        "sentiment": {
+            "neg": 0.099,
+            "neu": 0.804,
+            "pos": 0.097,
+            "compound": -0.0083
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.4,
+            "Fear": 0.6
+        }
+    },
+    {
+        "original_comment": "“A societally neglected generation of terminally online kids using anime and music to soften the blow of their pandemic-ravaged reality” ……………. I’m in this picture and I don’t like it",
+        "cleaned_comment": "societally neglected generation terminally online kids using anime music soften blow pandemicravaged reality im picture dont like",
+        "sentiment": {
+            "neg": 0.269,
+            "neu": 0.731,
+            "pos": 0.0,
+            "compound": -0.6715
+        },
+        "emotions": {
+            "Happy": 0.33,
+            "Angry": 0.0,
+            "Surprise": 0.33,
+            "Sad": 0.33,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Nurture is easily better than Worlds imo, although I love both <br><br>Nurture is my album of the year and easily one of my favourite albums of all time",
+        "cleaned_comment": "nurture easily better worlds imo although love nurture album year easily one favourite albums time",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.35,
+            "pos": 0.65,
+            "compound": 0.9403
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "I liked nurture but &quot;this is the Discovery of this generation&quot; is not a take i can agree with  at all lmao",
+        "cleaned_comment": "liked nurture quotthis discovery generationquot take agree lmao",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.256,
+            "pos": 0.744,
+            "compound": 0.891
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "it also gave me daft punk vibes for some reason",
+        "cleaned_comment": "also gave daft punk vibes reason",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.33,
+            "Surprise": 0.0,
+            "Sad": 0.33,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "Nurture robinson",
+        "cleaned_comment": "nurture robinson",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.294,
+            "pos": 0.706,
+            "compound": 0.34
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Went back to this album recently, and loved it so much more",
+        "cleaned_comment": "went back album recently loved much",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.562,
+            "pos": 0.438,
+            "compound": 0.5994
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I&#39;d argue that Nurture is a continuation of Worlds, where Worlds felt like throwing yourself and losing yourself in a digital works, Nurture feels like a being violently pulled from a digital world that you&#39;ve spent so long in that you forgot what is real and what isn&#39;t. The acoustic sounds from Nurture are almost grounding you to reality while the glitching almost feels like an afterimage or a ghost from this unreal world we were trapped in during the early 2010s of electronic music (Worlds).",
+        "cleaned_comment": "id argue nurture continuation worlds worlds felt like throwing losing digital works nurture feels like violently pulled digital world youve spent long forgot real isnt acoustic sounds nurture almost grounding reality glitching almost feels like afterimage ghost unreal world trapped early electronic music worlds",
+        "sentiment": {
+            "neg": 0.233,
+            "neu": 0.531,
+            "pos": 0.236,
+            "compound": -0.2023
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.12,
+            "Surprise": 0.25,
+            "Sad": 0.38,
+            "Fear": 0.25
+        }
+    },
+    {
+        "original_comment": "Im only here to leave.",
+        "cleaned_comment": "im leave",
+        "sentiment": {
+            "neg": 0.545,
+            "neu": 0.455,
+            "pos": 0.0,
+            "compound": -0.0516
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Wind Tempos is….ugh. It’s so good. Sweet Time??? This is a great album.",
+        "cleaned_comment": "wind tempos isugh good sweet time great album",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.333,
+            "pos": 0.667,
+            "compound": 0.875
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "aoty baby",
+        "cleaned_comment": "aoty baby",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "I took a shot every time you said aesthetics and o fuck we boolin",
+        "cleaned_comment": "took shot every time said aesthetics fuck boolin",
+        "sentiment": {
+            "neg": 0.333,
+            "neu": 0.667,
+            "pos": 0.0,
+            "compound": -0.5423
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "“This song feels like what living in animal crossing must feel like.” 😂😂",
+        "cleaned_comment": "song feels like living animal crossing must feel like",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.583,
+            "pos": 0.417,
+            "compound": 0.6124
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 1.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I&#39;d love to hear your thoughts on Mindless Self Indulgence&#39;s Jimmy Urine&#39;s 2018 album Euringer!",
+        "cleaned_comment": "id love hear thoughts mindless self indulgences jimmy urines album euringer",
+        "sentiment": {
+            "neg": 0.18,
+            "neu": 0.559,
+            "pos": 0.261,
+            "compound": 0.3182
+        },
+        "emotions": {
+            "Happy": 0.33,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.67
+        }
+    },
+    {
+        "original_comment": "Melon you are also part of those sad anime boys tbh. Don&#39;t lie you still cry to Shelter.",
+        "cleaned_comment": "melon also part sad anime boys tbh dont lie still cry shelter",
+        "sentiment": {
+            "neg": 0.198,
+            "neu": 0.639,
+            "pos": 0.163,
+            "compound": -0.1396
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I will forgive you on your opinion on &quot;Mirror&quot;, but you&#39;re on thin fuckin ice",
+        "cleaned_comment": "forgive opinion quotmirrorquot youre thin fuckin ice",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.741,
+            "pos": 0.259,
+            "compound": 0.2732
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Anthony, great album! Totally agree..hey, how about you review a tone poet like Lee Morgan&#39;s The Rahja?",
+        "cleaned_comment": "anthony great album totally agreehey review tone poet like lee morgans rahja",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.602,
+            "pos": 0.398,
+            "compound": 0.765
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "This album is BIG &quot;end of the pandemic&quot; vibes",
+        "cleaned_comment": "album big quotend pandemicquot vibes",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "We know u wanted to give it a 9.",
+        "cleaned_comment": "know u wanted give",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "Album of the year IMO. Life-affirming, beautiful, inspiring, and encouraging. The world needs more of whatever Nurture is.",
+        "cleaned_comment": "album year imo lifeaffirming beautiful inspiring encouraging world needs whatever nurture",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.359,
+            "pos": 0.641,
+            "compound": 0.91
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Damn! <a href=\"https://www.youtube.com/watch?v=NKtqB-SFIaw&amp;t=207\">3:27</a>",
+        "cleaned_comment": "damn",
+        "sentiment": {
+            "neg": 1.0,
+            "neu": 0.0,
+            "pos": 0.0,
+            "compound": -0.4019
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Nurture was well worth the 8 year wait",
+        "cleaned_comment": "nurture well worth year wait",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.238,
+            "pos": 0.762,
+            "compound": 0.6597
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "Can&#39;t believe he didn&#39;t like Sweet Time. I&#39;m on the verge of tears every time I hear this song",
+        "cleaned_comment": "cant believe didnt like sweet time im verge tears every time hear song",
+        "sentiment": {
+            "neg": 0.27,
+            "neu": 0.617,
+            "pos": 0.112,
+            "compound": -0.3733
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    }
+]

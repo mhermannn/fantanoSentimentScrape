@@ -1,0 +1,1702 @@
+[
+    {
+        "original_comment": "Mac died to prove you a point",
+        "cleaned_comment": "mac died prove point",
+        "sentiment": {
+            "neg": 0.545,
+            "neu": 0.455,
+            "pos": 0.0,
+            "compound": -0.5574
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.25,
+            "Sad": 0.0,
+            "Fear": 0.75
+        }
+    },
+    {
+        "original_comment": "everytime i fall in love with an album everytime i look up this melonheads revirew on it and everytime it genuinely makes me angry",
+        "cleaned_comment": "everytime fall love album everytime look melonheads revirew everytime genuinely makes angry",
+        "sentiment": {
+            "neg": 0.189,
+            "neu": 0.571,
+            "pos": 0.24,
+            "compound": 0.2263
+        },
+        "emotions": {
+            "Happy": 0.25,
+            "Angry": 0.25,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Hi Everyone <br><br>Assisted Self Deletion Tono here",
+        "cleaned_comment": "hi everyone assisted self deletion tono",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "aged like milk",
+        "cleaned_comment": "aged like milk",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.444,
+            "pos": 0.556,
+            "compound": 0.3612
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 1.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "most horrendous review ever lmao",
+        "cleaned_comment": "horrendous review ever lmao",
+        "sentiment": {
+            "neg": 0.392,
+            "neu": 0.206,
+            "pos": 0.402,
+            "compound": 0.0258
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Came here to remind myself why I shouldn’t care about your opinions",
+        "cleaned_comment": "came remind shouldnt care opinions",
+        "sentiment": {
+            "neg": 0.396,
+            "neu": 0.604,
+            "pos": 0.0,
+            "compound": -0.3875
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "To this day I&#39;m convinced this was what killed Mac",
+        "cleaned_comment": "day im convinced killed mac",
+        "sentiment": {
+            "neg": 0.441,
+            "neu": 0.294,
+            "pos": 0.265,
+            "compound": -0.4215
+        },
+        "emotions": {
+            "Happy": 0.33,
+            "Angry": 0.0,
+            "Surprise": 0.33,
+            "Sad": 0.0,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "It’s criminal how fantano reviewed swimming a 3💀",
+        "cleaned_comment": "criminal fantano reviewed swimming",
+        "sentiment": {
+            "neg": 0.531,
+            "neu": 0.469,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "The fact people STILL care about his opinion after this shit review is mind blowing",
+        "cleaned_comment": "fact people still care opinion shit review mind blowing",
+        "sentiment": {
+            "neg": 0.261,
+            "neu": 0.507,
+            "pos": 0.232,
+            "compound": -0.1027
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "All of his albums are great. I don’t care that he did a redux. I’ll never forget how horrible of a review this is.",
+        "cleaned_comment": "albums great dont care redux ill never forget horrible review",
+        "sentiment": {
+            "neg": 0.141,
+            "neu": 0.269,
+            "pos": 0.589,
+            "compound": 0.8085
+        },
+        "emotions": {
+            "Happy": 0.33,
+            "Angry": 0.33,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "This review is the FATTEST L Melon ever had",
+        "cleaned_comment": "review fattest l melon ever",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Never forget, if Mac was still around he would have gave his newer albums a 2 or a strong 1",
+        "cleaned_comment": "never forget mac still around would gave newer albums strong",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.617,
+            "pos": 0.383,
+            "compound": 0.608
+        },
+        "emotions": {
+            "Happy": 0.25,
+            "Angry": 0.25,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "I was a casual listener of Mac until this dropped even I thought this was killer, this guy just hated him.",
+        "cleaned_comment": "casual listener mac dropped even thought killer guy hated",
+        "sentiment": {
+            "neg": 0.521,
+            "neu": 0.368,
+            "pos": 0.11,
+            "compound": -0.8271
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "I found this to be accurate.",
+        "cleaned_comment": "found accurate",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Im glad you gave this one another listen in the REDUX",
+        "cleaned_comment": "im glad gave one another listen redux",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.667,
+            "pos": 0.333,
+            "compound": 0.4588
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "<a href=\"https://www.youtube.com/watch?v=UgwPxFUUg94&amp;t=75\">1:15</a> fuck...",
+        "cleaned_comment": "fuck",
+        "sentiment": {
+            "neg": 1.0,
+            "neu": 0.0,
+            "pos": 0.0,
+            "compound": -0.5423
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "This is offensive",
+        "cleaned_comment": "offensive",
+        "sentiment": {
+            "neg": 1.0,
+            "neu": 0.0,
+            "pos": 0.0,
+            "compound": -0.4588
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "r you dumb?",
+        "cleaned_comment": "r dumb",
+        "sentiment": {
+            "neg": 1.0,
+            "neu": 0.0,
+            "pos": 0.0,
+            "compound": -0.5106
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "“Farty synthesizers on so it goes” This sentence alone discredits the whole review",
+        "cleaned_comment": "farty synthesizers goes sentence alone discredits whole review",
+        "sentiment": {
+            "neg": 0.215,
+            "neu": 0.645,
+            "pos": 0.14,
+            "compound": -0.1779
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "Having &#39;Perfecto&#39; as a least favorite track is a crime against humanity",
+        "cleaned_comment": "perfecto least favorite track crime humanity",
+        "sentiment": {
+            "neg": 0.53,
+            "neu": 0.266,
+            "pos": 0.204,
+            "compound": -0.569
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "If Mac Miller had overdosed on fentanyl you would&#39;ve given this album an 8/10.",
+        "cleaned_comment": "mac miller overdosed fentanyl wouldve given album",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "I’m back shit take",
+        "cleaned_comment": "im back shit take",
+        "sentiment": {
+            "neg": 0.545,
+            "neu": 0.455,
+            "pos": 0.0,
+            "compound": -0.5574
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Still worst take i´ve seen on YouTube, ever",
+        "cleaned_comment": "still worst take ive seen youtube ever",
+        "sentiment": {
+            "neg": 0.406,
+            "neu": 0.594,
+            "pos": 0.0,
+            "compound": -0.6249
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I think Melon killed Mac Miller",
+        "cleaned_comment": "think melon killed mac miller",
+        "sentiment": {
+            "neg": 0.529,
+            "neu": 0.471,
+            "pos": 0.0,
+            "compound": -0.6705
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "Nice. Gives an impression on latter reviews. Not really true xD",
+        "cleaned_comment": "nice gives impression latter reviews really true xd",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.252,
+            "pos": 0.748,
+            "compound": 0.8973
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "This is the worst Anthony Fantano album review in existence",
+        "cleaned_comment": "worst anthony fantano album review existence",
+        "sentiment": {
+            "neg": 0.451,
+            "neu": 0.549,
+            "pos": 0.0,
+            "compound": -0.6249
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Wow. I expected at least an 8. Dogshit opinions.",
+        "cleaned_comment": "wow expected least dogshit opinions",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.513,
+            "pos": 0.487,
+            "compound": 0.5859
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "this was on my birthday. oh shittt",
+        "cleaned_comment": "birthday oh shittt",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "And he gave sexy red an 8 …. Credibility 0 …. I dont care that after his death he tried to redeem himself….",
+        "cleaned_comment": "gave sexy red credibility dont care death tried redeem",
+        "sentiment": {
+            "neg": 0.173,
+            "neu": 0.395,
+            "pos": 0.431,
+            "compound": 0.6017
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.33,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.67
+        }
+    },
+    {
+        "original_comment": "this is a shitty fucking take",
+        "cleaned_comment": "shitty fucking take",
+        "sentiment": {
+            "neg": 0.643,
+            "neu": 0.357,
+            "pos": 0.0,
+            "compound": -0.5574
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I had to come to this video thanks to Reddit. He gives this good emotional body of work a 3 but gives Sexy Red&#39;s latest wack project an 8. Bruh... 😂",
+        "cleaned_comment": "come video thanks reddit gives good emotional body work gives sexy reds latest wack project bruh",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.526,
+            "pos": 0.474,
+            "compound": 0.8689
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.33,
+            "Surprise": 0.0,
+            "Sad": 0.33,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "Is this guy joking",
+        "cleaned_comment": "guy joking",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.345,
+            "pos": 0.655,
+            "compound": 0.2263
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "HOLY FUCK!!! NEVER FORGET THAT HE GAVE THIS A FUCKIN 3/10 AND JUST GAVE SEXYREDD A FUCKING 8/10 DICKRIDING EVERY SONG HOLY FUCKKKKK WHAT AN IDIOT. FUCK THE REDUX THIS IS YOUR OPINION AND YOU DONT DESERVE A PLATFORM WITH SHIT REVIEWS LIKE THIS LMAOOOOOOOOO",
+        "cleaned_comment": "holy fuck never forget gave fuckin gave sexyredd fucking dickriding every song holy fuckkkkk idiot fuck redux opinion dont deserve platform shit reviews like lmaooooooooo",
+        "sentiment": {
+            "neg": 0.283,
+            "neu": 0.522,
+            "pos": 0.195,
+            "compound": -0.6381
+        },
+        "emotions": {
+            "Happy": 0.43,
+            "Angry": 0.14,
+            "Surprise": 0.14,
+            "Sad": 0.0,
+            "Fear": 0.29
+        }
+    },
+    {
+        "original_comment": "delete this review fantano",
+        "cleaned_comment": "delete review fantano",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "a fuckin 3?",
+        "cleaned_comment": "fuckin",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "What an L this take is",
+        "cleaned_comment": "l take",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "This is the only time ive ever agreed with fantano",
+        "cleaned_comment": "time ive ever agreed fantano",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.656,
+            "pos": 0.344,
+            "compound": 0.2732
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "His MBDTF review is absolutely bizarre, but this is just fucking deranged.",
+        "cleaned_comment": "mbdtf review absolutely bizarre fucking deranged",
+        "sentiment": {
+            "neg": 0.341,
+            "neu": 0.659,
+            "pos": 0.0,
+            "compound": -0.3804
+        },
+        "emotions": {
+            "Happy": 0.33,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.33,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "I know you changed your mind and that’s good but God you had something up your ass on this particular day lmao like holy hell",
+        "cleaned_comment": "know changed mind thats good god something ass particular day lmao like holy hell",
+        "sentiment": {
+            "neg": 0.295,
+            "neu": 0.291,
+            "pos": 0.415,
+            "compound": 0.3182
+        },
+        "emotions": {
+            "Happy": 0.33,
+            "Angry": 0.0,
+            "Surprise": 0.67,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "This discredited this man’s opinion on every level",
+        "cleaned_comment": "discredited mans opinion every level",
+        "sentiment": {
+            "neg": 0.42,
+            "neu": 0.58,
+            "pos": 0.0,
+            "compound": -0.4404
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "this is your worst review",
+        "cleaned_comment": "worst review",
+        "sentiment": {
+            "neg": 0.804,
+            "neu": 0.196,
+            "pos": 0.0,
+            "compound": -0.6249
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "im so glad he did a redux review on this. still sad this was the original review bc it feels so disrespectfully offensive, but it shouldnt matter as fantano now gives it the praise it deserves",
+        "cleaned_comment": "im glad redux review still sad original review bc feels disrespectfully offensive shouldnt matter fantano gives praise deserves",
+        "sentiment": {
+            "neg": 0.256,
+            "neu": 0.427,
+            "pos": 0.317,
+            "compound": 0.4071
+        },
+        "emotions": {
+            "Happy": 0.25,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.25
+        }
+    },
+    {
+        "original_comment": "Fantano was truly just a mac hater before his death, but it seems like he has realized how horrible his opinions on him were.",
+        "cleaned_comment": "fantano truly mac hater death seems like realized horrible opinions",
+        "sentiment": {
+            "neg": 0.495,
+            "neu": 0.243,
+            "pos": 0.262,
+            "compound": -0.7003
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "Why does anyone take Fantano seriously, this is insane.",
+        "cleaned_comment": "anyone take fantano seriously insane",
+        "sentiment": {
+            "neg": 0.595,
+            "neu": 0.405,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Bruh skull",
+        "cleaned_comment": "bruh skull",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Mac passed 5 years today, and I still don&#39;t know what the hell did you heard",
+        "cleaned_comment": "mac passed years today still dont know hell heard",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.686,
+            "pos": 0.314,
+            "compound": 0.5667
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "count your days",
+        "cleaned_comment": "count days",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "Bro folded on his original opinion to pander to his audience. Weeaaakkkk",
+        "cleaned_comment": "bro folded original opinion pander audience weeaaakkkk",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.723,
+            "pos": 0.277,
+            "compound": 0.3182
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "Wow! I actually kind of respected Fantano&#39;s opinions on music until I saw this review. If you cant see all the amazing talent and emotion Mac put into Swimming, you must not be as smart as I thought.",
+        "cleaned_comment": "wow actually kind respected fantanos opinions music saw review cant see amazing talent emotion mac put swimming must smart thought",
+        "sentiment": {
+            "neg": 0.167,
+            "neu": 0.432,
+            "pos": 0.401,
+            "compound": 0.8223
+        },
+        "emotions": {
+            "Happy": 0.29,
+            "Angry": 0.0,
+            "Surprise": 0.29,
+            "Sad": 0.29,
+            "Fear": 0.14
+        }
+    },
+    {
+        "original_comment": "<a href=\"https://www.youtube.com/watch?v=UgwPxFUUg94&amp;t=96\">1:36</a> based on what hes saying here alone i like it",
+        "cleaned_comment": "based hes saying alone like",
+        "sentiment": {
+            "neg": 0.267,
+            "neu": 0.4,
+            "pos": 0.333,
+            "compound": 0.128
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "This and MBDTF almost get Fantano killed ☠️",
+        "cleaned_comment": "mbdtf almost get fantano killed",
+        "sentiment": {
+            "neg": 0.514,
+            "neu": 0.486,
+            "pos": 0.0,
+            "compound": -0.6412
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "If i listened to albums based on his taste in music id miss this therapy session of an album and mbdtf.",
+        "cleaned_comment": "listened albums based taste music id miss therapy session album mbdtf",
+        "sentiment": {
+            "neg": 0.138,
+            "neu": 0.862,
+            "pos": 0.0,
+            "compound": -0.1531
+        },
+        "emotions": {
+            "Happy": 0.33,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.67,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "this is worse than his mbdtf review. Im listening to this right now and i cried on &quot;wings&quot;.",
+        "cleaned_comment": "worse mbdtf review im listening right cried quotwingsquot",
+        "sentiment": {
+            "neg": 0.487,
+            "neu": 0.513,
+            "pos": 0.0,
+            "compound": -0.6908
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "B<br><br><br><br>R<br><br><br><br>U<br><br><br><br><br>H<br><br><br><br><br>.",
+        "cleaned_comment": "bruh",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Imagine going from this, to a 8💀 you’re the fakest clown on YouTube",
+        "cleaned_comment": "imagine going youre fakest clown youtube",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "You’re so fake melon",
+        "cleaned_comment": "youre fake melon",
+        "sentiment": {
+            "neg": 0.608,
+            "neu": 0.392,
+            "pos": 0.0,
+            "compound": -0.4767
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "What a failed attempt to be edgy. This is why I can not take your work seriously. Congratulations that you revisited it after he passed away. That was the least you can do.",
+        "cleaned_comment": "failed attempt edgy take work seriously congratulations revisited passed away least",
+        "sentiment": {
+            "neg": 0.296,
+            "neu": 0.473,
+            "pos": 0.231,
+            "compound": -0.0258
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.33,
+            "Surprise": 0.0,
+            "Sad": 0.33,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "This review proves that fantano is a hater who has 1/10th of the influence mac miller has had on his fans and knows it",
+        "cleaned_comment": "review proves fantano hater th influence mac miller fans knows",
+        "sentiment": {
+            "neg": 0.237,
+            "neu": 0.763,
+            "pos": 0.0,
+            "compound": -0.4215
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "Idk what he was thinking with this one my guess is he was high",
+        "cleaned_comment": "idk thinking one guess high",
+        "sentiment": {
+            "neg": 0.259,
+            "neu": 0.741,
+            "pos": 0.0,
+            "compound": -0.1027
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "Bro this is still by far the worst take you have ever haf",
+        "cleaned_comment": "bro still far worst take ever haf",
+        "sentiment": {
+            "neg": 0.406,
+            "neu": 0.594,
+            "pos": 0.0,
+            "compound": -0.6249
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "This Review just shows how credible you are, you have no good opinions, you’re credibility is that of a fly, and pretty sure you have a contract with YouTube to be “Edgy” for views. Swimming is undoubtedly one of thee best R&amp;B hiphop albums to date. 🤷🏻‍♂️",
+        "cleaned_comment": "review shows credible good opinions youre credibility fly pretty sure contract youtube edgy views swimming undoubtedly one thee best rampb hiphop albums date",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.601,
+            "pos": 0.399,
+            "compound": 0.9118
+        },
+        "emotions": {
+            "Happy": 0.25,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.25,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "This video is crap",
+        "cleaned_comment": "video crap",
+        "sentiment": {
+            "neg": 0.722,
+            "neu": 0.278,
+            "pos": 0.0,
+            "compound": -0.3818
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I know you did the redux but the fact you ever gave this a three makes me question your validity. This album is easily a ten",
+        "cleaned_comment": "know redux fact ever gave three makes question validity album easily ten",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.821,
+            "pos": 0.179,
+            "compound": 0.34
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.25,
+            "Fear": 0.75
+        }
+    },
+    {
+        "original_comment": "This is the most garbage take ever",
+        "cleaned_comment": "garbage take ever",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "This… absolutely sucks. Everything Fantano said in this review is just blatantly wrong.",
+        "cleaned_comment": "absolutely sucks everything fantano said review blatantly wrong",
+        "sentiment": {
+            "neg": 0.496,
+            "neu": 0.504,
+            "pos": 0.0,
+            "compound": -0.7089
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "How does this nerd ass fool have such a big following?? Lost the lil credibility he barely had after this terrible take",
+        "cleaned_comment": "nerd ass fool big following lost lil credibility barely terrible take",
+        "sentiment": {
+            "neg": 0.696,
+            "neu": 0.304,
+            "pos": 0.0,
+            "compound": -0.9137
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.33,
+            "Fear": 0.67
+        }
+    },
+    {
+        "original_comment": "Just seeing this for the first time. This video stinks man.",
+        "cleaned_comment": "seeing first time video stinks man",
+        "sentiment": {
+            "neg": 0.286,
+            "neu": 0.714,
+            "pos": 0.0,
+            "compound": -0.25
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Trash sense of taste fck your family and u remember family",
+        "cleaned_comment": "trash sense taste fck family u remember family",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.25,
+            "Angry": 0.25,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "smh",
+        "cleaned_comment": "smh",
+        "sentiment": {
+            "neg": 1.0,
+            "neu": 0.0,
+            "pos": 0.0,
+            "compound": -0.3182
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Back again to leave a hateful comment",
+        "cleaned_comment": "back leave hateful comment",
+        "sentiment": {
+            "neg": 0.688,
+            "neu": 0.312,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 1.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "L review",
+        "cleaned_comment": "l review",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "objectively false",
+        "cleaned_comment": "objectively false",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Swimming and divine feminine are beautiful albums",
+        "cleaned_comment": "swimming divine feminine beautiful albums",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.286,
+            "pos": 0.714,
+            "compound": 0.8176
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "this is the biggest L he&#39;s made to this day",
+        "cleaned_comment": "biggest l hes made day",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "This nigga only changed his opinion on this album because mac  died",
+        "cleaned_comment": "nigga changed opinion album mac died",
+        "sentiment": {
+            "neg": 0.419,
+            "neu": 0.581,
+            "pos": 0.0,
+            "compound": -0.5574
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "Before his death: light to decent 3<br>After his death: strong 7 to light 8",
+        "cleaned_comment": "death light decent death strong light",
+        "sentiment": {
+            "neg": 0.553,
+            "neu": 0.213,
+            "pos": 0.234,
+            "compound": -0.6705
+        },
+        "emotions": {
+            "Happy": 0.25,
+            "Angry": 0.0,
+            "Surprise": 0.25,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "This mindset is a wholesale on why artists can’t evolve",
+        "cleaned_comment": "mindset wholesale artists cant evolve",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "the end of Self Care literally makes me cream, how TF is it excruciating you monster (I know he did redux but like, you monster)",
+        "cleaned_comment": "end self care literally makes cream tf excruciating monster know redux like monster",
+        "sentiment": {
+            "neg": 0.215,
+            "neu": 0.5,
+            "pos": 0.285,
+            "compound": 0.1027
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Fantano when an artist is alive: 3/10<br>Fantano when an artist dies: 8/10",
+        "cleaned_comment": "fantano artist alive fantano artist dies",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.658,
+            "pos": 0.342,
+            "compound": 0.3818
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Fantano the kinda guy to give mac his props after he died",
+        "cleaned_comment": "fantano kinda guy give mac props died",
+        "sentiment": {
+            "neg": 0.375,
+            "neu": 0.625,
+            "pos": 0.0,
+            "compound": -0.5574
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "9.6k likes<br>59k dislikes",
+        "cleaned_comment": "k likesk dislikes",
+        "sentiment": {
+            "neg": 0.73,
+            "neu": 0.27,
+            "pos": 0.0,
+            "compound": -0.4019
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "i aint gon lie mac miller is trash",
+        "cleaned_comment": "aint gon lie mac miller trash",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.5,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "if Mac Miller were white you would have given him a better score.",
+        "cleaned_comment": "mac miller white would given better score",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.674,
+            "pos": 0.326,
+            "compound": 0.4404
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.33,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.67
+        }
+    },
+    {
+        "original_comment": "this is one of the worst reviews of anthony fantano fr",
+        "cleaned_comment": "one worst reviews anthony fantano fr",
+        "sentiment": {
+            "neg": 0.451,
+            "neu": 0.549,
+            "pos": 0.0,
+            "compound": -0.6249
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "thank god fantano readdressed this one 🙏🏻",
+        "cleaned_comment": "thank god fantano readdressed one",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.395,
+            "pos": 0.605,
+            "compound": 0.5574
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Sanafabich",
+        "cleaned_comment": "sanafabich",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "damn...hot take to say the least. it&#39;s typical to find the genius in artists work after their death. personally, i wasn&#39;t a mac miller fan at all when he passed..he just wasn&#39;t on my radar. in the past i didn&#39;t care much for his &quot;college party raps&quot; I&#39;ll call it. but every now and then id hear a song from him i loved. so after he passed, i decided to give swimming a listen and was plesently surprised. this kid who i had chalked up to be a one-trick pony, similar to how i would view someone like asher rosh, was a heck of a lot more. although this is one of my favorite albums today, i could understand someone not caring for certain songs on their first listen. but to use some of the adjectives you chose to describe this album is insane.",
+        "cleaned_comment": "damnhot take say least typical find genius artists work death personally wasnt mac miller fan passedhe wasnt radar past didnt care much quotcollege party rapsquot ill call every id hear song loved passed decided give swimming listen plesently surprised kid chalked onetrick pony similar would view someone like asher rosh heck lot although one favorite albums today could understand someone caring certain songs first listen use adjectives chose describe album insane",
+        "sentiment": {
+            "neg": 0.152,
+            "neu": 0.639,
+            "pos": 0.209,
+            "compound": 0.6497
+        },
+        "emotions": {
+            "Happy": 0.21,
+            "Angry": 0.0,
+            "Surprise": 0.21,
+            "Sad": 0.21,
+            "Fear": 0.36
+        }
+    },
+    {
+        "original_comment": "This album is a 10/10 a fantastic masterpiece RIP Mac",
+        "cleaned_comment": "album fantastic masterpiece rip mac",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.28,
+            "pos": 0.72,
+            "compound": 0.8271
+        },
+        "emotions": {
+            "Happy": 0.33,
+            "Angry": 0.0,
+            "Surprise": 0.33,
+            "Sad": 0.0,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "So damn crazy. The “redux album review” gets a 7-8 but this one is a 3. Leave it to Mac Miller’s death and twitter hype to have him rate this almost 3 times higher than his original review lmaoooo. It’s cringe to see. While every other fan was enjoying this album, fantano did not understand the context clues/artistic direction of why this album is so telling yet carefully constructed until he passes. He was an artist who was so timeless but fantano has  hardly given him high reviews. The whole problem he’s had with Mac Miller in the past is his singing, but yet he seems to love it years later. I honestly just can’t stand to see it. It’s annoying to see people who shit on this album and suddenly become a fan of it.",
+        "cleaned_comment": "damn crazy redux album review gets one leave mac millers death twitter hype rate almost times higher original review lmaoooo cringe see every fan enjoying album fantano understand context cluesartistic direction album telling yet carefully constructed passes artist timeless fantano hardly given high reviews whole problem hes mac miller past singing yet seems love years later honestly cant stand see annoying see people shit album suddenly become fan",
+        "sentiment": {
+            "neg": 0.18,
+            "neu": 0.59,
+            "pos": 0.229,
+            "compound": 0.5415
+        },
+        "emotions": {
+            "Happy": 0.12,
+            "Angry": 0.0,
+            "Surprise": 0.06,
+            "Sad": 0.24,
+            "Fear": 0.59
+        }
+    },
+    {
+        "original_comment": "This dude is always wrong",
+        "cleaned_comment": "dude always wrong",
+        "sentiment": {
+            "neg": 0.608,
+            "neu": 0.392,
+            "pos": 0.0,
+            "compound": -0.4767
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Big L",
+        "cleaned_comment": "big l",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Wow, if you rated it 3/8, that just confirms that you definitely don&#39;t know music as well as you claim to do. Bad &quot;critic&quot; that is really just a pompous, tasteless as*.",
+        "cleaned_comment": "wow rated confirms definitely dont know music well claim bad quotcriticquot really pompous tasteless",
+        "sentiment": {
+            "neg": 0.244,
+            "neu": 0.458,
+            "pos": 0.298,
+            "compound": 0.2928
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.4,
+            "Sad": 0.2,
+            "Fear": 0.4
+        }
+    },
+    {
+        "original_comment": "Pretty good decent 8",
+        "cleaned_comment": "pretty good decent",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.141,
+            "pos": 0.859,
+            "compound": 0.7269
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "mate its an 8/10",
+        "cleaned_comment": "mate",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "i disagree i think this should be 8/10",
+        "cleaned_comment": "disagree think",
+        "sentiment": {
+            "neg": 0.722,
+            "neu": 0.278,
+            "pos": 0.0,
+            "compound": -0.3818
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "This album is so amazing",
+        "cleaned_comment": "album amazing",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.208,
+            "pos": 0.792,
+            "compound": 0.5859
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "He&#39;s trying to dig himself out of the hole w/ his redux review... What do the people say?  Do we forgive this man???  lol",
+        "cleaned_comment": "hes trying dig hole w redux review people say forgive man lol",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.647,
+            "pos": 0.353,
+            "compound": 0.5994
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Who’s here after Anthonys redux review?",
+        "cleaned_comment": "whos anthonys redux review",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Happy he changed his opinion on this album with a REDUX. The album didn’t deserve an 8 and I could understand at the time before his passing he would critique it differently, but a 3 was very harsh. He must’ve been in a weird mind set at the time of that review.. thanks for giving an update on the album @theneedledrop",
+        "cleaned_comment": "happy changed opinion album redux album didnt deserve could understand time passing would critique differently harsh mustve weird mind set time review thanks giving update album theneedledrop",
+        "sentiment": {
+            "neg": 0.129,
+            "neu": 0.618,
+            "pos": 0.253,
+            "compound": 0.6597
+        },
+        "emotions": {
+            "Happy": 0.17,
+            "Angry": 0.0,
+            "Surprise": 0.33,
+            "Sad": 0.17,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "8/10",
+        "cleaned_comment": "",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    }
+]

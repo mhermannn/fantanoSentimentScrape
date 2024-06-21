@@ -1,0 +1,1702 @@
+[
+    {
+        "original_comment": "my hos r scared what do i do for everybody that been living it up what u do?",
+        "cleaned_comment": "hos r scared everybody living u",
+        "sentiment": {
+            "neg": 0.492,
+            "neu": 0.508,
+            "pos": 0.0,
+            "compound": -0.4404
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "wet meaty hands",
+        "cleaned_comment": "wet meaty hands",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Better than charli xcx brat imo",
+        "cleaned_comment": "better charli xcx brat imo",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.58,
+            "pos": 0.42,
+            "compound": 0.4404
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "looking back? AOTY",
+        "cleaned_comment": "looking back aoty",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Peggy will be seen as one of the greatest rappers of all time in like 20 years I’m calling it",
+        "cleaned_comment": "peggy seen one greatest rappers time like years im calling",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.544,
+            "pos": 0.456,
+            "compound": 0.7717
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Usually I don’t agree with fantony antano but he’s 100% on this one",
+        "cleaned_comment": "usually dont agree fantony antano hes one",
+        "sentiment": {
+            "neg": 0.26,
+            "neu": 0.74,
+            "pos": 0.0,
+            "compound": -0.2755
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "it kinda remidns me of jpegmafia",
+        "cleaned_comment": "kinda remidns jpegmafia",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "STH is TPAB for neurodivergent people",
+        "cleaned_comment": "sth tpab neurodivergent people",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "<b>omni man crashes through wall</b> where’s orange juice jones melon",
+        "cleaned_comment": "omni man crashes wall wheres orange juice jones melon",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.5,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Hearing Anthony say shut yo bitch ass up in the most monotone way possible is amazing",
+        "cleaned_comment": "hearing anthony say shut yo bitch ass monotone way possible amazing",
+        "sentiment": {
+            "neg": 0.382,
+            "neu": 0.419,
+            "pos": 0.199,
+            "compound": -0.5423
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.5,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "whos watching this in 2046?😢",
+        "cleaned_comment": "whos watching",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Found this album hard to listen to at first but now I can’t get enough, such grimey production man, good shit right here!",
+        "cleaned_comment": "found album hard listen first cant get enough grimey production man good shit right",
+        "sentiment": {
+            "neg": 0.265,
+            "neu": 0.582,
+            "pos": 0.153,
+            "compound": -0.2732
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.5,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Shut up did he make this using a 404, i just cant believe that",
+        "cleaned_comment": "shut make using cant believe",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.5,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "As soon as I heard red veil I thought it was Earl",
+        "cleaned_comment": "soon heard red veil thought earl",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 1.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Mr fantano ehat the actual fack did you rate this album",
+        "cleaned_comment": "mr fantano ehat actual fack rate album",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "L",
+        "cleaned_comment": "l",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "wtf",
+        "cleaned_comment": "wtf",
+        "sentiment": {
+            "neg": 1.0,
+            "neu": 0.0,
+            "pos": 0.0,
+            "compound": -0.5859
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "HE DOESNT MISS",
+        "cleaned_comment": "doesnt miss",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.409,
+            "pos": 0.591,
+            "compound": 0.1139
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "The best",
+        "cleaned_comment": "best",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 1.0,
+            "compound": 0.6369
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "hot",
+        "cleaned_comment": "hot",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "scaring every pop listener",
+        "cleaned_comment": "scaring every pop listener",
+        "sentiment": {
+            "neg": 0.492,
+            "neu": 0.508,
+            "pos": 0.0,
+            "compound": -0.4404
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Am I stupid or did he change his least favorite track of the album from lean beef patty to run the jewels",
+        "cleaned_comment": "stupid change least favorite track album lean beef patty run jewels",
+        "sentiment": {
+            "neg": 0.348,
+            "neu": 0.474,
+            "pos": 0.178,
+            "compound": -0.4367
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Fit check is superior and most fanficully one of Ants mœç hahhwwt",
+        "cleaned_comment": "fit check superior fanficully one ants hahhwwt",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.455,
+            "pos": 0.545,
+            "compound": 0.7184
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "This album is a 2/10 at best",
+        "cleaned_comment": "album best",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.192,
+            "pos": 0.808,
+            "compound": 0.6369
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "I love how casually he just drops the 9/10",
+        "cleaned_comment": "love casually drops",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.145,
+            "pos": 0.855,
+            "compound": 0.7096
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Crazy production. Great listen. Garbage pale kids and orange juice jones my favs",
+        "cleaned_comment": "crazy production great listen garbage pale kids orange juice jones favs",
+        "sentiment": {
+            "neg": 0.155,
+            "neu": 0.581,
+            "pos": 0.265,
+            "compound": 0.4019
+        },
+        "emotions": {
+            "Happy": 0.67,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "10 months later and this is a classic",
+        "cleaned_comment": "months later classic",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "My favorite part of the name is that Danny Brown brought chose Scarin the Hoes after seeing a tik tok joking that their album should be called Scarin the Hoes",
+        "cleaned_comment": "favorite part name danny brown brought chose scarin hoes seeing tik tok joking album called scarin hoes",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.754,
+            "pos": 0.246,
+            "compound": 0.5994
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Now we know scared the hoes",
+        "cleaned_comment": "know scared hoes",
+        "sentiment": {
+            "neg": 0.592,
+            "neu": 0.408,
+            "pos": 0.0,
+            "compound": -0.4404
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I loved it at first but i think it&#39;s a high 7 for me in retrospect. I love the approach, but with that it feels like every song is trying to send the same message as the title.<br><br>Its impressive but its a bit like the hiphop equivalent of getting an album full of TOOL&#39;s weirder cuts. Great listen, but I&#39;d be more impressed to hear some tracks that push the envelope and define a new sound for the genre AND being catchy with the longevity that brings, not a collection of short lived &quot;wow&quot; moments.",
+        "cleaned_comment": "loved first think high retrospect love approach feels like every song trying send message titleits impressive bit like hiphop equivalent getting album full tools weirder cuts great listen id impressed hear tracks push envelope define new sound genre catchy longevity brings collection short lived quotwowquot moments",
+        "sentiment": {
+            "neg": 0.058,
+            "neu": 0.575,
+            "pos": 0.367,
+            "compound": 0.9678
+        },
+        "emotions": {
+            "Happy": 0.42,
+            "Angry": 0.08,
+            "Surprise": 0.08,
+            "Sad": 0.08,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "after 30 years of loving this album I finally got bored of it",
+        "cleaned_comment": "years loving album finally got bored",
+        "sentiment": {
+            "neg": 0.21,
+            "neu": 0.4,
+            "pos": 0.39,
+            "compound": 0.4215
+        },
+        "emotions": {
+            "Happy": 0.33,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.33,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "I cant be the only one that thinks these songs sound like constant noise and racket as opposed to actual catchy music",
+        "cleaned_comment": "cant one thinks songs sound like constant noise racket opposed actual catchy music",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.828,
+            "pos": 0.172,
+            "compound": 0.3612
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Sound like rthey definitely got style from everyone from Master&#39;s of the universe. Rad",
+        "cleaned_comment": "sound like rthey definitely got style everyone masters universe rad",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.606,
+            "pos": 0.394,
+            "compound": 0.6369
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "God i hope they work together in the future again.",
+        "cleaned_comment": "god hope work together future",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.375,
+            "pos": 0.625,
+            "compound": 0.6124
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.33,
+            "Sad": 0.0,
+            "Fear": 0.67
+        }
+    },
+    {
+        "original_comment": "Played this at the pregame and there were only 7 guys there. Crazy how the album really did scare the hoes! 10/10",
+        "cleaned_comment": "played pregame guys crazy album really scare hoes",
+        "sentiment": {
+            "neg": 0.443,
+            "neu": 0.376,
+            "pos": 0.181,
+            "compound": -0.5413
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "jpegmafia is a cool artist but horrible person",
+        "cleaned_comment": "jpegmafia cool artist horrible person",
+        "sentiment": {
+            "neg": 0.398,
+            "neu": 0.341,
+            "pos": 0.261,
+            "compound": -0.296
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "I’m tripping on 2cb rn and I swear ur hair follicles are bugging me the fuck out bro.",
+        "cleaned_comment": "im tripping cb rn swear ur hair follicles bugging fuck bro",
+        "sentiment": {
+            "neg": 0.343,
+            "neu": 0.657,
+            "pos": 0.0,
+            "compound": -0.5719
+        },
+        "emotions": {
+            "Happy": 0.25,
+            "Angry": 0.25,
+            "Surprise": 0.25,
+            "Sad": 0.0,
+            "Fear": 0.25
+        }
+    },
+    {
+        "original_comment": "I just noticed csh in the background",
+        "cleaned_comment": "noticed csh background",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "Fantano pulled off that mask like velcro",
+        "cleaned_comment": "fantano pulled mask like velcro",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.615,
+            "pos": 0.385,
+            "compound": 0.3612
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "The album XXX is actually a studio album and not a mixtape",
+        "cleaned_comment": "album xxx actually studio album mixtape",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "They perfected the art of musical shitpost, Oliver Tree could never",
+        "cleaned_comment": "perfected art musical shitpost oliver tree could never",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.654,
+            "pos": 0.346,
+            "compound": 0.5719
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "When I try listening to this I really don&#39;t like it too much I&#39;ve only listened to some of it. Is there something. I&#39;m missing I want to know.",
+        "cleaned_comment": "try listening really dont like much ive listened something im missing want know",
+        "sentiment": {
+            "neg": 0.289,
+            "neu": 0.629,
+            "pos": 0.082,
+            "compound": -0.5087
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "That clapping... those were not hands",
+        "cleaned_comment": "clapping hands",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Most overrated album ever <br><br>It’s just loud nonsense.",
+        "cleaned_comment": "overrated album ever loud nonsense",
+        "sentiment": {
+            "neg": 0.403,
+            "neu": 0.597,
+            "pos": 0.0,
+            "compound": -0.4019
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "as probably the worlds newest canibus fan seeing the melon mention him was the most exciting moment of the day",
+        "cleaned_comment": "probably worlds newest canibus fan seeing melon mention exciting moment day",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.621,
+            "pos": 0.379,
+            "compound": 0.6705
+        },
+        "emotions": {
+            "Happy": 0.25,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.25,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "So you gave peggy mafia light 9 just cause he&#39;s not fat other wise you would&#39;ve gave him fat 9 , now that&#39;s racist",
+        "cleaned_comment": "gave peggy mafia light cause hes fat wise wouldve gave fat thats racist",
+        "sentiment": {
+            "neg": 0.221,
+            "neu": 0.608,
+            "pos": 0.171,
+            "compound": -0.2263
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "Kingdom Hearts Key legit one of my all time favorite beats",
+        "cleaned_comment": "kingdom hearts key legit one time favorite beats",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.7,
+            "pos": 0.3,
+            "compound": 0.4588
+        },
+        "emotions": {
+            "Happy": 0.25,
+            "Angry": 0.0,
+            "Surprise": 0.25,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "2/10",
+        "cleaned_comment": "",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "best album of the year",
+        "cleaned_comment": "best album year",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.323,
+            "pos": 0.677,
+            "compound": 0.6369
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "That they were doing this on a 404 is commendable. I fuckin hate that thing because my friends are Dilla worshippers with a background in &#39;lofi hip-hop beats to study to&#39; type shit.",
+        "cleaned_comment": "commendable fuckin hate thing friends dilla worshippers background lofi hiphop beats study type shit",
+        "sentiment": {
+            "neg": 0.329,
+            "neu": 0.45,
+            "pos": 0.221,
+            "compound": -0.5267
+        },
+        "emotions": {
+            "Happy": 0.33,
+            "Angry": 0.0,
+            "Surprise": 0.33,
+            "Sad": 0.17,
+            "Fear": 0.17
+        }
+    },
+    {
+        "original_comment": "Never thought a song called Steppa Pig on an album called Scaring the Hoes would become one of my favorite songs of the year",
+        "cleaned_comment": "never thought song called steppa pig album called scaring hoes would become one favorite songs year",
+        "sentiment": {
+            "neg": 0.146,
+            "neu": 0.704,
+            "pos": 0.151,
+            "compound": 0.0258
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "shuolda been a 10",
+        "cleaned_comment": "shuolda",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "One of my favorite albums ever.",
+        "cleaned_comment": "one favorite albums ever",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.5,
+            "pos": 0.5,
+            "compound": 0.4588
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I saw this thumbnail and thought there was gonna be a Westside Gunn/Minions crossover. Guess dreams don&#39;t always come true",
+        "cleaned_comment": "saw thumbnail thought gon na westside gunnminions crossover guess dreams dont always come true",
+        "sentiment": {
+            "neg": 0.137,
+            "neu": 0.705,
+            "pos": 0.159,
+            "compound": 0.0946
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "MY SCORE: Strong 9 to 10.<br><br>Peggy and Danny are a match made in heaven, and Scaring The Hoes shows it. The title alone is already pretty iconic. Perfect for replaying, and has been playing in my car nonstop since it came out. Might’ve had some weird looks from other drivers but that makes me love it more.<br><br>Least favorite: Jack Harlow Combo Meal (Still a banger though).",
+        "cleaned_comment": "score strong peggy danny match made heaven scaring hoes shows title alone already pretty iconic perfect replaying playing car nonstop since came mightve weird looks drivers makes love moreleast favorite jack harlow combo meal still banger though",
+        "sentiment": {
+            "neg": 0.118,
+            "neu": 0.481,
+            "pos": 0.401,
+            "compound": 0.9509
+        },
+        "emotions": {
+            "Happy": 0.31,
+            "Angry": 0.08,
+            "Surprise": 0.08,
+            "Sad": 0.38,
+            "Fear": 0.15
+        }
+    },
+    {
+        "original_comment": "AOTY🔥🔥🔥🔥",
+        "cleaned_comment": "aoty",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Genuinely wondering what made this album not a 10 for melon. The creativity and beats are just electrifying and near perfect imo",
+        "cleaned_comment": "genuinely wondering made album melon creativity beats electrifying near perfect imo",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.588,
+            "pos": 0.412,
+            "compound": 0.743
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "its like more progressive xiu xiu and less aggressive death grips. perfect way to describe it",
+        "cleaned_comment": "like progressive xiu xiu less aggressive death grips perfect way describe",
+        "sentiment": {
+            "neg": 0.272,
+            "neu": 0.386,
+            "pos": 0.342,
+            "compound": 0.3119
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "this aulbm is over reted travis scott utopia so much better",
+        "cleaned_comment": "aulbm reted travis scott utopia much better",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.674,
+            "pos": 0.326,
+            "compound": 0.4404
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "This album seriously sounds like Brockhampton but it gives you headache when the track is over",
+        "cleaned_comment": "album seriously sounds like brockhampton gives headache track",
+        "sentiment": {
+            "neg": 0.167,
+            "neu": 0.588,
+            "pos": 0.245,
+            "compound": 0.2023
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "the greatest produced album this decade so far. also its album of the year",
+        "cleaned_comment": "greatest produced album decade far also album year",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.625,
+            "pos": 0.375,
+            "compound": 0.6369
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Bro that’s a big W he gave them light 9 without hesitation. That means it could really lead to a strong 10 easily. 🤯",
+        "cleaned_comment": "bro thats big w gave light without hesitation means could really lead strong easily",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.554,
+            "pos": 0.446,
+            "compound": 0.7939
+        },
+        "emotions": {
+            "Happy": 0.25,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.75
+        }
+    },
+    {
+        "original_comment": "It&#39;s not &quot;Triple X&quot; it&#39;s &quot;30&quot;",
+        "cleaned_comment": "quottriple xquot quotquot",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "This album scared me",
+        "cleaned_comment": "album scared",
+        "sentiment": {
+            "neg": 0.744,
+            "neu": 0.256,
+            "pos": 0.0,
+            "compound": -0.4404
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Shut Yo B,tch Ass Up / Muddy Waters is my fav on this album right now",
+        "cleaned_comment": "shut yo btch ass muddy waters fav album right",
+        "sentiment": {
+            "neg": 0.259,
+            "neu": 0.519,
+            "pos": 0.222,
+            "compound": -0.128
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.5,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "For me, this is the album of the year.",
+        "cleaned_comment": "album year",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "PARTY’S OVER, GRANDPA",
+        "cleaned_comment": "partys grandpa",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "This is JPEGMAFIA’s Watch The Throne.",
+        "cleaned_comment": "jpegmafias watch throne",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "orange juice jones is fucking beautiful. danny owns that track and the sample chops are gorgeous",
+        "cleaned_comment": "orange juice jones fucking beautiful danny owns track sample chops gorgeous",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.523,
+            "pos": 0.477,
+            "compound": 0.8479
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Garbage",
+        "cleaned_comment": "garbage",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Gotta come back for the extras! Hermanos and NO! Are bangers",
+        "cleaned_comment": "got ta come back extras hermanos bangers",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "dwadwadsafs YEAAHHHH GOOD A;NHGFNR",
+        "cleaned_comment": "dwadwadsafs yeaahhhh good anhgfnr",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.508,
+            "pos": 0.492,
+            "compound": 0.4404
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "am i the only one who doesn&#39;t like this album? 💀",
+        "cleaned_comment": "one doesnt like album",
+        "sentiment": {
+            "neg": 0.413,
+            "neu": 0.587,
+            "pos": 0.0,
+            "compound": -0.2755
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Top 1 this year for sure",
+        "cleaned_comment": "top year sure",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.196,
+            "pos": 0.804,
+            "compound": 0.4767
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "how is orange juice jones not in fav tracks its so catchy",
+        "cleaned_comment": "orange juice jones fav tracks catchy",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.625,
+            "pos": 0.375,
+            "compound": 0.4588
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Uno de los mejores álbumes que eh escuhado en mi vida entera, gracias.",
+        "cleaned_comment": "uno de los mejores lbumes que eh escuhado en mi vida entera gracias",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "We need a young nudy gumbo review STAT",
+        "cleaned_comment": "need young nudy gumbo review stat",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "The fact that they made Nintendo Famicom and lamb dish commercials work with the flow of GARBAGE PALE KIDS is incredible to me",
+        "cleaned_comment": "fact made nintendo famicom lamb dish commercials work flow garbage pale kids incredible",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.2,
+            "Angry": 0.0,
+            "Surprise": 0.2,
+            "Sad": 0.4,
+            "Fear": 0.2
+        }
+    },
+    {
+        "original_comment": "<a href=\"https://www.youtube.com/watch?v=bh3b0684RuU&amp;t=305\">5:05</a> - Lean Beef Patty<br><a href=\"https://www.youtube.com/watch?v=bh3b0684RuU&amp;t=203\">3:23</a> - Steppa Pig<br><a href=\"https://www.youtube.com/watch?v=bh3b0684RuU&amp;t=144\">2:24</a> - Scaring the Hoes<br><a href=\"https://www.youtube.com/watch?v=bh3b0684RuU&amp;t=258\">4:18</a> - Garbage Pale Kids<br><a href=\"https://www.youtube.com/watch?v=bh3b0684RuU&amp;t=297\">4:57</a> - Fentanyl Tester<br><a href=\"https://www.youtube.com/watch?v=bh3b0684RuU&amp;t=323\">5:23</a> - Burfict!<br><a href=\"https://www.youtube.com/watch?v=bh3b0684RuU&amp;t=318\">5:18</a> - Shut Yo Bitch Ass Up / Muddy Waters<br><a href=\"https://www.youtube.com/watch?v=bh3b0684RuU&amp;t=339\">5:39</a> - Orange Juice Jones<br><a href=\"https://www.youtube.com/watch?v=bh3b0684RuU&amp;t=349\">5:49</a> - Kingdom Hearts Key<br><a href=\"https://www.youtube.com/watch?v=bh3b0684RuU&amp;t=377\">6:17</a> - God Loves You<br><a href=\"https://www.youtube.com/watch?v=bh3b0684RuU&amp;t=339\">5:39</a> - Run the Jewels<br> - Jack Harlow Combo Meal<br><a href=\"https://www.youtube.com/watch?v=bh3b0684RuU&amp;t=390\">6:30</a> - HOE (Heaven on Earth)<br><a href=\"https://www.youtube.com/watch?v=bh3b0684RuU&amp;t=414\">6:54</a> - Where Ya Get Ya Coke From?",
+        "cleaned_comment": "lean beef patty steppa pig scaring hoes garbage pale kids fentanyl tester burfict shut yo bitch ass muddy waters orange juice jones kingdom hearts key god loves run jewels jack harlow combo meal hoe heaven earth ya get ya coke",
+        "sentiment": {
+            "neg": 0.184,
+            "neu": 0.597,
+            "pos": 0.219,
+            "compound": 0.2263
+        },
+        "emotions": {
+            "Happy": 0.18,
+            "Angry": 0.09,
+            "Surprise": 0.27,
+            "Sad": 0.45,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Take eelayt to 90 150 nrqwad. Ams move 40503 to marknet dot yo milfahlifaloaf bread squares",
+        "cleaned_comment": "take eelayt nrqwad ams move marknet dot yo milfahlifaloaf bread squares",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "If this album was called scaring the fantanhoes it would&#39;ve been a 10/10",
+        "cleaned_comment": "album called scaring fantanhoes wouldve",
+        "sentiment": {
+            "neg": 0.42,
+            "neu": 0.58,
+            "pos": 0.0,
+            "compound": -0.4404
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I like this album :)",
+        "cleaned_comment": "like album",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.286,
+            "pos": 0.714,
+            "compound": 0.3612
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "<a href=\"https://www.youtube.com/watch?v=bh3b0684RuU&amp;t=398\">6:38</a> <br>weird ADR tbh",
+        "cleaned_comment": "weird adr tbh",
+        "sentiment": {
+            "neg": 0.459,
+            "neu": 0.541,
+            "pos": 0.0,
+            "compound": -0.1779
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "It is me, I am hoes. This album was not for me lol",
+        "cleaned_comment": "hoes album lol",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.417,
+            "pos": 0.583,
+            "compound": 0.4215
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "It’s still album of the year",
+        "cleaned_comment": "still album year",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Album of the year so far IMO.",
+        "cleaned_comment": "album year far imo",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Ty for putting me onto this Fantano",
+        "cleaned_comment": "ty putting onto fantano",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.536,
+            "pos": 0.464,
+            "compound": 0.3818
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "to be honest a lil dissapointed that you rated &quot;Run the Jewels&quot; track so low - it&#39;s short of course, but production seems almost perfect for me",
+        "cleaned_comment": "honest lil dissapointed rated quotrun jewelsquot track low short course production seems almost perfect",
+        "sentiment": {
+            "neg": 0.106,
+            "neu": 0.555,
+            "pos": 0.339,
+            "compound": 0.6815
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.33,
+            "Surprise": 0.0,
+            "Sad": 0.67,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I loved this album when I first heard it and the more I listen to it the more I hate JPEG&#39;s production. Also, I&#39;m seeing them perform tonight.",
+        "cleaned_comment": "loved album first heard listen hate jpegs production also im seeing perform tonight",
+        "sentiment": {
+            "neg": 0.199,
+            "neu": 0.591,
+            "pos": 0.21,
+            "compound": 0.0516
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I still dont believe he is sitting.",
+        "cleaned_comment": "still dont believe sitting",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Download the DLC pls man I beg",
+        "cleaned_comment": "download dlc pls man beg",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.755,
+            "pos": 0.245,
+            "compound": 0.0772
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "LUMPY STINKY",
+        "cleaned_comment": "lumpy stinky",
+        "sentiment": {
+            "neg": 0.714,
+            "neu": 0.286,
+            "pos": 0.0,
+            "compound": -0.3612
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Overrated",
+        "cleaned_comment": "overrated",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "My kids still ask me to play this for em when we go on trips ❤️ utter classic",
+        "cleaned_comment": "kids still ask play em go trips utter classic",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.769,
+            "pos": 0.231,
+            "compound": 0.34
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "cant believe bro called OJJ undercooked lmaooo",
+        "cleaned_comment": "cant believe bro called ojj undercooked lmaooo",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "You should&#39;ve put that balaclava on when you reviewed DONDA B I&#39;m disappointed bruh!!!!",
+        "cleaned_comment": "shouldve put balaclava reviewed donda b im disappointed bruh",
+        "sentiment": {
+            "neg": 0.307,
+            "neu": 0.693,
+            "pos": 0.0,
+            "compound": -0.4767
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Okay at first I was like uh I don’t like this at all, then continued to listen to the whole album and eventually got the theme and the vibe of this album. Burfict might be one of the best songs this year and Scaring the hoes was great here too.",
+        "cleaned_comment": "okay first like uh dont like continued listen whole album eventually got theme vibe album burfict might one best songs year scaring hoes great",
+        "sentiment": {
+            "neg": 0.08,
+            "neu": 0.499,
+            "pos": 0.421,
+            "compound": 0.9062
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Really like the record but man the mix is dog shit. Can’t hear Danny at all on like half these tracks!!",
+        "cleaned_comment": "really like record man mix dog shit cant hear danny like half tracks",
+        "sentiment": {
+            "neg": 0.188,
+            "neu": 0.521,
+            "pos": 0.291,
+            "compound": 0.2467
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "If it was called To Scare a Butterhoe you would&#39;ve given it a 10",
+        "cleaned_comment": "called scare butterhoe wouldve given",
+        "sentiment": {
+            "neg": 0.444,
+            "neu": 0.556,
+            "pos": 0.0,
+            "compound": -0.4939
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "if this album was called “pimping the butterflies” it would be a 10",
+        "cleaned_comment": "album called pimping butterflies would",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    }
+]

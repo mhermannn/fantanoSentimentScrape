@@ -1,0 +1,1702 @@
+[
+    {
+        "original_comment": "RIP to all the innocents who died",
+        "cleaned_comment": "rip innocents died",
+        "sentiment": {
+            "neg": 0.537,
+            "neu": 0.149,
+            "pos": 0.313,
+            "compound": -0.3612
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "A Genius",
+        "cleaned_comment": "genius",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I bongo with my lingo",
+        "cleaned_comment": "bongo lingo",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "I genuinely think this is a 10",
+        "cleaned_comment": "genuinely think",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "This album sounds like two computers having an intense dance battle in the middle of a Sri Lankan slum.",
+        "cleaned_comment": "album sounds like two computers intense dance battle middle sri lankan slum",
+        "sentiment": {
+            "neg": 0.169,
+            "neu": 0.584,
+            "pos": 0.247,
+            "compound": 0.0516
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "she was born in sri lanka, not london",
+        "cleaned_comment": "born sri lanka london",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "U.R.A.Q.T is such a fun bop",
+        "cleaned_comment": "uraqt fun bop",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.377,
+            "pos": 0.623,
+            "compound": 0.5106
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "We love classic week YEAH",
+        "cleaned_comment": "love classic week yeah",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.238,
+            "pos": 0.762,
+            "compound": 0.7506
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "She is one of the last true musical artists in my opinion",
+        "cleaned_comment": "one last true musical artists opinion",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.641,
+            "pos": 0.359,
+            "compound": 0.4215
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Today this video have became 2 years old.",
+        "cleaned_comment": "today video became years old",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "This album has aged phenomenally. So fresh, so eclectic, so diverse. Fire Fire, Galang, Sunshowers really stick out to me. In my opinion it’s one of the greatest debut albums ever and it’s Maya’s best album",
+        "cleaned_comment": "album aged phenomenally fresh eclectic diverse fire fire galang sunshowers really stick opinion one greatest debut albums ever mayas best album",
+        "sentiment": {
+            "neg": 0.152,
+            "neu": 0.508,
+            "pos": 0.34,
+            "compound": 0.7845
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.33,
+            "Surprise": 0.33,
+            "Sad": 0.0,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "Thank you Anthony for recommending me this album, it&#39;s all that I&#39;ve been listening to all this week, fucking amazing",
+        "cleaned_comment": "thank anthony recommending album ive listening week fucking amazing",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.515,
+            "pos": 0.485,
+            "compound": 0.7645
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "so she&#39;s lost her based card now huh",
+        "cleaned_comment": "shes lost based card huh",
+        "sentiment": {
+            "neg": 0.365,
+            "neu": 0.635,
+            "pos": 0.0,
+            "compound": -0.3182
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "She was like 17 years ahead of the curve, now in 2022 most music sounds like this",
+        "cleaned_comment": "like years ahead curve music sounds like",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.5,
+            "pos": 0.5,
+            "compound": 0.6124
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "This has got to be a huge influence on Death Grips. The album is so bumpy and just…LOUD in the best way. Such an under appreciated artist.",
+        "cleaned_comment": "got huge influence death grips album bumpy justloud best way appreciated artist",
+        "sentiment": {
+            "neg": 0.18,
+            "neu": 0.369,
+            "pos": 0.452,
+            "compound": 0.7096
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "I love M.I.A. to death but Lords of Acid, Consolidated, Peaches, or Kelis could have done these beats. But she the one most people are stealing from if that makes sense. There also was that homophobic female rapper that came out in 95 who had a experimental 3rd album. She reminds me of Left Eye vocal wise. And &quot;R Kelly in[side] his teens.&quot; Her word play is second to none. She has no reason to really go in though. Macho is hard af though. Fire fire is overrated.",
+        "cleaned_comment": "love mia death lords acid consolidated peaches kelis could done beats one people stealing makes sense also homophobic female rapper came experimental rd album reminds left eye vocal wise quotr kelly inside teensquot word play second none reason really go though macho hard af though fire fire overrated",
+        "sentiment": {
+            "neg": 0.247,
+            "neu": 0.603,
+            "pos": 0.15,
+            "compound": -0.6486
+        },
+        "emotions": {
+            "Happy": 0.27,
+            "Angry": 0.18,
+            "Surprise": 0.18,
+            "Sad": 0.18,
+            "Fear": 0.18
+        }
+    },
+    {
+        "original_comment": "Two most iconic artists of the 2000s -- MF DOOM and M.I.A.",
+        "cleaned_comment": "two iconic artists mf doom mia",
+        "sentiment": {
+            "neg": 0.551,
+            "neu": 0.449,
+            "pos": 0.0,
+            "compound": -0.5994
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Review kala",
+        "cleaned_comment": "review kala",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "All of her albums are absolutely brilliant",
+        "cleaned_comment": "albums absolutely brilliant",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.328,
+            "pos": 0.672,
+            "compound": 0.624
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "Her music is fantastic. (And I think Rap in general Crap due to non-musicality of it. You can only mumble &quot;bitches&quot;, &quot;fuck&quot;, and &quot;nigga&quot; so many times before it&#39;s just so much garbage. But apparently, the masses are clueless on this.)  Anyway, Great music, MIA!  Thank you for music and for bucking the trashy trends!!!",
+        "cleaned_comment": "music fantastic think rap general crap due nonmusicality mumble quotbitchesquot quotfuckquot quotniggaquot many times much garbage apparently masses clueless anyway great music mia thank music bucking trashy trends",
+        "sentiment": {
+            "neg": 0.185,
+            "neu": 0.557,
+            "pos": 0.258,
+            "compound": 0.5994
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.25,
+            "Sad": 0.25,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "this album is so fucking good",
+        "cleaned_comment": "album fucking good",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.385,
+            "pos": 0.615,
+            "compound": 0.4927
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Arular was an excellent album. Her single Galang was a good song, so was the video.",
+        "cleaned_comment": "arular excellent album single galang good song video",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.476,
+            "pos": 0.524,
+            "compound": 0.765
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Thank you for reviewing this masterpiece!",
+        "cleaned_comment": "thank reviewing masterpiece",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.132,
+            "pos": 0.868,
+            "compound": 0.765
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "She’s PC Music before PC Music became PC Music.",
+        "cleaned_comment": "shes pc music pc music became pc music",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "You know it’s crazy… I thought paper planes was by this dumb one hit wonder ass artist. But after seeing someone use a different sound under a tiktok. She’s beginning to be one of my favorite sounding artist of the 2000s",
+        "cleaned_comment": "know crazy thought paper planes dumb one hit wonder ass artist seeing someone use different sound tiktok shes beginning one favorite sounding artist",
+        "sentiment": {
+            "neg": 0.295,
+            "neu": 0.609,
+            "pos": 0.096,
+            "compound": -0.7351
+        },
+        "emotions": {
+            "Happy": 0.25,
+            "Angry": 0.25,
+            "Surprise": 0.25,
+            "Sad": 0.0,
+            "Fear": 0.25
+        }
+    },
+    {
+        "original_comment": "I love M.i.A.",
+        "cleaned_comment": "love mia",
+        "sentiment": {
+            "neg": 0.344,
+            "neu": 0.0,
+            "pos": 0.656,
+            "compound": 0.4588
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Sounded like he was winding up to give it a 10 there",
+        "cleaned_comment": "sounded like winding give",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.545,
+            "pos": 0.455,
+            "compound": 0.3612
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "My favourite MIA for sure, this album is flawless imo I LOVE IT",
+        "cleaned_comment": "favourite mia sure album flawless imo love",
+        "sentiment": {
+            "neg": 0.147,
+            "neu": 0.2,
+            "pos": 0.653,
+            "compound": 0.8225
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Modern music ..eh ?",
+        "cleaned_comment": "modern music eh",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Each and every tune of this timeless masterpiece is a banger that will put you in a trance",
+        "cleaned_comment": "every tune timeless masterpiece banger put trance",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.594,
+            "pos": 0.406,
+            "compound": 0.6249
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "It&#39;s pronounced uh-ru-luhr or uh-ru-laar, melon",
+        "cleaned_comment": "pronounced uhruluhr uhrulaar melon",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Why does Anthony hate hidden tracks so much?",
+        "cleaned_comment": "anthony hate hidden tracks much",
+        "sentiment": {
+            "neg": 0.481,
+            "neu": 0.519,
+            "pos": 0.0,
+            "compound": -0.5719
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.5,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "MIA is a genius.",
+        "cleaned_comment": "mia genius",
+        "sentiment": {
+            "neg": 0.688,
+            "neu": 0.312,
+            "pos": 0.0,
+            "compound": -0.296
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "It’s not for me, but I checked it out because of you - appreciate the exposure!",
+        "cleaned_comment": "checked appreciate exposure",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.426,
+            "pos": 0.574,
+            "compound": 0.4019
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "I’ve never really understood her hype. I don’t hate her, in fact I think some of her music is pretty cool, but the hip hop and electronic community hype her up so much I would’ve thought she had a voice like Sam Cooke, and lyrics like Kendrick.",
+        "cleaned_comment": "ive never really understood hype dont hate fact think music pretty cool hip hop electronic community hype much wouldve thought voice like sam cooke lyrics like kendrick",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.62,
+            "pos": 0.38,
+            "compound": 0.91
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.25,
+            "Fear": 0.25
+        }
+    },
+    {
+        "original_comment": "Her album MAYA still sounds ahead of time. Critics wete not ready for it when it came in 2010. But yes that was her least accessible album ever.",
+        "cleaned_comment": "album maya still sounds ahead time critics wete ready came yes least accessible album ever",
+        "sentiment": {
+            "neg": 0.113,
+            "neu": 0.619,
+            "pos": 0.268,
+            "compound": 0.4588
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I LOVE YOU M.I.A. 😘🧡🧡🧡🧡🧡🧡🧡",
+        "cleaned_comment": "love mia",
+        "sentiment": {
+            "neg": 0.344,
+            "neu": 0.0,
+            "pos": 0.656,
+            "compound": 0.4588
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "MAYA in Classics Week.",
+        "cleaned_comment": "maya classics week",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Great great album!!!<br>Great review!!!",
+        "cleaned_comment": "great great albumgreat review",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.196,
+            "pos": 0.804,
+            "compound": 0.8481
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "People need to be revisiting music and movies that got a little dust on them. They&#39;re still great works of art.",
+        "cleaned_comment": "people need revisiting music movies got little dust theyre still great works art",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.745,
+            "pos": 0.255,
+            "compound": 0.6249
+        },
+        "emotions": {
+            "Happy": 0.33,
+            "Angry": 0.33,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "THIS ALBUM IS ONE OF THE BEST THINGS POP MUSIC HAS EVER GIVEN ME.<br>She expresses the urgency of the third world agenda with such excellence that makes me cry of happiness. ABSOLUTELY ahead of her time. Being from Brasil, it was the first time I could see someone from out of Latin America express anything about my country with such accuracy. It was no offensive caricature. I guess it was so accurate because it was the first time I was not seeing an Imperialistic overview of my culture. There is a bigger degree of understanding when it&#39;s between citizens of two countries that have been very explored by Europe and North America throughout History.<br><br>And it&#39;s funny because I was a kid at the time and I already felt it! I did not know what Imperialism was in theory, but I knew for my experience. So, I got to listen to her music and got in touch with this kind of discourse. Arular started that third-world revolutionary empowerment in my early teenage years.  Thanks M.I.A. &lt;3",
+        "cleaned_comment": "album one best things pop music ever given meshe expresses urgency third world agenda excellence makes cry happiness absolutely ahead time brasil first time could see someone latin america express anything country accuracy offensive caricature guess accurate first time seeing imperialistic overview culture bigger degree understanding citizens two countries explored europe north america throughout historyand funny kid time already felt know imperialism theory knew experience got listen music got touch kind discourse arular started thirdworld revolutionary empowerment early teenage years thanks mia lt",
+        "sentiment": {
+            "neg": 0.08,
+            "neu": 0.716,
+            "pos": 0.204,
+            "compound": 0.93
+        },
+        "emotions": {
+            "Happy": 0.21,
+            "Angry": 0.0,
+            "Surprise": 0.36,
+            "Sad": 0.36,
+            "Fear": 0.07
+        }
+    },
+    {
+        "original_comment": "Damn, now all these indie boys are gonna be jumping on. Haha. Great review  Anthony. -fly pirates xx",
+        "cleaned_comment": "damn indie boys gon na jumping haha great review anthony fly pirates xx",
+        "sentiment": {
+            "neg": 0.136,
+            "neu": 0.505,
+            "pos": 0.359,
+            "compound": 0.6597
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Wow, this is amazing.  I&quot;ve been listening to her first album on repeat lately....time to start spinning the second one too! Thanks for the great review.  Mathangi Arulpragasam ROCKS, then and NOW.",
+        "cleaned_comment": "wow amazing iquotve listening first album repeat latelytime start spinning second one thanks great review mathangi arulpragasam rocks",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.49,
+            "pos": 0.51,
+            "compound": 0.9393
+        },
+        "emotions": {
+            "Happy": 0.33,
+            "Angry": 0.0,
+            "Surprise": 0.67,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Discovered her through the song Galang. Best song in this album.",
+        "cleaned_comment": "discovered song galang best song album",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.543,
+            "pos": 0.457,
+            "compound": 0.6369
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "This has been one of my favourite albums for years now. Regardless of her later work, Arular and Kala are modern day classics. Very few albums are so consistently energetic and entertaining. Just be careful driving to this music.",
+        "cleaned_comment": "one favourite albums years regardless later work arular kala modern day classics albums consistently energetic entertaining careful driving music",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.684,
+            "pos": 0.316,
+            "compound": 0.7506
+        },
+        "emotions": {
+            "Happy": 0.33,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.33,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "Can you rate my friend’s song? It’s only on soundcloud since she doesn’t have enough money. It’s called To be a Bee. Please do this for charity, it would mean so much to her.......",
+        "cleaned_comment": "rate friends song soundcloud since doesnt enough money called bee please charity would mean much",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.594,
+            "pos": 0.406,
+            "compound": 0.802
+        },
+        "emotions": {
+            "Happy": 0.67,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "Came here from The Quietus.",
+        "cleaned_comment": "came quietus",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "You reviewed this?!?!?!?!?!!",
+        "cleaned_comment": "reviewed",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "She&#39;s one of my heroes!",
+        "cleaned_comment": "shes one heroes",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.377,
+            "pos": 0.623,
+            "compound": 0.5106
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "just listened to the album because of this and maaaan this was so ahead of its time, mind is blown",
+        "cleaned_comment": "listened album maaaan ahead time mind blown",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I like the album more than Kala, which was disappointing. MIA is not the greatest artist of the 00s but she certainly deserves her place.",
+        "cleaned_comment": "like album kala disappointing mia greatest artist certainly deserves place",
+        "sentiment": {
+            "neg": 0.277,
+            "neu": 0.256,
+            "pos": 0.467,
+            "compound": 0.5719
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "BA<br>NA<br><b>NAAAAA</b>",
+        "cleaned_comment": "bananaaaaa",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "This has got me wanting a Kala review.",
+        "cleaned_comment": "got wanting kala review",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Piracy funds terrorism is the defining sound of the 2000’s for me. I love MIA so much still today.",
+        "cleaned_comment": "piracy funds terrorism defining sound love mia much still today",
+        "sentiment": {
+            "neg": 0.378,
+            "neu": 0.389,
+            "pos": 0.233,
+            "compound": -0.3818
+        },
+        "emotions": {
+            "Happy": 0.33,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.67
+        }
+    },
+    {
+        "original_comment": "THANK YOU",
+        "cleaned_comment": "thank",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 1.0,
+            "compound": 0.3612
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Thank you for this video. Been listening to her since forever and still do - feels good to hear her being appreciated by someone other than me",
+        "cleaned_comment": "thank video listening since forever still feels good hear appreciated someone",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.479,
+            "pos": 0.521,
+            "compound": 0.8271
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "WHOLE LOTTA RED REVIEW",
+        "cleaned_comment": "whole lotta red review",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 1.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "M.i.A.",
+        "cleaned_comment": "mia",
+        "sentiment": {
+            "neg": 1.0,
+            "neu": 0.0,
+            "pos": 0.0,
+            "compound": -0.296
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "That mid af Swagger Like Us track introduced me to MIA back in 09. Used to jam this a lot. Imo this is her most consistent and best record.",
+        "cleaned_comment": "mid af swagger like us track introduced mia back used jam lot imo consistent best record",
+        "sentiment": {
+            "neg": 0.1,
+            "neu": 0.594,
+            "pos": 0.306,
+            "compound": 0.6705
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "one of the best albums of all time",
+        "cleaned_comment": "one best albums time",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.417,
+            "pos": 0.583,
+            "compound": 0.6369
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "We all liked Paper Planes when it came out that year. I was in the used cd section on an electronic store this recent 2020. I spied her Kala album and was so tempted to get it. I wanted to bad but I was out of a job. <br>I started listening to it online and it is such a banger. Now I&#39;m wondering why I never tried listening to her too much over all these years",
+        "cleaned_comment": "liked paper planes came year used cd section electronic store recent spied kala album tempted get wanted bad job started listening online banger im wondering never tried listening much years",
+        "sentiment": {
+            "neg": 0.102,
+            "neu": 0.816,
+            "pos": 0.082,
+            "compound": -0.1779
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.33,
+            "Sad": 0.0,
+            "Fear": 0.67
+        }
+    },
+    {
+        "original_comment": "Hi, can you please review Gashi’s album :1984",
+        "cleaned_comment": "hi please review gashis album",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.635,
+            "pos": 0.365,
+            "compound": 0.3182
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Wait this album bangs so hard...",
+        "cleaned_comment": "wait album bangs hard",
+        "sentiment": {
+            "neg": 0.318,
+            "neu": 0.682,
+            "pos": 0.0,
+            "compound": -0.1027
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.5,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "well",
+        "cleaned_comment": "well",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 1.0,
+            "compound": 0.2732
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Thank you Anthony. First downward spiral from nin and then this. Really cool",
+        "cleaned_comment": "thank anthony first downward spiral nin really cool",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.541,
+            "pos": 0.459,
+            "compound": 0.624
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "the way he says &quot;rio de janeiro&quot; kkkk",
+        "cleaned_comment": "way says quotrio de janeiroquot kkkk",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Thanks Fantoine it&#39;s my favorite record",
+        "cleaned_comment": "thanks fantoine favorite record",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.253,
+            "pos": 0.747,
+            "compound": 0.7096
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "M.I.A.: oi garoto 😏<br>fantano: if that&#39;s not political I don&#39;t know what is 🥺",
+        "cleaned_comment": "mia oi garoto fantano thats political dont know",
+        "sentiment": {
+            "neg": 0.239,
+            "neu": 0.761,
+            "pos": 0.0,
+            "compound": -0.296
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "One of my favorite albums of all time. From beginning to end. The Sanford &amp; Son sample slays me. And 10 Dollars is my go to just feel good jam",
+        "cleaned_comment": "one favorite albums time beginning end sanford amp son sample slays dollars go feel good jam",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.704,
+            "pos": 0.296,
+            "compound": 0.7096
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "CLASSICS WEEK? DO UGK’S “RIDIN DIRTY”",
+        "cleaned_comment": "classics week ugks ridin dirty",
+        "sentiment": {
+            "neg": 0.42,
+            "neu": 0.58,
+            "pos": 0.0,
+            "compound": -0.4404
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 1.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "You should do a classic track review just of Paper Planes",
+        "cleaned_comment": "classic track review paper planes",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "I love this album, and the mixtape is just as good (if not a little better). Both her mixtapes are so good and worth a listen",
+        "cleaned_comment": "love album mixtape good little better mixtapes good worth listen",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.256,
+            "pos": 0.744,
+            "compound": 0.9261
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "yes",
+        "cleaned_comment": "yes",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 1.0,
+            "compound": 0.4019
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "uk rapper, singer, songwritter, multimedia artist, political activIst and anti-vaxxer M.I.A",
+        "cleaned_comment": "uk rapper singer songwritter multimedia artist political activist antivaxxer mia",
+        "sentiment": {
+            "neg": 0.196,
+            "neu": 0.804,
+            "pos": 0.0,
+            "compound": -0.296
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "review marsha4u by princessmarsha6969!",
+        "cleaned_comment": "review marshau princessmarsha",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "I remember I was bullied for listening to her, for having a too weird of a music taste,  oh how the turntables. I love this review!!",
+        "cleaned_comment": "remember bullied listening weird music taste oh turntables love review",
+        "sentiment": {
+            "neg": 0.341,
+            "neu": 0.412,
+            "pos": 0.247,
+            "compound": -0.1531
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Love M.I.A. and love this album",
+        "cleaned_comment": "love mia love album",
+        "sentiment": {
+            "neg": 0.19,
+            "neu": 0.086,
+            "pos": 0.724,
+            "compound": 0.802
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "2005 is considered classic now. Damn time, you mind not sneaking up on me like that?",
+        "cleaned_comment": "considered classic damn time mind sneaking like",
+        "sentiment": {
+            "neg": 0.265,
+            "neu": 0.49,
+            "pos": 0.245,
+            "compound": -0.0516
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I wonder if somebody hates you more than I do... is it possible that I&#39;m your biggest hater... I have real morbid fantasies... (and it has nothing to do with M.I.A)",
+        "cleaned_comment": "wonder somebody hates possible im biggest hater real morbid fantasies nothing mia",
+        "sentiment": {
+            "neg": 0.344,
+            "neu": 0.543,
+            "pos": 0.114,
+            "compound": -0.5875
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.25,
+            "Sad": 0.75,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I picked this up on CD a few years back at thrift for $2, and it is still the best $2 I ever spent.",
+        "cleaned_comment": "picked cd years back thrift still best ever spent",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.656,
+            "pos": 0.344,
+            "compound": 0.6369
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "So pleased you looked back at this one - one of my all time favourites and the soundtrack for a generation. Loved the review!",
+        "cleaned_comment": "pleased looked back one one time favourites soundtrack generation loved review",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.57,
+            "pos": 0.43,
+            "compound": 0.7783
+        },
+        "emotions": {
+            "Happy": 0.67,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.33,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "DO YS",
+        "cleaned_comment": "ys",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Salt and pepper your mangos y&#39;all.",
+        "cleaned_comment": "salt pepper mangos yall",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "I always get excited when I see one of my favorite albums growing up be reviewed for good classics.",
+        "cleaned_comment": "always get excited see one favorite albums growing reviewed good classics",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.412,
+            "pos": 0.588,
+            "compound": 0.8402
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Yo did Anthony reveiw wlr",
+        "cleaned_comment": "yo anthony reveiw wlr",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "A Ready to Die, Liquid Sword and Delton 3030 classic review will kill Corona and end the 2020 curse Melon ! I&#39;ve heard this prophecy playing Mbdtf backwards!!",
+        "cleaned_comment": "ready die liquid sword delton classic review kill corona end curse melon ive heard prophecy playing mbdtf backwards",
+        "sentiment": {
+            "neg": 0.412,
+            "neu": 0.442,
+            "pos": 0.146,
+            "compound": -0.8689
+        },
+        "emotions": {
+            "Happy": 0.33,
+            "Angry": 0.0,
+            "Surprise": 0.33,
+            "Sad": 0.0,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "One of my favourite albums!",
+        "cleaned_comment": "one favourite albums",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "27/10 album",
+        "cleaned_comment": "album",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "“This is my jam today” only the real know",
+        "cleaned_comment": "jam today real know",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "before diplo was doing trendy millenial edm, he debuted with weird shit like this!",
+        "cleaned_comment": "diplo trendy millenial edm debuted weird shit like",
+        "sentiment": {
+            "neg": 0.414,
+            "neu": 0.391,
+            "pos": 0.195,
+            "compound": -0.4215
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Her second album Kala is better. They&#39;re both worth a listen though.",
+        "cleaned_comment": "second album kala better theyre worth listen though",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.556,
+            "pos": 0.444,
+            "compound": 0.5859
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "This album was high art",
+        "cleaned_comment": "album high art",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "REVIEW WLR",
+        "cleaned_comment": "review wlr",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "“viral egirl rappers on youtube” that settles it Belle Delphine debut getting a 10",
+        "cleaned_comment": "viral egirl rappers youtube settles belle delphine debut getting",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "z",
+        "cleaned_comment": "z",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Farcry 3 introduced me to her",
+        "cleaned_comment": "farcry introduced",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Epitome of UK music imo, melting pot music",
+        "cleaned_comment": "epitome uk music imo melting pot music",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "SOMEBODY PLS TELL MELON WLR DROPPED",
+        "cleaned_comment": "somebody pls tell melon wlr dropped",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.794,
+            "pos": 0.206,
+            "compound": 0.0772
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Brota no Rio que tu vai ser feliz Melão. Vamo te deixar forte.",
+        "cleaned_comment": "brota rio que tu vai ser feliz melo vamo te deixar forte",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "We seriously not getting WLR review????",
+        "cleaned_comment": "seriously getting wlr review",
+        "sentiment": {
+            "neg": 0.362,
+            "neu": 0.638,
+            "pos": 0.0,
+            "compound": -0.1779
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    }
+]

@@ -19,3 +19,4 @@ def organizer(vidId, name):
 
     barGraphs(name)
     emotionBars(name)
+    

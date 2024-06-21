@@ -4,3 +4,18 @@ nltk
 text2emotion
 matplotlib
 pandas
+torch
+transformers 
+re
+
+# numpy
+# beautifulsoup4 
+# requests 
+
+
+# torchvision
+# torchaudio
+
+# pickle
+
+# tensorflow

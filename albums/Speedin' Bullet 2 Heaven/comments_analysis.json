@@ -1,0 +1,1702 @@
+[
+    {
+        "original_comment": "Listenijg to this album... like, its not that bad lmao. I feel like it does come off the same way as captain beefheart lmao, like can we admit that blues in general is dissonant and fucking wacked out. Tom waits? Bob dylan? None of that shit is cohesive, but it sounds cool.",
+        "cleaned_comment": "listenijg album like bad lmao feel like come way captain beefheart lmao like admit blues general dissonant fucking wacked tom waits bob dylan none shit cohesive sounds cool",
+        "sentiment": {
+            "neg": 0.078,
+            "neu": 0.424,
+            "pos": 0.498,
+            "compound": 0.9503
+        },
+        "emotions": {
+            "Happy": 0.33,
+            "Angry": 0.0,
+            "Surprise": 0.33,
+            "Sad": 0.33,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "EAT WHATS ON YOUR PLATE <br>FILL YOURSELF WITH HATE",
+        "cleaned_comment": "eat whats plate fill hate",
+        "sentiment": {
+            "neg": 0.481,
+            "neu": 0.519,
+            "pos": 0.0,
+            "compound": -0.5719
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.33,
+            "Fear": 0.67
+        }
+    },
+    {
+        "original_comment": "No way people are saying Fanta o is wrong on this one☠️ kid cudi glazers can’t admit when an album is bad",
+        "cleaned_comment": "way people saying fanta wrong one kid cudi glazers cant admit album bad",
+        "sentiment": {
+            "neg": 0.267,
+            "neu": 0.57,
+            "pos": 0.162,
+            "compound": -0.2124
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "This album is amazing you cuck",
+        "cleaned_comment": "album amazing cuck",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.345,
+            "pos": 0.655,
+            "compound": 0.5859
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "NO MORE CHICKEN SANDWICHES YES ILL PAY FOR THE DAMAGES",
+        "cleaned_comment": "chicken sandwiches yes ill pay damages",
+        "sentiment": {
+            "neg": 0.602,
+            "neu": 0.169,
+            "pos": 0.229,
+            "compound": -0.5267
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "Whats that album behind him with the constellation",
+        "cleaned_comment": "whats album behind constellation",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "I love this album, ya&#39;ll can&#39;t change my mind",
+        "cleaned_comment": "love album yall cant change mind",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.543,
+            "pos": 0.457,
+            "compound": 0.6369
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "maybe if it was called to pimp a speeding bullet he wouldve given it a 10<br><br><br><br><br><br>as a side note i genuinely have never seen him this upset during a review he actually was being tortured by this album",
+        "cleaned_comment": "maybe called pimp speeding bullet wouldve given side note genuinely never seen upset review actually tortured album",
+        "sentiment": {
+            "neg": 0.173,
+            "neu": 0.722,
+            "pos": 0.105,
+            "compound": -0.3434
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "If the name of the album was To Pimp A Speedin Bullet 2 Heaven he would have given it a 10",
+        "cleaned_comment": "name album pimp speedin bullet heaven would given",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.68,
+            "pos": 0.32,
+            "compound": 0.5106
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I liked it",
+        "cleaned_comment": "liked",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 1.0,
+            "compound": 0.4215
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Cudi fuckin rocks....this guy has never made anything but a reaction video",
+        "cleaned_comment": "cudi fuckin rocksthis guy never made anything reaction video",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "L",
+        "cleaned_comment": "l",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "At least we know Anthony isnt depressed",
+        "cleaned_comment": "least know anthony isnt depressed",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.597,
+            "pos": 0.403,
+            "compound": 0.4023
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Late to the party but... a zero? C&#39;mon now. This album destroys Angelic 2 the Core.. You threw Miley Cyrus and Her Dead Petz a bone and gave that trash a 1.. that&#39;s WAY worse than this. This album at least has some genuine emotion poured into it. I dig a handful of tracks on it.",
+        "cleaned_comment": "late party zero cmon album destroys angelic core threw miley cyrus dead petz bone gave trash thats way worse album least genuine emotion poured dig handful tracks",
+        "sentiment": {
+            "neg": 0.3,
+            "neu": 0.627,
+            "pos": 0.074,
+            "compound": -0.8519
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.14,
+            "Surprise": 0.0,
+            "Sad": 0.43,
+            "Fear": 0.43
+        }
+    },
+    {
+        "original_comment": "I use to hate the album... But now I love it!!",
+        "cleaned_comment": "use hate album love",
+        "sentiment": {
+            "neg": 0.374,
+            "neu": 0.202,
+            "pos": 0.424,
+            "compound": 0.128
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "maturing is realising Fantano was wrong.",
+        "cleaned_comment": "maturing realising fantano wrong",
+        "sentiment": {
+            "neg": 0.508,
+            "neu": 0.492,
+            "pos": 0.0,
+            "compound": -0.4767
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "This album is a classic",
+        "cleaned_comment": "album classic",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "I like all Kid Cudi Albums they have this raw element of creative energy",
+        "cleaned_comment": "like kid cudi albums raw element creative energy",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.4,
+            "pos": 0.6,
+            "compound": 0.7579
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I&#39;m not saying Fantano was wrong to see this as a bad album or criticise the music. I think it&#39;s bad. But it was wack as fuck of him to personally attack Kid Cudi for his state of mind and drug addiction. He even recognized that many of Cudi&#39;s lyrics were extremely depressed and suicidal. For Anthony to not infer that Cudi was really struggling at the very least is really irresponsible, and calling an artistic work of him putting his suicidal thoughts on his sleeve as boring pretentious garbage seems in poor taste",
+        "cleaned_comment": "im saying fantano wrong see bad album criticise music think bad wack fuck personally attack kid cudi state mind drug addiction even recognized many cudis lyrics extremely depressed suicidal anthony infer cudi really struggling least really irresponsible calling artistic work putting suicidal thoughts sleeve boring pretentious garbage seems poor taste",
+        "sentiment": {
+            "neg": 0.546,
+            "neu": 0.454,
+            "pos": 0.0,
+            "compound": -0.9925
+        },
+        "emotions": {
+            "Happy": 0.23,
+            "Angry": 0.0,
+            "Surprise": 0.08,
+            "Sad": 0.54,
+            "Fear": 0.15
+        }
+    },
+    {
+        "original_comment": "MELTING is a banger tho",
+        "cleaned_comment": "melting banger tho",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "I can kinda groove to the first minute of &quot;Confused&quot; if I don&#39;t pay attention to the lyrics. That&#39;s just about the nicest thing I can say about this album.",
+        "cleaned_comment": "kinda groove first minute quotconfusedquot dont pay attention lyrics thats nicest thing say album",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.727,
+            "pos": 0.273,
+            "compound": 0.5417
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "should I listen to this",
+        "cleaned_comment": "listen",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "This is fantanos biggest video lol KING 👑 CUDI",
+        "cleaned_comment": "fantanos biggest video lol king cudi",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.641,
+            "pos": 0.359,
+            "compound": 0.4215
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "CONFUSED! is ok though. honestly kinda good",
+        "cleaned_comment": "confused ok though honestly kinda good",
+        "sentiment": {
+            "neg": 0.19,
+            "neu": 0.165,
+            "pos": 0.645,
+            "compound": 0.6712
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "I feel like this album just needs to be listened to in a certain mood. You need to relate to be a huge fan of Cudi",
+        "cleaned_comment": "feel like album needs listened certain mood need relate huge fan cudi",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.465,
+            "pos": 0.535,
+            "compound": 0.802
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I predict Melon will retire from youtube 10 years from now",
+        "cleaned_comment": "predict melon retire youtube years",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "I thought the album was fine",
+        "cleaned_comment": "thought album fine",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.526,
+            "pos": 0.474,
+            "compound": 0.2023
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "You gave this album a 0 which is basically a Light 0 which is basically a Decent 0 which is basically a Strong 0 which is basically a Light 1 which is basically a Decent 1 which is basically a Strong 1 which is basically a Light 2 which is basically a Decent 2 which is basically a Strong 2 which is basically a Light 3 which is basically a Decent 3 which is basically a Strong 3 which is basically a Light 4 which is basically a Decent 4 which is basically a Strong 4 which is basically a Light 5 which is basically a Decent 5 which is basically a Strong 5 which is basically a Light 6 which is basically a Decent 6 which is basically a Strong 6 which is basically a Light 7 which is basically a Decent 7 which is basically a Strong 7 which is basically a Light 8 which is basically a Decent 8 which is basically a Strong 8 which is basically a Light 9 which is basically a Decent 9 which is basically a Strong 9 which is basically a 10.",
+        "cleaned_comment": "gave album basically light basically decent basically strong basically light basically decent basically strong basically light basically decent basically strong basically light basically decent basically strong basically light basically decent basically strong basically light basically decent basically strong basically light basically decent basically strong basically light basically decent basically strong basically light basically decent basically strong basically light basically decent basically strong basically",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.616,
+            "pos": 0.384,
+            "compound": 0.9861
+        },
+        "emotions": {
+            "Happy": 0.19,
+            "Angry": 0.0,
+            "Surprise": 0.19,
+            "Sad": 0.0,
+            "Fear": 0.62
+        }
+    },
+    {
+        "original_comment": "You can literally see the chair in this one… and no one noticed until he pointed out that he sits",
+        "cleaned_comment": "literally see chair one one noticed pointed sits",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "I love this album",
+        "cleaned_comment": "love album",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.192,
+            "pos": 0.808,
+            "compound": 0.6369
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I hate this guy",
+        "cleaned_comment": "hate guy",
+        "sentiment": {
+            "neg": 0.787,
+            "neu": 0.213,
+            "pos": 0.0,
+            "compound": -0.5719
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "You have to be in a certain space to discover this you can’t just listen and the demo tracks went over his head because he don’t make music. Music is for him not you",
+        "cleaned_comment": "certain space discover cant listen demo tracks went head dont make music music",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.851,
+            "pos": 0.149,
+            "compound": 0.2732
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.33,
+            "Sad": 0.33,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "Speeding bullet to the trash can 😅",
+        "cleaned_comment": "speeding bullet trash",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 1.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I hate how people like you can have a voice.",
+        "cleaned_comment": "hate people like voice",
+        "sentiment": {
+            "neg": 0.451,
+            "neu": 0.244,
+            "pos": 0.305,
+            "compound": -0.296
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "Today I had this thought &quot;oh yeah that thing, let me give it another listen,  maybe it wasn&#39;t as bad as I remember&quot;<br>Yeah,  I got 3 songs in and then checked the run time and saw 90 MINUTES and I backed the fuck down. <br>Unless you&#39;re an amazing songwriter,  punk rock and long run times don&#39;t go well together",
+        "cleaned_comment": "today thought quotoh yeah thing let give another listen maybe wasnt bad rememberquotyeah got songs checked run time saw minutes backed fuck unless youre amazing songwriter punk rock long run times dont go well together",
+        "sentiment": {
+            "neg": 0.12,
+            "neu": 0.655,
+            "pos": 0.225,
+            "compound": 0.5627
+        },
+        "emotions": {
+            "Happy": 0.2,
+            "Angry": 0.2,
+            "Surprise": 0.2,
+            "Sad": 0.0,
+            "Fear": 0.4
+        }
+    },
+    {
+        "original_comment": "Unless you experienced the &quot;Dark Night Soul&quot;(or the &quot;Kundalini Blues&quot; as I call it) on your Psychological/Spiritual/Artodyic journey to finding wholeness/enlightenment/individuation and also are honest enough with  oneself&#39;s to realize the piece of trash many of us also are too, deep down[and of course have a biase for grunge music, perhaps because of those reasons] then you probably should even listen or attempt to judge this music, its made for the few who&#39;ve been their and if you have you realize the rare masterpiece it was that most artist<br><b>(until the indie scene literally took this main stream n this album would probably top some charts if released today with all the indie, psychedic, music, festival, thats celebratory while still emo that erupted slowly through the years after its release..)</b><br>never take those chances and I&#39;m beyond grateful he did.",
+        "cleaned_comment": "unless experienced quotdark night soulquotor quotkundalini bluesquot call psychologicalspiritualartodyic journey finding wholenessenlightenmentindividuation also honest enough oneselfs realize piece trash many us also deep downand course biase grunge music perhaps reasons probably even listen attempt judge music made whove realize rare masterpiece artistuntil indie scene literally took main stream n album would probably top charts released today indie psychedic music festival thats celebratory still emo erupted slowly years releasenever take chances im beyond grateful",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.793,
+            "pos": 0.207,
+            "compound": 0.9451
+        },
+        "emotions": {
+            "Happy": 0.1,
+            "Angry": 0.2,
+            "Surprise": 0.2,
+            "Sad": 0.2,
+            "Fear": 0.3
+        }
+    },
+    {
+        "original_comment": "I really wish you would’ve put a Beavis and Butthead skit at the end of this review. Missed opportunity",
+        "cleaned_comment": "really wish wouldve put beavis butthead skit end review missed opportunity",
+        "sentiment": {
+            "neg": 0.138,
+            "neu": 0.5,
+            "pos": 0.362,
+            "compound": 0.5563
+        },
+        "emotions": {
+            "Happy": 0.33,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.67,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I watch this when I need cheering up",
+        "cleaned_comment": "watch need cheering",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.377,
+            "pos": 0.623,
+            "compound": 0.5106
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Bruh u wrong this album deserves at least like a solid 5 or sum not 0. You should give Lil Pump a zero💀",
+        "cleaned_comment": "bruh u wrong album deserves least like solid sum give lil pump zero",
+        "sentiment": {
+            "neg": 0.33,
+            "neu": 0.569,
+            "pos": 0.101,
+            "compound": -0.5588
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "Melon should do a redux of this, i think SB2H is actually amazing",
+        "cleaned_comment": "melon redux think sbh actually amazing",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.568,
+            "pos": 0.432,
+            "compound": 0.5859
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "The album reminds me of how I once heard The Room described: A movie made by someone who has never seen a movie but had movies described to them. SB2H sounds like an album made by a person who has never heard a 90&#39;s alternative album but has had 90&#39;s alternative music explained to them. Also a person who doesn&#39;t have the chops to make this kind of music. Which is not to say that it takes virtuosic chops, and not to say that Scott isn&#39;t talented, he&#39;s just not a good singer or musician in the way that the music he was trying to make demands.",
+        "cleaned_comment": "album reminds heard room described movie made someone never seen movie movies described sbh sounds like album made person never heard alternative album alternative music explained also person doesnt chops make kind music say takes virtuosic chops say scott isnt talented hes good singer musician way music trying make demands",
+        "sentiment": {
+            "neg": 0.135,
+            "neu": 0.768,
+            "pos": 0.097,
+            "compound": -0.2924
+        },
+        "emotions": {
+            "Happy": 0.14,
+            "Angry": 0.0,
+            "Surprise": 0.14,
+            "Sad": 0.57,
+            "Fear": 0.14
+        }
+    },
+    {
+        "original_comment": "<a href=\"https://www.youtube.com/watch?v=CJDcbwpsjU0&amp;t=460\">7:40</a> I literally rewatch this video for this part",
+        "cleaned_comment": "literally rewatch video part",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "This is one of the only albums I can pick up when I feel like everything is falling apart around me. For anyone that’s ever been severely depressed and/or battling addiction this project hits in places other can’t.",
+        "cleaned_comment": "one albums pick feel like everything falling apart around anyone thats ever severely depressed andor battling addiction project hits places cant",
+        "sentiment": {
+            "neg": 0.351,
+            "neu": 0.561,
+            "pos": 0.088,
+            "compound": -0.7579
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.33,
+            "Surprise": 0.0,
+            "Sad": 0.33,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "This is def his funniest thumbnail ever",
+        "cleaned_comment": "def funniest thumbnail ever",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.455,
+            "pos": 0.545,
+            "compound": 0.5574
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "I can understand why people don’t like this album, but for me, it’s honesty and raw amount of ass really speaks to me.",
+        "cleaned_comment": "understand people dont like album honesty raw amount ass really speaks",
+        "sentiment": {
+            "neg": 0.507,
+            "neu": 0.493,
+            "pos": 0.0,
+            "compound": -0.8041
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "fact is that this album IS cudi. this is the rawest emotion he&#39;s ever expressed. if you hate this album you&#39;ve never felt anything close to what cudi felt when making it",
+        "cleaned_comment": "fact album cudi rawest emotion hes ever expressed hate album youve never felt anything close cudi felt making",
+        "sentiment": {
+            "neg": 0.179,
+            "neu": 0.821,
+            "pos": 0.0,
+            "compound": -0.5719
+        },
+        "emotions": {
+            "Happy": 0.14,
+            "Angry": 0.0,
+            "Surprise": 0.14,
+            "Sad": 0.71,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "This album aged like milk",
+        "cleaned_comment": "album aged like milk",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.545,
+            "pos": 0.455,
+            "compound": 0.3612
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 1.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "its kinda sad how blind this video is but its valid for the time it was released because people where shocked by change",
+        "cleaned_comment": "kinda sad blind video valid time released people shocked change",
+        "sentiment": {
+            "neg": 0.518,
+            "neu": 0.482,
+            "pos": 0.0,
+            "compound": -0.76
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Jus relistened and yeah how can you like grunge and say that the lyrics in this album isn’t that great when Kurt cobain himself was saying Lyrics such as mosquito and etc . The problem is with critics is y’all contradict yourselfs a lot . Which is the issue in my personal opinion grunge music was always suppose to be abstract and a bit off putting but at the same time a vibe . It is the genre for chaos and emotions . Whether in anger or sadness . It jus seems to me fantano you don’t really know what you be talking about alot of times . And you’ve jus never had real depression or pain in your life to understand how raw this album was . Cudi was almost gone but he made this album to be able to live . I get you wanna talk about guitar tones and etc but the songs aren’t that bad in the slightest . This feels like the mos real grunge sounding album since the 90s . Now adays hardly anyone plays instruments . And music isn’t always about a certain formula . It’s about feeling .",
+        "cleaned_comment": "jus relistened yeah like grunge say lyrics album isnt great kurt cobain saying lyrics mosquito etc problem critics yall contradict yourselfs lot issue personal opinion grunge music always suppose abstract bit putting time vibe genre chaos emotions whether anger sadness jus seems fantano dont really know talking alot times youve jus never real depression pain life understand raw album cudi almost gone made album able live get wan na talk guitar tones etc songs arent bad slightest feels like mos real grunge sounding album since adays hardly anyone plays instruments music isnt always certain formula feeling",
+        "sentiment": {
+            "neg": 0.186,
+            "neu": 0.658,
+            "pos": 0.156,
+            "compound": -0.6845
+        },
+        "emotions": {
+            "Happy": 0.07,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.53,
+            "Fear": 0.4
+        }
+    },
+    {
+        "original_comment": "cudis best album",
+        "cleaned_comment": "cudis best album",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.323,
+            "pos": 0.677,
+            "compound": 0.6369
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Kid Cudi struggled with drugs and depression during the time the album came out which probably explains why this album was a monstrosity.",
+        "cleaned_comment": "kid cudi struggled drugs depression time album came probably explains album monstrosity",
+        "sentiment": {
+            "neg": 0.379,
+            "neu": 0.621,
+            "pos": 0.0,
+            "compound": -0.7269
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "Speeding bullet 2 hell",
+        "cleaned_comment": "speeding bullet hell",
+        "sentiment": {
+            "neg": 0.697,
+            "neu": 0.303,
+            "pos": 0.0,
+            "compound": -0.6808
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Machine Gun Kelly got a higher score than this😭😭😭",
+        "cleaned_comment": "machine gun kelly got higher score",
+        "sentiment": {
+            "neg": 0.324,
+            "neu": 0.676,
+            "pos": 0.0,
+            "compound": -0.34
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.5,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "This review is still funny till this day, but the album has definetly grown on me alot ngl. And I&#39;m glad I ain&#39;t the only one from looking at some recent comments.",
+        "cleaned_comment": "review still funny till day album definetly grown alot ngl im glad aint one looking recent comments",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.718,
+            "pos": 0.282,
+            "compound": 0.7096
+        },
+        "emotions": {
+            "Happy": 0.67,
+            "Angry": 0.0,
+            "Surprise": 0.33,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I guess you don&#39;t smoke dope like Kid Cudi",
+        "cleaned_comment": "guess dont smoke dope like kid cudi",
+        "sentiment": {
+            "neg": 0.26,
+            "neu": 0.74,
+            "pos": 0.0,
+            "compound": -0.2755
+        },
+        "emotions": {
+            "Happy": 0.25,
+            "Angry": 0.25,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Am I the only one that oddly found a couple of the demo songs more enjoyable, than the actual main part of the album?",
+        "cleaned_comment": "one oddly found couple demo songs enjoyable actual main part album",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.775,
+            "pos": 0.225,
+            "compound": 0.4404
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "As badly put together as this album is, there are a few highlights for me, some of the tracks here really do capture the feeling of intense depression",
+        "cleaned_comment": "badly put together album highlights tracks really capture feeling intense depression",
+        "sentiment": {
+            "neg": 0.397,
+            "neu": 0.408,
+            "pos": 0.195,
+            "compound": -0.666
+        },
+        "emotions": {
+            "Happy": 0.25,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.25
+        }
+    },
+    {
+        "original_comment": "i rate this album review video a 0/10",
+        "cleaned_comment": "rate album review video",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "The Pete &amp; Pete vinyl is so cool",
+        "cleaned_comment": "pete amp pete vinyl cool",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.635,
+            "pos": 0.365,
+            "compound": 0.3182
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "His &quot;0&quot; reviews are so funny because he sounds legitimately offended by the music",
+        "cleaned_comment": "quotquot reviews funny sounds legitimately offended music",
+        "sentiment": {
+            "neg": 0.202,
+            "neu": 0.505,
+            "pos": 0.293,
+            "compound": 0.2263
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "What’s wrong with hair-cake and cornerstones?",
+        "cleaned_comment": "whats wrong haircake cornerstones",
+        "sentiment": {
+            "neg": 0.508,
+            "neu": 0.492,
+            "pos": 0.0,
+            "compound": -0.4767
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "The teacher is you dude",
+        "cleaned_comment": "teacher dude",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "This album is great. Fuck you fantano",
+        "cleaned_comment": "album great fuck fantano",
+        "sentiment": {
+            "neg": 0.365,
+            "neu": 0.208,
+            "pos": 0.427,
+            "compound": 0.1531
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I really love SBTH, THE WHOLE THING including the skits(i can understand the skit hate). I dislike 1 song only which is the acoustic version of the album title song. I don&#39;t dislike the album length but a really long deluxe version should&#39;ve  happened. I love SBTH but  if I HATED it I would score it at least a 3.4 . 0 is a bit extreme. I would agree its boring AS FUCK if unrelatable. I would assume it&#39;s impossible to like/relate to EVERY song unless you have been in that same headspace &amp; I definitely have been &amp; can relate 100%. If you&#39;ve never been (((extremely))) suicidal for a (really) long time I could understand liking half the album or almost none of it. There&#39;s definitely people that 100% relate  but still hate it tho. At least a 3 if I hated it definitely not a 0. I couldn&#39;t believe anyone who likes this album has a horrible taste in music. Bad music tastes do exist but There&#39;s A LOT of horrendus albums that are beyond worse in comparison. SBTH has many haters, but also has a MASSIVE amount of fans. So if a MASSIVE fan base exists then cudis mission was acomplished very well. Im  not a cringy hate my life edge-lord fake depressed person, I can genuinely relate to SBTH as a 27 year old.",
+        "cleaned_comment": "really love sbth whole thing including skitsi understand skit hate dislike song acoustic version album title song dont dislike album length really long deluxe version shouldve happened love sbth hated would score least bit extreme would agree boring fuck unrelatable would assume impossible likerelate every song unless headspace amp definitely amp relate youve never extremely suicidal really long time could understand liking half album almost none theres definitely people relate still hate tho least hated definitely couldnt believe anyone likes album horrible taste music bad music tastes exist theres lot horrendus albums beyond worse comparison sbth many haters also massive amount fans massive fan base exists cudis mission acomplished well im cringy hate life edgelord fake depressed person genuinely relate sbth year old",
+        "sentiment": {
+            "neg": 0.292,
+            "neu": 0.539,
+            "pos": 0.169,
+            "compound": -0.9721
+        },
+        "emotions": {
+            "Happy": 0.18,
+            "Angry": 0.04,
+            "Surprise": 0.0,
+            "Sad": 0.46,
+            "Fear": 0.32
+        }
+    },
+    {
+        "original_comment": "Desperate need of a Redux",
+        "cleaned_comment": "desperate need redux",
+        "sentiment": {
+            "neg": 0.535,
+            "neu": 0.465,
+            "pos": 0.0,
+            "compound": -0.3182
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "My favorite album of all time",
+        "cleaned_comment": "favorite album time",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.4,
+            "pos": 0.6,
+            "compound": 0.4588
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I love this album.. it&#39;s so raw. It definitely becomes better when you&#39;re at your lowest.",
+        "cleaned_comment": "love album raw definitely becomes better youre lowest",
+        "sentiment": {
+            "neg": 0.159,
+            "neu": 0.244,
+            "pos": 0.598,
+            "compound": 0.802
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "It’s funny that Cudi did a full 180 from SB2H to PPDS then to KSG",
+        "cleaned_comment": "funny cudi full sbh ppds ksg",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.633,
+            "pos": 0.367,
+            "compound": 0.4404
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "This is one of those albums that you’ll only like if you’re at ur lowest",
+        "cleaned_comment": "one albums youll like youre ur lowest",
+        "sentiment": {
+            "neg": 0.257,
+            "neu": 0.495,
+            "pos": 0.248,
+            "compound": -0.0258
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "I can understand why people don’t like this album, but personally, it has grown on me mainly bc u can feel the raw emotion that Cudi expresses",
+        "cleaned_comment": "understand people dont like album personally grown mainly bc u feel raw emotion cudi expresses",
+        "sentiment": {
+            "neg": 0.14,
+            "neu": 0.86,
+            "pos": 0.0,
+            "compound": -0.2755
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "This review is the equivalent of a rage quit.",
+        "cleaned_comment": "review equivalent rage quit",
+        "sentiment": {
+            "neg": 0.545,
+            "neu": 0.455,
+            "pos": 0.0,
+            "compound": -0.5574
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "cal had a point honestly",
+        "cleaned_comment": "cal point honestly",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.4,
+            "pos": 0.6,
+            "compound": 0.4588
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I&#39;ve never listened to him before, but I found out about the album in the video &quot;its so bad, which so good&quot;. I love this album from start to finish. I even got myself a tattoo with the name of the song.",
+        "cleaned_comment": "ive never listened found album video quotits bad goodquot love album start finish even got tattoo name song",
+        "sentiment": {
+            "neg": 0.148,
+            "neu": 0.675,
+            "pos": 0.177,
+            "compound": 0.1779
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I love this album.",
+        "cleaned_comment": "love album",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.192,
+            "pos": 0.808,
+            "compound": 0.6369
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I love this album I wish he&#39;d make more music like this. If anyone knows something similar let me know",
+        "cleaned_comment": "love album wish hed make music like anyone knows something similar let know",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.515,
+            "pos": 0.485,
+            "compound": 0.8555
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "best album of all time! he did what kurt did but better..all the pain he endured was put into that album and absolu im not even going to finish ur all to close minded 🤷🏻‍♂️",
+        "cleaned_comment": "best album time kurt betterall pain endured put album absolu im even going finish ur close minded",
+        "sentiment": {
+            "neg": 0.147,
+            "neu": 0.667,
+            "pos": 0.187,
+            "compound": 0.2263
+        },
+        "emotions": {
+            "Happy": 0.33,
+            "Angry": 0.0,
+            "Surprise": 0.33,
+            "Sad": 0.33,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I can&#39;t explain it in words, but this is the best album of all time",
+        "cleaned_comment": "cant explain words best album time",
+        "sentiment": {
+            "neg": 0.402,
+            "neu": 0.598,
+            "pos": 0.0,
+            "compound": -0.5216
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 1.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I didn’t dig this album when I first heard it but recently giving it another was a pretty good idea cause I’ve found something to really dig and appreciate it sometimes I just put on Confused or the titled song to push back and fight the darkness that hits me sometimes so now I pretty much adore to at least like every Cudi album",
+        "cleaned_comment": "didnt dig album first heard recently giving another pretty good idea cause ive found something really dig appreciate sometimes put confused titled song push back fight darkness hits sometimes pretty much adore least like every cudi album",
+        "sentiment": {
+            "neg": 0.166,
+            "neu": 0.497,
+            "pos": 0.337,
+            "compound": 0.8825
+        },
+        "emotions": {
+            "Happy": 0.36,
+            "Angry": 0.09,
+            "Surprise": 0.0,
+            "Sad": 0.18,
+            "Fear": 0.36
+        }
+    },
+    {
+        "original_comment": ". lmao nod - 10.8. if didn’t skim thru album prob would’ve blwn brains out too💀- it had interstng sects bt th beavisbthd was terribl^",
+        "cleaned_comment": "lmao nod didnt skim thru album prob wouldve blwn brains interstng sects bt th beavisbthd terribl",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.794,
+            "pos": 0.206,
+            "compound": 0.5994
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Classic 😂😂",
+        "cleaned_comment": "classic",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "He didnt even get to talk about The Return of Chip Douglas...",
+        "cleaned_comment": "didnt even get talk return chip douglas",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "When you Danny.",
+        "cleaned_comment": "danny",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Kid Cudi aside, I feel <a href=\"https://www.youtube.com/watch?v=CJDcbwpsjU0&amp;t=591\">9:51</a> on another level",
+        "cleaned_comment": "kid cudi aside feel another level",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "cudi the only mf who can drop some of the best and worst music ever",
+        "cleaned_comment": "cudi mf drop best worst music ever",
+        "sentiment": {
+            "neg": 0.431,
+            "neu": 0.278,
+            "pos": 0.292,
+            "compound": -0.25
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Red Sabbath is the worst song. Uuuugh.",
+        "cleaned_comment": "red sabbath worst song uuuugh",
+        "sentiment": {
+            "neg": 0.506,
+            "neu": 0.494,
+            "pos": 0.0,
+            "compound": -0.6249
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.5,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Judgemental cunt is the worst thing I&#39;ve ever heard",
+        "cleaned_comment": "judgemental cunt worst thing ive ever heard",
+        "sentiment": {
+            "neg": 0.593,
+            "neu": 0.407,
+            "pos": 0.0,
+            "compound": -0.8074
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.5,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Aweeeeeeeeee the hair cake reference :,,,)",
+        "cleaned_comment": "aweeeeeeeeee hair cake reference",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "i think this is a solid 8 to a 9, i really enjoyed this album. i usually agree with anthony a lot but don’t agree with this",
+        "cleaned_comment": "think solid really enjoyed album usually agree anthony lot dont agree",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.407,
+            "pos": 0.593,
+            "compound": 0.8479
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "This is one of Fantano’s best reviews. Relatively balanced and fair in the beginning - looking for a saving grace and really “trying” to give the record its due process. Some good Beavis and Butthead and Cudi impressions too. But then his tone changes and his contempt for the record comes out. “You can’t say the singing is good. You cannot. YOU CAN’T!”<br><br>It’s stuff like this where his performance convinces you that he has no choice but to give the album a zero, because otherwise he wouldn’t be doing his job. And he does it in a performative way that wouldn’t be nearly as effective if you were just reading the review on paper.",
+        "cleaned_comment": "one fantanos best reviews relatively balanced fair beginning looking saving grace really trying give record due process good beavis butthead cudi impressions tone changes contempt record comes cant say singing good cantits stuff like performance convinces choice give album zero otherwise wouldnt job performative way wouldnt nearly effective reading review paper",
+        "sentiment": {
+            "neg": 0.093,
+            "neu": 0.598,
+            "pos": 0.309,
+            "compound": 0.916
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.29,
+            "Surprise": 0.0,
+            "Sad": 0.14,
+            "Fear": 0.57
+        }
+    },
+    {
+        "original_comment": "The album is a feeling. It&#39;s not about polished, well produced shit. That&#39;s some emo girl pop. This is about when you&#39;re at absolute rock bottom, torn the fuck up, raw and rough af. Just coarse, black darkness. You will understand this album then. Life has to hit you first. I know this now.",
+        "cleaned_comment": "album feeling polished well produced shit thats emo girl pop youre absolute rock bottom torn fuck raw rough af coarse black darkness understand album life hit first know",
+        "sentiment": {
+            "neg": 0.302,
+            "neu": 0.599,
+            "pos": 0.098,
+            "compound": -0.8176
+        },
+        "emotions": {
+            "Happy": 0.12,
+            "Angry": 0.12,
+            "Surprise": 0.25,
+            "Sad": 0.25,
+            "Fear": 0.25
+        }
+    },
+    {
+        "original_comment": "this is by no mean cudi&#39;s best but it&#39;s not the worst thing in the world either <br><br>there are some good songs it&#39;s at the very least a 5/10, it does get tiring specially at the demo tracks",
+        "cleaned_comment": "mean cudis best worst thing world either good songs least get tiring specially demo tracks",
+        "sentiment": {
+            "neg": 0.177,
+            "neu": 0.517,
+            "pos": 0.306,
+            "compound": 0.4588
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "i like this album -hamish",
+        "cleaned_comment": "like album hamish",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.444,
+            "pos": 0.556,
+            "compound": 0.3612
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Speeding bullet to hell through his head,<br>Im a huge cudi fan btw",
+        "cleaned_comment": "speeding bullet hell headim huge cudi fan btw",
+        "sentiment": {
+            "neg": 0.324,
+            "neu": 0.352,
+            "pos": 0.324,
+            "compound": -0.25
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "This album is horrible but I don’t think you should’ve talked about his mental health in a negative sense. Especially when he was actually losing his mind during this album and it’s nothing to joke about.",
+        "cleaned_comment": "album horrible dont think shouldve talked mental health negative sense especially actually losing mind album nothing joke",
+        "sentiment": {
+            "neg": 0.479,
+            "neu": 0.521,
+            "pos": 0.0,
+            "compound": -0.8993
+        },
+        "emotions": {
+            "Happy": 0.2,
+            "Angry": 0.0,
+            "Surprise": 0.2,
+            "Sad": 0.4,
+            "Fear": 0.2
+        }
+    },
+    {
+        "original_comment": "Love that Polaris record back there! Pete and Pete!",
+        "cleaned_comment": "love polaris record back pete pete",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.543,
+            "pos": 0.457,
+            "compound": 0.6369
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "you have no taste bro sorry TONY also ur bald",
+        "cleaned_comment": "taste bro sorry tony also ur bald",
+        "sentiment": {
+            "neg": 0.178,
+            "neu": 0.822,
+            "pos": 0.0,
+            "compound": -0.0772
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Hey Beavis, you remember that time we were on that shitty Kid Cudi album?",
+        "cleaned_comment": "hey beavis remember time shitty kid cudi album",
+        "sentiment": {
+            "neg": 0.34,
+            "neu": 0.66,
+            "pos": 0.0,
+            "compound": -0.5574
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Hey pinot",
+        "cleaned_comment": "hey pinot",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Decent to strong 2, not a good album...",
+        "cleaned_comment": "decent strong good album",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.244,
+            "pos": 0.756,
+            "compound": 0.7351
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "fantano&#39;s released so many negative reviews since this one but this still might be my favorite, so fucking funny",
+        "cleaned_comment": "fantanos released many negative reviews since one still might favorite fucking funny",
+        "sentiment": {
+            "neg": 0.196,
+            "neu": 0.476,
+            "pos": 0.328,
+            "compound": 0.3597
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.25,
+            "Sad": 0.25,
+            "Fear": 0.0
+        }
+    }
+]

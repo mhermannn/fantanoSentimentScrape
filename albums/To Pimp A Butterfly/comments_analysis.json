@@ -1,0 +1,1702 @@
+[
+    {
+        "original_comment": "The only songs i know by Kendrick Lamar are:<br>1.  Bad blood with taylor swift<br>2.  Don&#39;t wanna know with Adam Levine and his band maroon 5",
+        "cleaned_comment": "songs know kendrick lamar bad blood taylor swift dont wan na know adam levine band maroon",
+        "sentiment": {
+            "neg": 0.181,
+            "neu": 0.725,
+            "pos": 0.093,
+            "compound": -0.4019
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "if this album was called &quot;to pimp a butterfly&quot; by denzel curry you wouldve given it a light 8",
+        "cleaned_comment": "album called quotto pimp butterflyquot denzel curry wouldve given light",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "i wanted to see what the hype was all about for tpab so ill react to it ig",
+        "cleaned_comment": "wanted see hype tpab ill react ig",
+        "sentiment": {
+            "neg": 0.318,
+            "neu": 0.682,
+            "pos": 0.0,
+            "compound": -0.4215
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "If it was called To Pimp a TPAB you would’ve given it a 10",
+        "cleaned_comment": "called pimp tpab wouldve given",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "I tried listening to TPAB for the first time as gentle background music. while doing a postgrad psych essay in 2015. Huge mistake",
+        "cleaned_comment": "tried listening tpab first time gentle background music postgrad psych essay huge mistake",
+        "sentiment": {
+            "neg": 0.136,
+            "neu": 0.568,
+            "pos": 0.295,
+            "compound": 0.4215
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "If it was called “To Pimp A To Pimp A Butterfly” you would’ve given it a 10",
+        "cleaned_comment": "called pimp pimp butterfly wouldve given",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "If this album was called &quot;to pimp a to pimp a butterfly butterfly&quot; you would have given it a 10",
+        "cleaned_comment": "album called quotto pimp pimp butterfly butterflyquot would given",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Can’t believe melon sang the beginning to Wesley’s theory",
+        "cleaned_comment": "cant believe melon sang beginning wesleys theory",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "this album is horrible, overrated is an understatement",
+        "cleaned_comment": "album horrible overrated understatement",
+        "sentiment": {
+            "neg": 0.538,
+            "neu": 0.462,
+            "pos": 0.0,
+            "compound": -0.5423
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "brat better",
+        "cleaned_comment": "brat better",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.256,
+            "pos": 0.744,
+            "compound": 0.4404
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Here after 10/10 BRAT lesgoo",
+        "cleaned_comment": "brat lesgoo",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "I can hear the Sexyy Red influence in TPAB",
+        "cleaned_comment": "hear sexyy red influence tpab",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 1.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "It still baffles me how Lil Xan ghostwrote this whole album.",
+        "cleaned_comment": "still baffles lil xan ghostwrote whole album",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Keem went crazy while writing this",
+        "cleaned_comment": "keem went crazy writing",
+        "sentiment": {
+            "neg": 0.444,
+            "neu": 0.556,
+            "pos": 0.0,
+            "compound": -0.34
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "i could not for the life of me tolerate this stupid fucking album for more than 15 minutes",
+        "cleaned_comment": "could life tolerate stupid fucking album minutes",
+        "sentiment": {
+            "neg": 0.362,
+            "neu": 0.638,
+            "pos": 0.0,
+            "compound": -0.5267
+        },
+        "emotions": {
+            "Happy": 0.33,
+            "Angry": 0.33,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "It&#39;s crazy that he called Kendrick&#39;s flow &#39;uppity&#39; on kunta",
+        "cleaned_comment": "crazy called kendricks flow uppity kunta",
+        "sentiment": {
+            "neg": 0.324,
+            "neu": 0.676,
+            "pos": 0.0,
+            "compound": -0.34
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "Love the palpable excitement in this review, encapsulates many of my feelings so well.",
+        "cleaned_comment": "love palpable excitement review encapsulates many feelings well",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.345,
+            "pos": 0.655,
+            "compound": 0.8591
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.5,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I’m new to this comment section and the trolling is killing me 🤣🤣🤣",
+        "cleaned_comment": "im new comment section trolling killing",
+        "sentiment": {
+            "neg": 0.468,
+            "neu": 0.532,
+            "pos": 0.0,
+            "compound": -0.6597
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.5,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "This album makes me seriously wonder if I’m of this planet. The praise it gets for being so mediocre amazes me. Like I’m in some snobby museum and everyone is praising this silly painting with themes that have been done to death and a style that is interesting but not really enjoyable and I’m by myself confused. People call it the greatest album of all time.  All.  Time. I guess I’ll just need to be a minority. It boggles my mind some people hate the Beatles so I guess I understand those folks a little better now.",
+        "cleaned_comment": "album makes seriously wonder im planet praise gets mediocre amazes like im snobby museum everyone praising silly painting themes done death style interesting really enjoyable im confused people call greatest album time time guess ill need minority boggles mind people hate beatles guess understand folks little better",
+        "sentiment": {
+            "neg": 0.229,
+            "neu": 0.421,
+            "pos": 0.35,
+            "compound": 0.8495
+        },
+        "emotions": {
+            "Happy": 0.17,
+            "Angry": 0.0,
+            "Surprise": 0.42,
+            "Sad": 0.17,
+            "Fear": 0.25
+        }
+    },
+    {
+        "original_comment": "just finished listening to this album. <br><br>man, its beautiful. i am glad i did.",
+        "cleaned_comment": "finished listening album man beautiful glad",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.367,
+            "pos": 0.633,
+            "compound": 0.7845
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I gave this album a try after all the hype. Not for me. 2/10",
+        "cleaned_comment": "gave album try hype",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "I can’t believe baby keen ghost wrote all of his albums as a child",
+        "cleaned_comment": "cant believe baby keen ghost wrote albums child",
+        "sentiment": {
+            "neg": 0.424,
+            "neu": 0.576,
+            "pos": 0.0,
+            "compound": -0.5283
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "If this album was called &quot;to pimp a TPAB&quot; you would&#39;ve given him a 20/10",
+        "cleaned_comment": "album called quotto pimp tpabquot wouldve given",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Dude, congrats on 7 million views, this number is absolutely insane for a record review (or any review at all)",
+        "cleaned_comment": "dude congrats million views number absolutely insane record review review",
+        "sentiment": {
+            "neg": 0.204,
+            "neu": 0.476,
+            "pos": 0.32,
+            "compound": 0.1796
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.33,
+            "Sad": 0.0,
+            "Fear": 0.67
+        }
+    },
+    {
+        "original_comment": "Nah bro YouTube knew what exactly they are doing. Why are they recommending this now💀",
+        "cleaned_comment": "nah bro youtube knew exactly recommending",
+        "sentiment": {
+            "neg": 0.219,
+            "neu": 0.781,
+            "pos": 0.0,
+            "compound": -0.1027
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "“You just rapping like an activist its make belief. You don’t even go back to your hood and plant Money Trees.”",
+        "cleaned_comment": "rapping like activist make belief dont even go back hood plant money trees",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.828,
+            "pos": 0.172,
+            "compound": 0.3612
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "J Cole is right about this album.",
+        "cleaned_comment": "j cole right album",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "melon looks happy<br>was good day 9 yrs ago",
+        "cleaned_comment": "melon looks happywas good day yrs ago",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.674,
+            "pos": 0.326,
+            "compound": 0.4404
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "At first listen i gave this a 85 then bumped it to 88 to 93 to 95 to finally 99, i finally understand this magnificent work of art, amazing stuff.",
+        "cleaned_comment": "first listen gave bumped finally finally understand magnificent work art amazing stuff",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.565,
+            "pos": 0.435,
+            "compound": 0.8271
+        },
+        "emotions": {
+            "Happy": 0.12,
+            "Angry": 0.12,
+            "Surprise": 0.25,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "Yes but drake",
+        "cleaned_comment": "yes drake",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.27,
+            "pos": 0.73,
+            "compound": 0.4019
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "inspirational how yeat influenced this album and most of kendrick&#39;s sound",
+        "cleaned_comment": "inspirational yeat influenced album kendricks sound",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.602,
+            "pos": 0.398,
+            "compound": 0.5106
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "If this album was called &quot;Icedancer&quot; you would have given it a 10.",
+        "cleaned_comment": "album called quoticedancerquot would given",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "i just finished listening to this album<br>while i may not have a perfect first impression, i liked a number of tracks from this lp<br>it may take a while for me to love this album but i can see why this lp is considered amazing",
+        "cleaned_comment": "finished listening albumwhile may perfect first impression liked number tracks lpit may take love album see lp considered amazing",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.423,
+            "pos": 0.577,
+            "compound": 0.9493
+        },
+        "emotions": {
+            "Happy": 0.2,
+            "Angry": 0.0,
+            "Surprise": 0.2,
+            "Sad": 0.4,
+            "Fear": 0.2
+        }
+    },
+    {
+        "original_comment": "actually spot-on wit his opinion on what kendrick was feeling when making this masterpiece",
+        "cleaned_comment": "actually spoton wit opinion kendrick feeling making masterpiece",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.517,
+            "pos": 0.483,
+            "compound": 0.6808
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.67,
+            "Sad": 0.33,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Well….thats like…your…opinion man…<br>DAMN was way better IMO. It felt focused on logging one for real hip hop….<br><br>TPAB was for black culture, and white hipsters apparently. I give this one like an 8.5.<br><br>DAMN felt like “damn…..Obama didn’t do shit…now look where we are…wtf else we got…well:..we got hip hop…and who am I? The Best Rapper of all time…bitch”<br><br>Damn. &amp; GKMC are just about equal IMO<br><br>Both are 9.5, if not  10. <br><br>I just hope he gives us another.🔜 <br><br>After Drake,🥩 <br><br>I would love to see him ride this GOAT wave and become 2pac level legendary",
+        "cleaned_comment": "wellthats likeyouropinion mandamn way better imo felt focused logging one real hip hoptpab black culture white hipsters apparently give one like damn felt like damnobama didnt shitnow look arewtf else gotwellwe got hip hopand best rapper timebitchdamn amp gkmc equal imoboth hope gives us another drake would love see ride goat wave become pac level legendary",
+        "sentiment": {
+            "neg": 0.037,
+            "neu": 0.662,
+            "pos": 0.301,
+            "compound": 0.959
+        },
+        "emotions": {
+            "Happy": 0.11,
+            "Angry": 0.11,
+            "Surprise": 0.0,
+            "Sad": 0.33,
+            "Fear": 0.44
+        }
+    },
+    {
+        "original_comment": "Legendary album",
+        "cleaned_comment": "legendary album",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Yeah, so I listen to this album and this review at least once a year. In honor of the (at this time, 2024) Drake/Kendrick rap battle, I&#39;m here again. Thank you Anthony, thank you Kendrick, see ya soon.",
+        "cleaned_comment": "yeah listen album review least year honor time drakekendrick rap battle im thank anthony thank kendrick see ya soon",
+        "sentiment": {
+            "neg": 0.096,
+            "neu": 0.519,
+            "pos": 0.385,
+            "compound": 0.7783
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "does fantano rock the same yellow flannel since 2015??? like... the same one.... not one that he bought again and again",
+        "cleaned_comment": "fantano rock yellow flannel since like one one bought",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.762,
+            "pos": 0.238,
+            "compound": 0.3612
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "If it was called To Pimp a To Pimp a Butterfly you would like it more",
+        "cleaned_comment": "called pimp pimp butterfly would like",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.667,
+            "pos": 0.333,
+            "compound": 0.3612
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "We are going to war with AM.",
+        "cleaned_comment": "going war",
+        "sentiment": {
+            "neg": 0.796,
+            "neu": 0.204,
+            "pos": 0.0,
+            "compound": -0.5994
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "I want this to be my last comment that I leave before my laptop switches over to the new YouTube interface where the shorts replace this comment section and the comment section is relegated to a tiny corner of the screen. Muthaphukkin YouTube policies amiright?<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>heh heh &quot;I&#39;m kendrick llama, baaaa&quot;",
+        "cleaned_comment": "want last comment leave laptop switches new youtube interface shorts replace comment section comment section relegated tiny corner screen muthaphukkin youtube policies amirightheh heh quotim kendrick llama baaaaquot",
+        "sentiment": {
+            "neg": 0.096,
+            "neu": 0.859,
+            "pos": 0.045,
+            "compound": -0.128
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.25,
+            "Surprise": 0.25,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "heard u for the first time at like 4 AM and it was absolutely harrowing. kdot is incredible at selling a performance.",
+        "cleaned_comment": "heard u first time like absolutely harrowing kdot incredible selling performance",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.783,
+            "pos": 0.217,
+            "compound": 0.3612
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "You can really see how lil pump is a big influence for Kendrick on this album",
+        "cleaned_comment": "really see lil pump big influence kendrick album",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Who&#39;s here after Tpab?",
+        "cleaned_comment": "whos tpab",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "just cause you didn&#39;t like it, fantano, doesnt mean that you should make a 22 minute video just calling him slurs",
+        "cleaned_comment": "cause didnt like fantano doesnt mean make minute video calling slurs",
+        "sentiment": {
+            "neg": 0.174,
+            "neu": 0.826,
+            "pos": 0.0,
+            "compound": -0.2755
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Good to go back and revisit Kendrick’s prequel to his new ep “To Catch a Predator”",
+        "cleaned_comment": "good go back revisit kendricks prequel new ep catch predator",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.756,
+            "pos": 0.244,
+            "compound": 0.4404
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "What a masterpiece of a review.",
+        "cleaned_comment": "masterpiece review",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.196,
+            "pos": 0.804,
+            "compound": 0.6249
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "If this album was called &quot;To Pimp Kids&quot; you would&#39;ve given it a 10.<br><br>wait.......",
+        "cleaned_comment": "album called quotto pimp kidsquot wouldve given wait",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "this was 9 years ago bro.. what????!!!!!!!",
+        "cleaned_comment": "years ago bro",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Now this is a review",
+        "cleaned_comment": "review",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Came back to this and 9 years later and just how excited fantano is to review this. Thanks for being you!",
+        "cleaned_comment": "came back years later excited fantano review thanks",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.531,
+            "pos": 0.469,
+            "compound": 0.6486
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "<a href=\"https://www.youtube.com/watch?v=qTmHuavOXNg&amp;t=856\">14:16</a> woah dude, not cool",
+        "cleaned_comment": "woah dude cool",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.465,
+            "pos": 0.535,
+            "compound": 0.3182
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "baby keem not being credited for writing practically the whole album is a crime, glad bbl drizzy brought light to this",
+        "cleaned_comment": "baby keem credited writing practically whole album crime glad bbl drizzy brought light",
+        "sentiment": {
+            "neg": 0.184,
+            "neu": 0.526,
+            "pos": 0.289,
+            "compound": 0.25
+        },
+        "emotions": {
+            "Happy": 0.25,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.25
+        }
+    },
+    {
+        "original_comment": "Mr Fantano; do you age? It’s 2024 and you look the same",
+        "cleaned_comment": "mr fantano age look",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 1.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Finally a good opinion on an Eminem album",
+        "cleaned_comment": "finally good opinion eminem album",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.58,
+            "pos": 0.42,
+            "compound": 0.4404
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "my man didn&#39;t even mention how much a dollar cost?",
+        "cleaned_comment": "man didnt even mention much dollar cost",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I bet if Drake made TPAB you would’ve given it a 3",
+        "cleaned_comment": "bet drake made tpab wouldve given",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "I can&#39;t believe Baby Keem ghostwrote this album",
+        "cleaned_comment": "cant believe baby keem ghostwrote album",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Beef is weird, watching all these old videos SMH",
+        "cleaned_comment": "beef weird watching old videos smh",
+        "sentiment": {
+            "neg": 0.5,
+            "neu": 0.5,
+            "pos": 0.0,
+            "compound": -0.4588
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I would LOVE to see the view count on this video during the drake beef",
+        "cleaned_comment": "would love see view count video drake beef",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.625,
+            "pos": 0.375,
+            "compound": 0.6369
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "These videos are good! What a great capsule of times past! Such depth, breadth, scope. Though when have you listened to someone, admittedly as prestigious, such as this man, enough?! When have you just learned enough to explore?!",
+        "cleaned_comment": "videos good great capsule times past depth breadth scope though listened someone admittedly prestigious man enough learned enough explore",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.708,
+            "pos": 0.292,
+            "compound": 0.7906
+        },
+        "emotions": {
+            "Happy": 0.33,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.33,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "its 4am<br><br>imgointobed",
+        "cleaned_comment": "amimgointobed",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "real",
+        "cleaned_comment": "real",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Every time I stream Mortal Man, I add John Cage’s 4’33” to the queue right after, to let myself sit in silence and let that third PAC sit. I don’t want to hear anything after that for sometime. Any album or song that makes you want to do that is a masterpiece.",
+        "cleaned_comment": "every time stream mortal man add john cages queue right let sit silence let third pac sit dont want hear anything sometime album song makes want masterpiece",
+        "sentiment": {
+            "neg": 0.08,
+            "neu": 0.786,
+            "pos": 0.134,
+            "compound": 0.5656
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.4,
+            "Sad": 0.4,
+            "Fear": 0.2
+        }
+    },
+    {
+        "original_comment": "Drake better",
+        "cleaned_comment": "drake better",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.256,
+            "pos": 0.744,
+            "compound": 0.4404
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "the real big three: Kendrick, Earl, JiD",
+        "cleaned_comment": "real big three kendrick earl jid",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "i&#39;m gonna feel a certain way next year when this album is 10 years old",
+        "cleaned_comment": "im gon na feel certain way next year album years old",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.826,
+            "pos": 0.174,
+            "compound": 0.2732
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "crazy how baby keem wrote this album at the ripe age of 14",
+        "cleaned_comment": "crazy baby keem wrote album ripe age",
+        "sentiment": {
+            "neg": 0.286,
+            "neu": 0.714,
+            "pos": 0.0,
+            "compound": -0.34
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.5,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "a drake feature did you say?",
+        "cleaned_comment": "drake feature say",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "I wonder if he went to bed at 4 AM",
+        "cleaned_comment": "wonder went bed",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "It&#39;s 9 May 2024, and I&#39;m watching this after the big diss weekend, which Kendrick Lamar won and Drake tried, but that&#39;s all he tried.",
+        "cleaned_comment": "may im watching big diss weekend kendrick lamar drake tried thats tried",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "HykeezyHD wrote this album🙏",
+        "cleaned_comment": "hykeezyhd wrote album",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Artists like logic who helped with this album really shaped the way we view rap thank you so much.",
+        "cleaned_comment": "artists like logic helped album really shaped way view rap thank much",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.667,
+            "pos": 0.333,
+            "compound": 0.6124
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I probably come back to this review 2-4 times a year just to experience how amazing this review and the album itself is.",
+        "cleaned_comment": "probably come back review times year experience amazing review album",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.703,
+            "pos": 0.297,
+            "compound": 0.5859
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "If this album was called “To Pimp A Butterfly” you would’ve given it a… oh wait it is",
+        "cleaned_comment": "album called pimp butterfly wouldve given oh wait",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Boy this is such an amazing album, I’m sure drake and Kendrick will be friends for the years to come!",
+        "cleaned_comment": "boy amazing album im sure drake kendrick friends years come",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.432,
+            "pos": 0.568,
+            "compound": 0.8481
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "&quot;u&quot; second half is gold tbh",
+        "cleaned_comment": "quotuquot second half gold tbh",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Gay woke album",
+        "cleaned_comment": "gay woke album",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "This is my favorite fantano review ever my favorite part was when he got emotional thinking about the album and started singing the intro to wesleys theory",
+        "cleaned_comment": "favorite fantano review ever favorite part got emotional thinking album started singing intro wesleys theory",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.612,
+            "pos": 0.388,
+            "compound": 0.765
+        },
+        "emotions": {
+            "Happy": 0.67,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.33,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "If it was called to pimp a butterfly you would have given it a 10",
+        "cleaned_comment": "called pimp butterfly would given",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Also it used to be called &quot;To pimp a catterpillar&quot; which, when you abreviate it, create... TPAC",
+        "cleaned_comment": "also used called quotto pimp catterpillarquot abreviate create tpac",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.792,
+            "pos": 0.208,
+            "compound": 0.2732
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "if it was called “To Pimp A Butterfly” he would’ve given it a 10",
+        "cleaned_comment": "called pimp butterfly wouldve given",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "This is why Yuno Miles is the GOAT...bro never got the recognition for writing the whole album",
+        "cleaned_comment": "yuno miles goatbro never got recognition writing whole album",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "i love how the one thing that could have brought this album down from a 10 is if kendrick didnt change &quot;i&quot; to a live recording and kept the studio version",
+        "cleaned_comment": "love one thing could brought album kendrick didnt change quotiquot live recording kept studio version",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.769,
+            "pos": 0.231,
+            "compound": 0.6369
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "if this album was called Hood&#39;s Hottest Butterfly you would&#39;ve given it an 8",
+        "cleaned_comment": "album called hoods hottest butterfly wouldve given",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Bro what are these comments",
+        "cleaned_comment": "bro comments",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "You&#39;re so biased Anthony. I bet you would have given this an 8/10 if it was called Mr Butterfly and the Big Pimps",
+        "cleaned_comment": "youre biased anthony bet would given called mr butterfly big pimps",
+        "sentiment": {
+            "neg": 0.174,
+            "neu": 0.826,
+            "pos": 0.0,
+            "compound": -0.2732
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "9 years later I&#39;ve finally come to the conclusion that its a 9 or 10. Year after year i would say its good but kind of overrated but for some reason the album sounds near perfect all of a sudden. I&#39;ve been really enjoying it alot recently and more than ever before. Melon was right to give this a perfect score. Its a serious classic.",
+        "cleaned_comment": "years later ive finally come conclusion year year would say good kind overrated reason album sounds near perfect sudden ive really enjoying alot recently ever melon right give perfect score serious classic",
+        "sentiment": {
+            "neg": 0.029,
+            "neu": 0.582,
+            "pos": 0.389,
+            "compound": 0.9524
+        },
+        "emotions": {
+            "Happy": 0.22,
+            "Angry": 0.11,
+            "Surprise": 0.11,
+            "Sad": 0.33,
+            "Fear": 0.22
+        }
+    },
+    {
+        "original_comment": "Hood politics have never been more relevant with everyone wanting blood spilling over a beef with a cornball like drake",
+        "cleaned_comment": "hood politics never relevant everyone wanting blood spilling beef cornball like drake",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.815,
+            "pos": 0.185,
+            "compound": 0.3612
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "This video aged like a fine wine. Cheers",
+        "cleaned_comment": "video aged like fine wine cheers",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.288,
+            "pos": 0.712,
+            "compound": 0.7506
+        },
+        "emotions": {
+            "Happy": 0.67,
+            "Angry": 0.33,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Just finished this album, my lord is it good. I dont think its as replayable as some other albums, but artistically, this might be the best album ive listened to",
+        "cleaned_comment": "finished album lord good dont think replayable albums artistically might best album ive listened",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.628,
+            "pos": 0.372,
+            "compound": 0.7964
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "See, I liked this album review of good kid, m.A.A.d city, but why would you give it a 9? Obviously it deserves a 10.",
+        "cleaned_comment": "see liked album review good kid maad city would give obviously deserves",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.637,
+            "pos": 0.363,
+            "compound": 0.6908
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "How much a dollar cost blew me away on first listen. Pure poetry.",
+        "cleaned_comment": "much dollar cost blew away first listen pure poetry",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.33,
+            "Surprise": 0.67,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "W",
+        "cleaned_comment": "w",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Great video but you didnt have to call kendrick the N word at the end just because he made a bad album",
+        "cleaned_comment": "great video didnt call kendrick n word end made bad album",
+        "sentiment": {
+            "neg": 0.224,
+            "neu": 0.513,
+            "pos": 0.263,
+            "compound": 0.1531
+        },
+        "emotions": {
+            "Happy": 0.33,
+            "Angry": 0.33,
+            "Surprise": 0.0,
+            "Sad": 0.33,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Just cause fantano wasn&#39;t in the album, giving it a not reviewable is just unjustifiable",
+        "cleaned_comment": "cause fantano wasnt album giving reviewable unjustifiable",
+        "sentiment": {
+            "neg": 0.253,
+            "neu": 0.747,
+            "pos": 0.0,
+            "compound": -0.2584
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "i bump this when i have trouble sleeping",
+        "cleaned_comment": "bump trouble sleeping",
+        "sentiment": {
+            "neg": 0.574,
+            "neu": 0.426,
+            "pos": 0.0,
+            "compound": -0.4019
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "When Kendrick said “my coochie pink my bootie hole brown” I really felt that",
+        "cleaned_comment": "kendrick said coochie pink bootie hole brown really felt",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "&quot;LEAST FAV TRACK: I GUESS YOU AIN&#39;T GOTTA LIE&quot; how is this mf always wrong even when hes right",
+        "cleaned_comment": "quotleast fav track guess aint got ta liequot mf always wrong even hes right",
+        "sentiment": {
+            "neg": 0.171,
+            "neu": 0.663,
+            "pos": 0.166,
+            "compound": -0.0258
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "one of the biggest shockers for me about this album i only found out a whole 9 years later is that centre back virgil van dijk was a huge inspiration for kendrick when making it",
+        "cleaned_comment": "one biggest shockers album found whole years later centre back virgil van dijk huge inspiration kendrick making",
+        "sentiment": {
+            "neg": 0.096,
+            "neu": 0.642,
+            "pos": 0.261,
+            "compound": 0.5574
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    }
+]

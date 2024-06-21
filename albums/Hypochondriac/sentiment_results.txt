@@ -1,0 +1,5 @@
+Average Polarity: 2.4869257950530037
+Overall Sentiment: Negative
+Positive Comments: 421
+Negative Comments: 781
+Neutral Comments: 213

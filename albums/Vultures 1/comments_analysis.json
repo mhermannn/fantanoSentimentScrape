@@ -1,0 +1,1702 @@
+[
+    {
+        "original_comment": "looking at everything Kanye has done honestly lost it the day is mother passed away he hasnt had a black woman in his life to steer him in the right path its been getting worse and worst since then",
+        "cleaned_comment": "looking everything kanye done honestly lost day mother passed away hasnt black woman life steer right path getting worse worst since",
+        "sentiment": {
+            "neg": 0.322,
+            "neu": 0.576,
+            "pos": 0.102,
+            "compound": -0.7579
+        },
+        "emotions": {
+            "Happy": 0.17,
+            "Angry": 0.17,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.17
+        }
+    },
+    {
+        "original_comment": "If it was called good kanye maad vultures it would be a 10",
+        "cleaned_comment": "called good kanye maad vultures would",
+        "sentiment": {
+            "neg": 0.25,
+            "neu": 0.435,
+            "pos": 0.315,
+            "compound": 0.1531
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "This &quot;unreviewable&quot; thing is just your woke agenda.",
+        "cleaned_comment": "quotunreviewablequot thing woke agenda",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "You should review PORKFOOT - Nigerian Background Check",
+        "cleaned_comment": "review porkfoot nigerian background check",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "stfu its fire",
+        "cleaned_comment": "stfu fire",
+        "sentiment": {
+            "neg": 0.706,
+            "neu": 0.294,
+            "pos": 0.0,
+            "compound": -0.34
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "I can&#39;t believe a Frank Ocean fan would say that type of shit",
+        "cleaned_comment": "cant believe frank ocean fan would say type shit",
+        "sentiment": {
+            "neg": 0.279,
+            "neu": 0.543,
+            "pos": 0.178,
+            "compound": -0.3182
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.33,
+            "Sad": 0.0,
+            "Fear": 0.67
+        }
+    },
+    {
+        "original_comment": "This is the album review equivalent of the worst she can say is no",
+        "cleaned_comment": "album review equivalent worst say",
+        "sentiment": {
+            "neg": 0.506,
+            "neu": 0.494,
+            "pos": 0.0,
+            "compound": -0.6249
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Crybaby",
+        "cleaned_comment": "crybaby",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Melon on Youtube: This album is unreviewable<br><br>Melon on Twitter: Israel should not exist",
+        "cleaned_comment": "melon youtube album unreviewablemelon twitter israel exist",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I’m not gonna try to say that this album is good at all but saying it’s worse than jik is insane",
+        "cleaned_comment": "im gon na try say album good saying worse jik insane",
+        "sentiment": {
+            "neg": 0.347,
+            "neu": 0.479,
+            "pos": 0.174,
+            "compound": -0.4404
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "If it was called “To vulture a kanye” he would of gave it a 10",
+        "cleaned_comment": "called vulture kanye would gave",
+        "sentiment": {
+            "neg": 0.429,
+            "neu": 0.571,
+            "pos": 0.0,
+            "compound": -0.4588
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "Keep in mind this is the same guy that put sexy redds hoods hottest princess at an 8/10 so",
+        "cleaned_comment": "keep mind guy put sexy redds hoods hottest princess",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.702,
+            "pos": 0.298,
+            "compound": 0.5267
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "The fact that almost 50% of likes+dislikes are dislikes says it all",
+        "cleaned_comment": "fact almost likesdislikes dislikes says",
+        "sentiment": {
+            "neg": 0.377,
+            "neu": 0.623,
+            "pos": 0.0,
+            "compound": -0.3446
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Bro pretending not to like it because hes controversial",
+        "cleaned_comment": "bro pretending like hes controversial",
+        "sentiment": {
+            "neg": 0.234,
+            "neu": 0.26,
+            "pos": 0.506,
+            "compound": 0.2732
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "“You platformed a booger eating white supremacist”😂🔥",
+        "cleaned_comment": "platformed booger eating white supremacist",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.727,
+            "pos": 0.273,
+            "compound": 0.128
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "People, hype passed. Fantano was right. Vultures is garbage.",
+        "cleaned_comment": "people hype passed fantano right vultures garbage",
+        "sentiment": {
+            "neg": 0.277,
+            "neu": 0.723,
+            "pos": 0.0,
+            "compound": -0.3182
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "he will say that this is garbage and unreviewable even tho it is at worst mid and he likes songs by sexyy red where she sounds awful and is rapping about getting drilled by tons of men and her genitals and people say it’s not biased",
+        "cleaned_comment": "say garbage unreviewable even tho worst mid likes songs sexyy red sounds awful rapping getting drilled tons men genitals people say biased",
+        "sentiment": {
+            "neg": 0.307,
+            "neu": 0.6,
+            "pos": 0.093,
+            "compound": -0.7506
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.5,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Stop trying to be Ye’s opp. He lives rent free in your head",
+        "cleaned_comment": "stop trying yes opp lives rent free head",
+        "sentiment": {
+            "neg": 0.167,
+            "neu": 0.379,
+            "pos": 0.455,
+            "compound": 0.5859
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "If it was called “To Pimp a Vultures 1” he would’ve given it 12",
+        "cleaned_comment": "called pimp vultures wouldve given",
+        "sentiment": {
+            "neg": 0.365,
+            "neu": 0.635,
+            "pos": 0.0,
+            "compound": -0.3182
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "This is stupid dude. Bowie literally had a fascist phase and we dont see any over serious sanitized white people condemning him. Politics is a show and unless youre writing a fully researched paper or trying to organize, it cant be anything other than a show thats meant to get people to like you. Dude is talking trash on this just to maintain the fanbase that pays his bills.",
+        "cleaned_comment": "stupid dude bowie literally fascist phase dont see serious sanitized white people condemning politics show unless youre writing fully researched paper trying organize cant anything show thats meant get people like dude talking trash maintain fanbase pays bills",
+        "sentiment": {
+            "neg": 0.157,
+            "neu": 0.76,
+            "pos": 0.083,
+            "compound": -0.646
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.2,
+            "Surprise": 0.0,
+            "Sad": 0.2,
+            "Fear": 0.6
+        }
+    },
+    {
+        "original_comment": "you still left a review",
+        "cleaned_comment": "still left review",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Its sad but fantano is right",
+        "cleaned_comment": "sad fantano right",
+        "sentiment": {
+            "neg": 0.608,
+            "neu": 0.392,
+            "pos": 0.0,
+            "compound": -0.4767
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Bro cooked",
+        "cleaned_comment": "bro cooked",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "I personally am a fan of Kanye&#39;s MUSIC. I separate the music from the artist cause his morals are f*ed up by BPD, but the music he made is really good. The things he puts out lately are more mid but y&#39;know, I listen to the old stuff on replay.<br>&quot;I miss the old Kanye&quot; kinda thing. The new stuff is ass.",
+        "cleaned_comment": "personally fan kanyes music separate music artist cause morals fed bpd music made really good things puts lately mid yknow listen old stuff replayquoti miss old kanyequot kinda thing new stuff ass",
+        "sentiment": {
+            "neg": 0.132,
+            "neu": 0.726,
+            "pos": 0.142,
+            "compound": 0.101
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.33,
+            "Surprise": 0.17,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "the hollywood drugs tweaked kanye out too much",
+        "cleaned_comment": "hollywood drugs tweaked kanye much",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Would&#39;ve been better off giving it a strong 6 to a light 7 and moving on. it has some good songs like BURN and DO IT.",
+        "cleaned_comment": "wouldve better giving strong light moving good songs like burn",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.263,
+            "pos": 0.737,
+            "compound": 0.9186
+        },
+        "emotions": {
+            "Happy": 0.33,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.33,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "Nah looking back i agree with melon this album ass",
+        "cleaned_comment": "nah looking back agree melon album ass",
+        "sentiment": {
+            "neg": 0.43,
+            "neu": 0.351,
+            "pos": 0.219,
+            "compound": -0.34
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Anthony is fine with Muslims and anti Israel musicians. What a beta.",
+        "cleaned_comment": "anthony fine muslims anti israel musicians beta",
+        "sentiment": {
+            "neg": 0.253,
+            "neu": 0.549,
+            "pos": 0.198,
+            "compound": -0.128
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "Your point about Kanye’s fans and Kanye fandom is spot on. I was a huge Kanye fan since Graduation up until TLOP. After that, he had some good projects (KSG, Donda), but his music undeniably took a dive. But his spiraling into this lunatic persona was the final straw for me and for plenty of Kanye fans that kind of “came up” around the same time I did. Now, his fans are sycophants and edgelords who probably don’t even care for Hip Hop all that much. Honestly, I’m not surprised that the end of Kanye’s career is a train wreck. It feels weirdly “right”.",
+        "cleaned_comment": "point kanyes fans kanye fandom spot huge kanye fan since graduation tlop good projects ksg donda music undeniably took dive spiraling lunatic persona final straw plenty kanye fans kind came around time fans sycophants edgelords probably dont even care hip hop much honestly im surprised end kanyes career train wreck feels weirdly right",
+        "sentiment": {
+            "neg": 0.157,
+            "neu": 0.617,
+            "pos": 0.227,
+            "compound": 0.5956
+        },
+        "emotions": {
+            "Happy": 0.22,
+            "Angry": 0.0,
+            "Surprise": 0.22,
+            "Sad": 0.11,
+            "Fear": 0.44
+        }
+    },
+    {
+        "original_comment": "I’m sorry, but this album is catchy and I don’t care about the shit Ye says. He has good bars and I like it.",
+        "cleaned_comment": "im sorry album catchy dont care shit ye says good bars like",
+        "sentiment": {
+            "neg": 0.204,
+            "neu": 0.364,
+            "pos": 0.432,
+            "compound": 0.6593
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Bro you are just biased af",
+        "cleaned_comment": "bro biased af",
+        "sentiment": {
+            "neg": 0.512,
+            "neu": 0.488,
+            "pos": 0.0,
+            "compound": -0.2732
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Bittersweettt its gonna be the death of me",
+        "cleaned_comment": "bittersweettt gon na death",
+        "sentiment": {
+            "neg": 0.565,
+            "neu": 0.435,
+            "pos": 0.0,
+            "compound": -0.5994
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation he made graduation",
+        "cleaned_comment": "made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation made graduation",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Please Anthony pleeease. Review wah gwan delilah. That shit has me confuse i need ur guidance",
+        "cleaned_comment": "please anthony pleeease review wah gwan delilah shit confuse need ur guidance",
+        "sentiment": {
+            "neg": 0.327,
+            "neu": 0.536,
+            "pos": 0.137,
+            "compound": -0.4939
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "Man i ain&#39;t the biggest Ye fan or a Ye hater but not giving this album a rating was lazy as hell. Personally didnt like the album, 3/10 for me. Give it a rating, if you don&#39;t like it give it a low rating. Disappointed",
+        "cleaned_comment": "man aint biggest ye fan ye hater giving album rating lazy hell personally didnt like album give rating dont like give low rating disappointed",
+        "sentiment": {
+            "neg": 0.5,
+            "neu": 0.391,
+            "pos": 0.11,
+            "compound": -0.9321
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "At this point fantano is just fishing for reactions.",
+        "cleaned_comment": "point fantano fishing reactions",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Vultures 1 is definitely his worst collab album and one of the weaker albums overall i pray that vultures 2 will be better if it even drops",
+        "cleaned_comment": "vultures definitely worst collab album one weaker albums overall pray vultures better even drops",
+        "sentiment": {
+            "neg": 0.438,
+            "neu": 0.264,
+            "pos": 0.298,
+            "compound": -0.5719
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.33,
+            "Fear": 0.67
+        }
+    },
+    {
+        "original_comment": "🙌🙌🙌🙌🙌🙌🙌🙌🙌🙌✊😁 great unreview",
+        "cleaned_comment": "great unreview",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.196,
+            "pos": 0.804,
+            "compound": 0.6249
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "How can you give this a worse rating than fucking sexxy redds shitty SoundCloud ass rap. Yeah this album isn’t good but you’re virtue signalling so hard",
+        "cleaned_comment": "give worse rating fucking sexxy redds shitty soundcloud ass rap yeah album isnt good youre virtue signalling hard",
+        "sentiment": {
+            "neg": 0.557,
+            "neu": 0.369,
+            "pos": 0.074,
+            "compound": -0.9246
+        },
+        "emotions": {
+            "Happy": 0.25,
+            "Angry": 0.25,
+            "Surprise": 0.0,
+            "Sad": 0.25,
+            "Fear": 0.25
+        }
+    },
+    {
+        "original_comment": "But he made XTCY 😭",
+        "cleaned_comment": "made xtcy",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "ANTHONY JEWTANO HERE",
+        "cleaned_comment": "anthony jewtano",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Very weird that you went from a edgy 4chan shitposter to paternalistic and holier than thou. Looking down your nose at kanye for his words and misogynyvwhile 36 chambers sits in the background is a dissonance few can achieve.  BRAVO THATISTHEPLAN",
+        "cleaned_comment": "weird went edgy chan shitposter paternalistic holier thou looking nose kanye words misogynyvwhile chambers sits background dissonance achieve bravo thatistheplan",
+        "sentiment": {
+            "neg": 0.082,
+            "neu": 0.918,
+            "pos": 0.0,
+            "compound": -0.1779
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.33,
+            "Surprise": 0.33,
+            "Sad": 0.33,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Kanye has always been garbage . He gets away with shit because he is black",
+        "cleaned_comment": "kanye always garbage gets away shit black",
+        "sentiment": {
+            "neg": 0.375,
+            "neu": 0.625,
+            "pos": 0.0,
+            "compound": -0.5574
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.5,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "i mean i like kanye but with some of the things hes said ita just not the same as he used to be",
+        "cleaned_comment": "mean like kanye things hes said ita used",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.737,
+            "pos": 0.263,
+            "compound": 0.3612
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "The irony of melon getting big from 4chan then hating that Kanye is acting like an average 4channer is painfully hilarious <br><br>I just know in my heart of hearts that if melons 4chan post history was ever somehow discovered it would probably be hilaruous in the context of this",
+        "cleaned_comment": "irony melon getting big chan hating kanye acting like average channer painfully hilarious know heart hearts melons chan post history ever somehow discovered would probably hilaruous context",
+        "sentiment": {
+            "neg": 0.225,
+            "neu": 0.627,
+            "pos": 0.148,
+            "compound": -0.4019
+        },
+        "emotions": {
+            "Happy": 0.09,
+            "Angry": 0.0,
+            "Surprise": 0.09,
+            "Sad": 0.45,
+            "Fear": 0.36
+        }
+    },
+    {
+        "original_comment": "Never apologize to the far-right YouTube mob.",
+        "cleaned_comment": "never apologize farright youtube mob",
+        "sentiment": {
+            "neg": 0.245,
+            "neu": 0.755,
+            "pos": 0.0,
+            "compound": -0.0762
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.5,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "This video is like the metaphorical nail in the coffin of Fantano’s reviewing “career”.",
+        "cleaned_comment": "video like metaphorical nail coffin fantanos reviewing career",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.737,
+            "pos": 0.263,
+            "compound": 0.3612
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Comments asking if anthony is a Jew 💀💀",
+        "cleaned_comment": "comments asking anthony jew",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Kanye’s career is a tragedy. It’s hard to listen to his classics without being reminded of his fall from grace",
+        "cleaned_comment": "kanyes career tragedy hard listen classics without reminded fall grace",
+        "sentiment": {
+            "neg": 0.537,
+            "neu": 0.463,
+            "pos": 0.0,
+            "compound": -0.7982
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.5,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "This review is the only thing worse than the record",
+        "cleaned_comment": "review thing worse record",
+        "sentiment": {
+            "neg": 0.508,
+            "neu": 0.492,
+            "pos": 0.0,
+            "compound": -0.4767
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "yeah but reviewing burzum is okay",
+        "cleaned_comment": "yeah reviewing burzum okay",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.328,
+            "pos": 0.672,
+            "compound": 0.4767
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Damn now i cant enjoy stars, burn and carnival because sexy melon man told me im not allowed😔",
+        "cleaned_comment": "damn cant enjoy stars burn carnival sexy melon man told im allowed",
+        "sentiment": {
+            "neg": 0.301,
+            "neu": 0.508,
+            "pos": 0.192,
+            "compound": -0.233
+        },
+        "emotions": {
+            "Happy": 0.33,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.67,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "kanye dropping trash like his life depends on it",
+        "cleaned_comment": "kanye dropping trash like life depends",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.667,
+            "pos": 0.333,
+            "compound": 0.3612
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.5,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "If this album was called to pimp a vulture you’d’ve given it a 10",
+        "cleaned_comment": "album called pimp vulture youdve given",
+        "sentiment": {
+            "neg": 0.375,
+            "neu": 0.625,
+            "pos": 0.0,
+            "compound": -0.4588
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Review the album, Anthony. That’s your job.",
+        "cleaned_comment": "review album anthony thats job",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "Ye&#39;s almost a lolcow at this point",
+        "cleaned_comment": "yes almost lolcow point",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.526,
+            "pos": 0.474,
+            "compound": 0.4019
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "So…how about that music review…..",
+        "cleaned_comment": "sohow music review",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Kanye turned into a 13 year old white kid from iowa",
+        "cleaned_comment": "kanye turned year old white kid iowa",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.33,
+            "Angry": 0.0,
+            "Surprise": 0.33,
+            "Sad": 0.0,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "Sounds a bit biased,<br>What is your religious background?<br>That mustache makes you looks like Adolf......",
+        "cleaned_comment": "sounds bit biasedwhat religious backgroundthat mustache makes looks like adolf",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.783,
+            "pos": 0.217,
+            "compound": 0.3612
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "The best description/indictment I have seen of this record to date was a RYM review with &quot;migraine bars&quot;",
+        "cleaned_comment": "best descriptionindictment seen record date rym review quotmigraine barsquot",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.656,
+            "pos": 0.344,
+            "compound": 0.6369
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "I thought this channel was about music. Wagner was kind of anti-Semitic, does that mean his music shouldn´t be reviewed? There´s tons of hip-hop lyrics that are furiously idiotic and vulgar and whatever else.",
+        "cleaned_comment": "thought channel music wagner kind antisemitic mean music shouldnt reviewed theres tons hiphop lyrics furiously idiotic vulgar whatever else",
+        "sentiment": {
+            "neg": 0.251,
+            "neu": 0.618,
+            "pos": 0.131,
+            "compound": -0.4767
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "This review aged well i think after 3 months not even one song is in my rotation and every time I hear Go go go  it is an instant skip",
+        "cleaned_comment": "review aged well think months even one song rotation every time hear go go go instant skip",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.884,
+            "pos": 0.116,
+            "compound": 0.2732
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 1.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "✊🏻✊🏻✊🏻✊🏻",
+        "cleaned_comment": "",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "“Unreviewable” yet has positively rated neo nazis. Fantano you are a hypocrite, you let personality into reviews and don’t actually care about music. Reduxes for bad takes? Your career is a joke. Ye better",
+        "cleaned_comment": "unreviewable yet positively rated neo nazis fantano hypocrite let personality reviews dont actually care music reduxes bad takes career joke ye better",
+        "sentiment": {
+            "neg": 0.194,
+            "neu": 0.537,
+            "pos": 0.269,
+            "compound": 0.3339
+        },
+        "emotions": {
+            "Happy": 0.25,
+            "Angry": 0.0,
+            "Surprise": 0.25,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "Nah that album is better than Donda&amp;Jesus is king",
+        "cleaned_comment": "nah album better dondaampjesus king",
+        "sentiment": {
+            "neg": 0.192,
+            "neu": 0.411,
+            "pos": 0.397,
+            "compound": 0.3612
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Guy looks and acts like a soyboy",
+        "cleaned_comment": "guy looks acts like soyboy",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.615,
+            "pos": 0.385,
+            "compound": 0.3612
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "If this album was called “To Not Review Vultures 1”, you still wouldn’t have reviewed it.",
+        "cleaned_comment": "album called review vultures still wouldnt reviewed",
+        "sentiment": {
+            "neg": 0.277,
+            "neu": 0.723,
+            "pos": 0.0,
+            "compound": -0.3182
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "If it was called “hoods hottest vulture” you would’ve given it an 8",
+        "cleaned_comment": "called hoods hottest vulture wouldve given",
+        "sentiment": {
+            "neg": 0.375,
+            "neu": 0.625,
+            "pos": 0.0,
+            "compound": -0.4588
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "If you did not understand some of these things that Kanye said, you’re just as basic as anyone else. Or your trying to equate. Flock.",
+        "cleaned_comment": "understand things kanye said youre basic anyone else trying equate flock",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "Sounds 2 biased 4 me., because you lack depth to understand complex concepts and see through what he said. Your opinion is the same of a white 12 year old tiktoker girl. Sorry.",
+        "cleaned_comment": "sounds biased lack depth understand complex concepts see said opinion white year old tiktoker girl sorry",
+        "sentiment": {
+            "neg": 0.305,
+            "neu": 0.695,
+            "pos": 0.0,
+            "compound": -0.5719
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.2,
+            "Sad": 0.2,
+            "Fear": 0.6
+        }
+    },
+    {
+        "original_comment": "It’s rough how Kanye albums are just manic episodes on vinyl now. Dude needs help but will probably never get it.",
+        "cleaned_comment": "rough kanye albums manic episodes vinyl dude needs help probably never get",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.803,
+            "pos": 0.197,
+            "compound": 0.4019
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.67,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "&quot;I&#39;m the new Jesus, bitch, I turn water to crist&quot;, that one line rubbed me the wrong way the first time I heard it. I&#39;m talking I paused the song and stopped listening. I want to say I felt scared, but I don&#39;t think I was scared, it just felt wrong.",
+        "cleaned_comment": "quotim new jesus bitch turn water cristquot one line rubbed wrong way first time heard im talking paused song stopped listening want say felt scared dont think scared felt wrong",
+        "sentiment": {
+            "neg": 0.421,
+            "neu": 0.548,
+            "pos": 0.031,
+            "compound": -0.9468
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.12,
+            "Surprise": 0.12,
+            "Sad": 0.62,
+            "Fear": 0.12
+        }
+    },
+    {
+        "original_comment": "the biggest nazis were and are zionists",
+        "cleaned_comment": "biggest nazis zionists",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "this is the funniest watch of the year and i like the album/kanye",
+        "cleaned_comment": "funniest watch year like albumkanye",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.33,
+            "pos": 0.67,
+            "compound": 0.7269
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Cry",
+        "cleaned_comment": "cry",
+        "sentiment": {
+            "neg": 1.0,
+            "neu": 0.0,
+            "pos": 0.0,
+            "compound": -0.4767
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "As a long time fan I never put the time aside to listen to Donda, but by the time this album came out I just dont feel comfortable supporting someone who demonizes a whole people.",
+        "cleaned_comment": "long time fan never put time aside listen donda time album came dont feel comfortable supporting someone demonizes whole people",
+        "sentiment": {
+            "neg": 0.209,
+            "neu": 0.696,
+            "pos": 0.094,
+            "compound": -0.423
+        },
+        "emotions": {
+            "Happy": 0.33,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.33,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "Putin &quot;fights nazis&quot; too, but in fact he just genocide ukrainians. Kanye reports his experience and you are mad about it.",
+        "cleaned_comment": "putin quotfights nazisquot fact genocide ukrainians kanye reports experience mad",
+        "sentiment": {
+            "neg": 0.262,
+            "neu": 0.738,
+            "pos": 0.0,
+            "compound": -0.4939
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 1.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "&quot;waaaah i can&#39;t critique the music because kanye is le bad&quot;<br><b>Proceeds to critique the music</b><br>Now add a rating and you&#39;re done, you insufferable whinging bald baby.",
+        "cleaned_comment": "quotwaaaah cant critique music kanye le badquotproceeds critique musicnow add rating youre done insufferable whinging bald baby",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.67,
+            "Sad": 0.33,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Do people actually really respect this dudes music reviews still? The guy gave Take Me Back To Eden a 2/10... But for real, he has no ability to separate his dog water polics with music. That is the entire point of a music review... But ok....",
+        "cleaned_comment": "people actually really respect dudes music reviews still guy gave take back eden real ability separate dog water polics music entire point music review ok",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.736,
+            "pos": 0.264,
+            "compound": 0.7841
+        },
+        "emotions": {
+            "Happy": 0.17,
+            "Angry": 0.0,
+            "Surprise": 0.17,
+            "Sad": 0.33,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "<a href=\"https://www.youtube.com/watch?v=M0jEngxUFz4&amp;t=268\">4:28</a> none of this is new btw. <br><br>actual lyrics from Saint Pablo (2016)<br>Black on black lies is worse than black on black crime<br>The J/ews share their truth on how to make a dime",
+        "cleaned_comment": "none new btw actual lyrics saint pablo black black lies worse black black crimethe jews share truth make dime",
+        "sentiment": {
+            "neg": 0.232,
+            "neu": 0.591,
+            "pos": 0.177,
+            "compound": -0.34
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I like how at the time everyone hated on this review now many people sort of agree with it lmao",
+        "cleaned_comment": "like time everyone hated review many people sort agree lmao",
+        "sentiment": {
+            "neg": 0.22,
+            "neu": 0.314,
+            "pos": 0.466,
+            "compound": 0.5719
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "But how is he antisemitic...?",
+        "cleaned_comment": "antisemitic",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Fantano is the definition of a woke liberal beta male 😂",
+        "cleaned_comment": "fantano definition woke liberal beta male",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "If this was called hoods hottest vulture you would of given it a 10 smh rn",
+        "cleaned_comment": "called hoods hottest vulture would given smh rn",
+        "sentiment": {
+            "neg": 0.469,
+            "neu": 0.531,
+            "pos": 0.0,
+            "compound": -0.6486
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "I mean do I think kanye should get away with what he said no, but do I forgive him, yes only because he&#39;s bipolar and when he doesn&#39;t take his pills he&#39;s gonna go bat shit crazy of course",
+        "cleaned_comment": "mean think kanye get away said forgive yes hes bipolar doesnt take pills hes gon na go bat shit crazy course",
+        "sentiment": {
+            "neg": 0.216,
+            "neu": 0.612,
+            "pos": 0.173,
+            "compound": -0.296
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.33,
+            "Surprise": 0.33,
+            "Sad": 0.0,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "You kinda look like Hitler",
+        "cleaned_comment": "kinda look like hitler",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.575,
+            "pos": 0.425,
+            "compound": 0.3008
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "read this if you are interested about actual discussion and not side picking <br><br>while i do agree with some of the points he makes, he generalizes (ye fans) as being ignorant racists, thousands of ye fans condemn what he said and even some of his current actions, but still like to separate the music from the artist, people should be held accountable and ye is no exceptions. we hope he gets better<br><br>as for the music i think its good with some major fumbles like ye ruining back to me, the wierd bars on king, the chipmunk part of fuk sumn (and downgrading the beat from the leaked version + removing quavo), and his mumble verse on paid. and trash mixes on half the songs. but there are great beats and musical concepts on the album ie (beg forgiveness, talking, stars, back to me beat and performances except ye, fuk sumn , burn which js a great track although too short)<br><br>6/10 overall but 3/10 for ye standards",
+        "cleaned_comment": "read interested actual discussion side picking agree points makes generalizes ye fans ignorant racists thousands ye fans condemn said even current actions still like separate music artist people held accountable ye exceptions hope gets betteras music think good major fumbles like ye ruining back wierd bars king chipmunk part fuk sumn downgrading beat leaked version removing quavo mumble verse paid trash mixes half songs great beats musical concepts album ie beg forgiveness talking stars back beat performances except ye fuk sumn burn js great track although short overall ye standards",
+        "sentiment": {
+            "neg": 0.109,
+            "neu": 0.662,
+            "pos": 0.229,
+            "compound": 0.93
+        },
+        "emotions": {
+            "Happy": 0.18,
+            "Angry": 0.18,
+            "Surprise": 0.24,
+            "Sad": 0.29,
+            "Fear": 0.12
+        }
+    },
+    {
+        "original_comment": "unmarrigeable 1",
+        "cleaned_comment": "unmarrigeable",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "i kinda liked it",
+        "cleaned_comment": "kinda liked",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.285,
+            "pos": 0.715,
+            "compound": 0.3626
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "I respect why he says that he can’t separate the art from the artist bc what he says is in his art therefore he won’t rate the album, but this dude literally rated bastard and goblin by Tyler the creator",
+        "cleaned_comment": "respect says cant separate art artist bc says art therefore wont rate album dude literally rated bastard goblin tyler creator",
+        "sentiment": {
+            "neg": 0.142,
+            "neu": 0.732,
+            "pos": 0.126,
+            "compound": -0.1027
+        },
+        "emotions": {
+            "Happy": 0.25,
+            "Angry": 0.0,
+            "Surprise": 0.25,
+            "Sad": 0.25,
+            "Fear": 0.25
+        }
+    },
+    {
+        "original_comment": "Remember back when Ariel Pink and John Maus were at the White House, and then Ariel Pink appeared on Tucker Carlson and we all stopped listening to that shit? Yeah what the fuck is up with Kanye?",
+        "cleaned_comment": "remember back ariel pink john maus white house ariel pink appeared tucker carlson stopped listening shit yeah fuck kanye",
+        "sentiment": {
+            "neg": 0.344,
+            "neu": 0.573,
+            "pos": 0.084,
+            "compound": -0.7783
+        },
+        "emotions": {
+            "Happy": 0.25,
+            "Angry": 0.0,
+            "Surprise": 0.25,
+            "Sad": 0.25,
+            "Fear": 0.25
+        }
+    },
+    {
+        "original_comment": "&quot;Beyond the Pale&quot; damn",
+        "cleaned_comment": "quotbeyond palequot damn",
+        "sentiment": {
+            "neg": 0.574,
+            "neu": 0.426,
+            "pos": 0.0,
+            "compound": -0.4019
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "He apologized Johna Hill changed his mind",
+        "cleaned_comment": "apologized johna hill changed mind",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.635,
+            "pos": 0.365,
+            "compound": 0.3182
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "shit gas tho",
+        "cleaned_comment": "shit gas tho",
+        "sentiment": {
+            "neg": 0.643,
+            "neu": 0.357,
+            "pos": 0.0,
+            "compound": -0.5574
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I agree with everything you said, except everything you said about hoodrat",
+        "cleaned_comment": "agree everything said except everything said hoodrat",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.706,
+            "pos": 0.294,
+            "compound": 0.3612
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Kanye made a diss about famous Jewish rapper Drake 😔 he will never change…",
+        "cleaned_comment": "kanye made diss famous jewish rapper drake never change",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "How kanye anti semite he is damn ✡️ Free Larry",
+        "cleaned_comment": "kanye anti semite damn free larry",
+        "sentiment": {
+            "neg": 0.442,
+            "neu": 0.265,
+            "pos": 0.292,
+            "compound": -0.1779
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Gender is the defining characteristic between a Kanye fan and a Drake fan. If you&#39;re an edgelord, you choose Kanye, if you&#39;re down bad, you choose Drake.<br><br>No matter the case, you are always 12.",
+        "cleaned_comment": "gender defining characteristic kanye fan drake fan youre edgelord choose kanye youre bad choose drakeno matter case always",
+        "sentiment": {
+            "neg": 0.151,
+            "neu": 0.603,
+            "pos": 0.246,
+            "compound": 0.0516
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "i haven&#39;t agreed with a lot of his takes of late but on this one i totally agree kanyes just a man child who acts out of pocket so that he can feel like hes standing out",
+        "cleaned_comment": "havent agreed lot takes late one totally agree kanyes man child acts pocket feel like hes standing",
+        "sentiment": {
+            "neg": 0.086,
+            "neu": 0.663,
+            "pos": 0.251,
+            "compound": 0.5391
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.25,
+            "Sad": 0.5,
+            "Fear": 0.25
+        }
+    },
+    {
+        "original_comment": "4 types of fans. #4 is the people who are fans of the old kanye but don&#39;t agree with his current remarks, stances, or view on most things but just want him to get better 😔",
+        "cleaned_comment": "types fans people fans old kanye dont agree current remarks stances view things want get better",
+        "sentiment": {
+            "neg": 0.109,
+            "neu": 0.673,
+            "pos": 0.218,
+            "compound": 0.2709
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    }
+]

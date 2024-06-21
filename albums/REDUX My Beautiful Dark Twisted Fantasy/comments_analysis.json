@@ -1,0 +1,1702 @@
+[
+    {
+        "original_comment": "He gave this album a 6 twice, so really he’s saying that this album is a 12. Thank you melon man",
+        "cleaned_comment": "gave album twice really hes saying album thank melon man",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.783,
+            "pos": 0.217,
+            "compound": 0.3612
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "bro came back 10 years later to pull the same shit as last time 😭",
+        "cleaned_comment": "bro came back years later pull shit last time",
+        "sentiment": {
+            "neg": 0.31,
+            "neu": 0.69,
+            "pos": 0.0,
+            "compound": -0.5574
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "This review caused covid",
+        "cleaned_comment": "review caused covid",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "redux review to give it the same score is still so beast",
+        "cleaned_comment": "redux review give score still beast",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.5,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "most of the comments haven&#39;t even watched the video, lol.<br><br>i don&#39;t give a shit if you like this album or not, i like it too and have a lot of great memories with it, but y&#39;all are acting like critics are supposed to support your opinion in order to not being mocked and joked about. why are y&#39;all so sensitive about what others think of your favourite things, that&#39;s childish as hell<br><br>i feel so sick of people trying to call Fantano &quot;biased&quot; while also being biased as fuck.<br><br>a bunch of fucking whiners that can&#39;t accept that a person can have an opinion that is different from yours while being just as valid and respectable without saying he just &quot;tries to be different&quot;, this is such a toxic way to think and yet people can&#39;t recognise it because they&#39;re so eager to tell you you&#39;re wrong.<br>Fantano understood the album better than most of it&#39;s fan base, told you about it&#39;s weak points and you just can&#39;t stop, this is ridiculous.",
+        "cleaned_comment": "comments havent even watched video loli dont give shit like album like lot great memories yall acting like critics supposed support opinion order mocked joked yall sensitive others think favourite things thats childish helli feel sick people trying call fantano quotbiasedquot also biased fucka bunch fucking whiners cant accept person opinion different valid respectable without saying quottries differentquot toxic way think yet people cant recognise theyre eager tell youre wrongfantano understood album better fan base told weak points cant stop ridiculous",
+        "sentiment": {
+            "neg": 0.248,
+            "neu": 0.536,
+            "pos": 0.216,
+            "compound": -0.1677
+        },
+        "emotions": {
+            "Happy": 0.31,
+            "Angry": 0.0,
+            "Surprise": 0.25,
+            "Sad": 0.31,
+            "Fear": 0.12
+        }
+    },
+    {
+        "original_comment": "I am 4 years too late but I would argue that Runaway was never meant to be relatable. This album isn&#39;t supposed to be relatable. A lot of this album is Kanye admitting to all of the things people say he is but unapologetically admitting that he knows it&#39;s not really a good thing for everyone around him, but it&#39;s him and that&#39;s what he&#39;s going to be. The opening lines &quot;She found pictures in my emails, I sent this bitch a picture of my dick, I don&#39;t know what it is with females, but I&#39;m not too good at that shit.&quot; are so simple and stupid on purpose imo. He doesn&#39;t recognise these things as problems other than because of the fact  it causes an issue with his partner when he&#39;s caught and becomes an issue that affects his life directly. He thinks I just sent a picture of my dick why is it such a big deal, he doesn&#39;t understand women but also admits that he knows it is clearly hurtful. He doesn&#39;t have anything clever or introspective to say, he just sent a picture of his dick and got caught. So that&#39;s exactly how he describes it.<br><br>I&#39;m just talking out of my ass for an argument.",
+        "cleaned_comment": "years late would argue runaway never meant relatable album isnt supposed relatable lot album kanye admitting things people say unapologetically admitting knows really good thing everyone around thats hes going opening lines quotshe found pictures emails sent bitch picture dick dont know females im good shitquot simple stupid purpose imo doesnt recognise things problems fact causes issue partner hes caught becomes issue affects life directly thinks sent picture dick big deal doesnt understand women also admits knows clearly hurtful doesnt anything clever introspective say sent picture dick got caught thats exactly describes itim talking ass argument",
+        "sentiment": {
+            "neg": 0.249,
+            "neu": 0.643,
+            "pos": 0.108,
+            "compound": -0.9574
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.15,
+            "Sad": 0.45,
+            "Fear": 0.4
+        }
+    },
+    {
+        "original_comment": "I disagree.",
+        "cleaned_comment": "disagree",
+        "sentiment": {
+            "neg": 1.0,
+            "neu": 0.0,
+            "pos": 0.0,
+            "compound": -0.3818
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "If this Album was called &quot;Hood&#39;s Hottest Dark Twisted Fantasy&quot; it would have atleast got an 8.",
+        "cleaned_comment": "album called quothoods hottest dark twisted fantasyquot would atleast got",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "If Kanye called this album To Pimp A Dark Twisted Fantasy or Kids See My Beautiful Dark Twisted Fantasy Fantano would give this an 11/10",
+        "cleaned_comment": "kanye called album pimp dark twisted fantasy kids see beautiful dark twisted fantasy fantano would give",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.794,
+            "pos": 0.206,
+            "compound": 0.5994
+        },
+        "emotions": {
+            "Happy": 0.4,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.4,
+            "Fear": 0.2
+        }
+    },
+    {
+        "original_comment": "I don&#39;t agree that it&#39;s a 6. Though, I do agree with some points. The vocoded voice thing does kinda suck, and a few of the tracks could be better. But this album is still a masterpiece and deserves around an 8",
+        "cleaned_comment": "dont agree though agree points vocoded voice thing kinda suck tracks could better album still masterpiece deserves around",
+        "sentiment": {
+            "neg": 0.254,
+            "neu": 0.485,
+            "pos": 0.261,
+            "compound": 0.2899
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.67,
+            "Sad": 0.0,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "THIS A TEN 😤😤😤",
+        "cleaned_comment": "ten",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "It&#39;s not very easy to take the words of someone who called &quot;All of the Lights&quot; badly produced seriously",
+        "cleaned_comment": "easy take words someone called quotall lightsquot badly produced seriously",
+        "sentiment": {
+            "neg": 0.327,
+            "neu": 0.476,
+            "pos": 0.197,
+            "compound": -0.2263
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.5,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "If it was called To Pimp a Beautiful Dark Twisted Fantasy this would be a 10",
+        "cleaned_comment": "called pimp beautiful dark twisted fantasy would",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.606,
+            "pos": 0.394,
+            "compound": 0.5994
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Typa shit where when you bring me the food bring me the fuckin check",
+        "cleaned_comment": "typa shit bring food bring fuckin check",
+        "sentiment": {
+            "neg": 0.375,
+            "neu": 0.625,
+            "pos": 0.0,
+            "compound": -0.5574
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.33,
+            "Sad": 0.67,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I don&#39;t like how people aren&#39;t actually looking at these points critically instead taking the number alone into consideration--that being said fantano how are you going to hate on the nicki verse on Monster? That is a fucking crime.",
+        "cleaned_comment": "dont like people arent actually looking points critically instead taking number alone considerationthat said fantano going hate nicki verse monster fucking crime",
+        "sentiment": {
+            "neg": 0.388,
+            "neu": 0.569,
+            "pos": 0.043,
+            "compound": -0.8835
+        },
+        "emotions": {
+            "Happy": 0.12,
+            "Angry": 0.0,
+            "Surprise": 0.25,
+            "Sad": 0.25,
+            "Fear": 0.38
+        }
+    },
+    {
+        "original_comment": "YK its a Fantano review when the latest lackluster, short, calm Gorillaz album is higher than one of the best Kanye albums with very iconic songs",
+        "cleaned_comment": "yk fantano review latest lackluster short calm gorillaz album higher one best kanye albums iconic songs",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.683,
+            "pos": 0.317,
+            "compound": 0.7579
+        },
+        "emotions": {
+            "Happy": 0.33,
+            "Angry": 0.33,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "strong 5 to a light 6...",
+        "cleaned_comment": "strong light",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.233,
+            "pos": 0.767,
+            "compound": 0.5106
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I do think this album is a little overrated like it’s my 3rd or 4th fav album personally but saying it’s a 6 is still outrageous 💀💀💀",
+        "cleaned_comment": "think album little overrated like rd th fav album personally saying still outrageous",
+        "sentiment": {
+            "neg": 0.165,
+            "neu": 0.549,
+            "pos": 0.287,
+            "compound": 0.3008
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "10 - Dark Fantasy<br>9 - Gorgeous<br>10 - POWER<br>9 - All Of The Lights Interlude<br>10 - All Of The Lights<br>10 - Monster<br>8 - So Appalled<br>10 - Devil In A New Dress<br>10 - Runaway<br>8 - Hell Of A Life<br>6 - Blame Game<br>8 - Lost In The World<br>4 - Who Will Survive In America<br><br>for me, it’s a light to decent 9 because of the weaker tracks towards the end and the final track which i personally find to be a really dumb way to end the album",
+        "cleaned_comment": "dark fantasy gorgeous power lights interlude lights monster appalled devil new dress runaway hell life blame game lost world survive americafor light decent weaker tracks towards end final track personally find really dumb way end album",
+        "sentiment": {
+            "neg": 0.42,
+            "neu": 0.507,
+            "pos": 0.072,
+            "compound": -0.9595
+        },
+        "emotions": {
+            "Happy": 0.1,
+            "Angry": 0.1,
+            "Surprise": 0.3,
+            "Sad": 0.3,
+            "Fear": 0.2
+        }
+    },
+    {
+        "original_comment": "This means that the new Yeat album is better than this",
+        "cleaned_comment": "means new yeat album better",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.58,
+            "pos": 0.42,
+            "compound": 0.4404
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Krubi??",
+        "cleaned_comment": "krubi",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "wack",
+        "cleaned_comment": "wack",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "this was worse than the holocaust",
+        "cleaned_comment": "worse holocaust",
+        "sentiment": {
+            "neg": 0.756,
+            "neu": 0.244,
+            "pos": 0.0,
+            "compound": -0.4767
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "My beautiful dark twisted fantasy is that Melon gives this a 10 in 2030. 😊",
+        "cleaned_comment": "beautiful dark twisted fantasy melon gives",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.562,
+            "pos": 0.438,
+            "compound": 0.5994
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "just came back here to see that you still gave it a score below 9",
+        "cleaned_comment": "came back see still gave score",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.5,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "Dude is wasting 75% of his time crying about the artist lifestyle and not talking about the MUSIC",
+        "cleaned_comment": "dude wasting time crying artist lifestyle talking music",
+        "sentiment": {
+            "neg": 0.492,
+            "neu": 0.508,
+            "pos": 0.0,
+            "compound": -0.7003
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "I&#39;m not even mad at this rating, because I genuinely don&#39;t understand how an album like could be in the &quot;5&quot; range. I can&#39;t even comprehend someone listening to the many heavy hitters of this album, and saying it&#39;s all mid.<br>I guessing this is some kind of bias/hate, or he only listened to blame game.",
+        "cleaned_comment": "im even mad rating genuinely dont understand album like could quotquot range cant even comprehend someone listening many heavy hitters album saying midi guessing kind biashate listened blame game",
+        "sentiment": {
+            "neg": 0.214,
+            "neu": 0.692,
+            "pos": 0.094,
+            "compound": -0.5122
+        },
+        "emotions": {
+            "Happy": 0.17,
+            "Angry": 0.17,
+            "Surprise": 0.17,
+            "Sad": 0.33,
+            "Fear": 0.17
+        }
+    },
+    {
+        "original_comment": "Im glad someone had the same impression of Runaway as me. After finishing the album and reading all the praise people had for that track I absolutely could not believe it. Goofy ahh chorus and horrid singing in general, and the THREE MINUTES of farting through a walkie talkie at the end did absolutely nothing for me. Though it did give me a good unintentional laugh",
+        "cleaned_comment": "im glad someone impression runaway finishing album reading praise people track absolutely could believe goofy ahh chorus horrid singing general three minutes farting walkie talkie end absolutely nothing though give good unintentional laugh",
+        "sentiment": {
+            "neg": 0.131,
+            "neu": 0.6,
+            "pos": 0.269,
+            "compound": 0.7347
+        },
+        "emotions": {
+            "Happy": 0.14,
+            "Angry": 0.0,
+            "Surprise": 0.14,
+            "Sad": 0.14,
+            "Fear": 0.57
+        }
+    },
+    {
+        "original_comment": "you are not a fantano you are fantasma 👻",
+        "cleaned_comment": "fantano fantasma",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "If this was a Kendrick album melon would have wanked the shit out of it",
+        "cleaned_comment": "kendrick album melon would wanked shit",
+        "sentiment": {
+            "neg": 0.419,
+            "neu": 0.581,
+            "pos": 0.0,
+            "compound": -0.5574
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "So its as good as music to be murdered by? As a stan we take those",
+        "cleaned_comment": "good music murdered stan take",
+        "sentiment": {
+            "neg": 0.427,
+            "neu": 0.291,
+            "pos": 0.282,
+            "compound": -0.3612
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "<a href=\"https://www.youtube.com/watch?v=rNaT3KazKoE&amp;t=1310\">21:50</a> Fuckery right here. No need to watch the full video.",
+        "cleaned_comment": "fuckery right need watch full video",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "To be a 8/10 or above Kanye needed just one word from Kendrick in any songs💀(The life of pablo had one so it got good rating)",
+        "cleaned_comment": "kanye needed one word kendrick songsthe life pablo one got good rating",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.791,
+            "pos": 0.209,
+            "compound": 0.4404
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.5,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "Melon showcases how human he is by being blatantly wrong not just once, twice.",
+        "cleaned_comment": "melon showcases human blatantly wrong twice",
+        "sentiment": {
+            "neg": 0.383,
+            "neu": 0.617,
+            "pos": 0.0,
+            "compound": -0.4767
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "I can never trust this guys Kanye reviews",
+        "cleaned_comment": "never trust guys kanye reviews",
+        "sentiment": {
+            "neg": 0.403,
+            "neu": 0.597,
+            "pos": 0.0,
+            "compound": -0.4023
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "Literally the best album ever bro",
+        "cleaned_comment": "literally best album ever bro",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.488,
+            "pos": 0.512,
+            "compound": 0.6369
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "He’s so right on this album, past runaway are mid songs",
+        "cleaned_comment": "hes right album past runaway mid songs",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Graduation is a better listen tbh",
+        "cleaned_comment": "graduation better listen tbh",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.508,
+            "pos": 0.492,
+            "compound": 0.4404
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "inside of me are two wolves: Cole from dissect and Anthony",
+        "cleaned_comment": "inside two wolves cole dissect anthony",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Runaway is amazing and you can&#39;t convince me otherwise melon",
+        "cleaned_comment": "runaway amazing cant convince otherwise melon",
+        "sentiment": {
+            "neg": 0.182,
+            "neu": 0.419,
+            "pos": 0.398,
+            "compound": 0.4696
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "This is why your wife left you",
+        "cleaned_comment": "wife left",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Bro, you are my hero for this.",
+        "cleaned_comment": "bro hero",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.217,
+            "pos": 0.783,
+            "compound": 0.5574
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "If it was titled “My Beautiful Hood Hottest Fantasies” you would’ve given it an 8",
+        "cleaned_comment": "titled beautiful hood hottest fantasies wouldve given",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.606,
+            "pos": 0.394,
+            "compound": 0.5994
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "If Sexyy Red made this album it would be a 10",
+        "cleaned_comment": "sexyy red made album would",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.5,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "kanye fans discover opinions",
+        "cleaned_comment": "kanye fans discover opinions",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "No I get it. I get it now. I listened to the album for the first time and I’d give it an 8. But I completely understand his reasonings for not liking it as much. He just cares about some things more than me.",
+        "cleaned_comment": "get get listened album first time id give completely understand reasonings liking much cares things",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.686,
+            "pos": 0.314,
+            "compound": 0.7152
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.25,
+            "Sad": 0.5,
+            "Fear": 0.25
+        }
+    },
+    {
+        "original_comment": "I too give this album a 6 . Great in the first half, falls apart in the second half",
+        "cleaned_comment": "give album great first half falls apart second half",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.661,
+            "pos": 0.339,
+            "compound": 0.6249
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "If it was called &quot;to pimp a beautiful dark twisted fantasy&quot; you&#39;d give it a 10",
+        "cleaned_comment": "called quotto pimp beautiful dark twisted fantasyquot youd give",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.672,
+            "pos": 0.328,
+            "compound": 0.5994
+        },
+        "emotions": {
+            "Happy": 0.33,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.33,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "12/10 is a weird album number",
+        "cleaned_comment": "weird album number",
+        "sentiment": {
+            "neg": 0.425,
+            "neu": 0.25,
+            "pos": 0.325,
+            "compound": -0.1027
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "I think dude a virtue signaler and can’t handle Kanye being good to everybody but him",
+        "cleaned_comment": "think dude virtue signaler cant handle kanye good everybody",
+        "sentiment": {
+            "neg": 0.197,
+            "neu": 0.573,
+            "pos": 0.229,
+            "compound": 0.1012
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Cy-Hi has the best feature on So Appalled 💀What drugs are you on?????",
+        "cleaned_comment": "cyhi best feature appalled drugs",
+        "sentiment": {
+            "neg": 0.294,
+            "neu": 0.294,
+            "pos": 0.412,
+            "compound": 0.296
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "This guy is an absolute clown🤡🤡",
+        "cleaned_comment": "guy absolute clown",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "i can agree on his opinion on gorgeous but i still like the song",
+        "cleaned_comment": "agree opinion gorgeous still like song",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.25,
+            "pos": 0.75,
+            "compound": 0.8402
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "You shouldn&#39;t have an opion on music if you actually think My beautiful Dark fantasy is a 6",
+        "cleaned_comment": "shouldnt opion music actually think beautiful dark fantasy",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.642,
+            "pos": 0.358,
+            "compound": 0.5994
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Worst take of the decade",
+        "cleaned_comment": "worst take decade",
+        "sentiment": {
+            "neg": 0.672,
+            "neu": 0.328,
+            "pos": 0.0,
+            "compound": -0.6249
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "6 on mbdtf and 8 on yeat, amazing!!",
+        "cleaned_comment": "mbdtf yeat amazing",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.345,
+            "pos": 0.655,
+            "compound": 0.5859
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "This is kanyes best work. Not always my favorite but its his masterpiece. And Nikki&#39;s verse was probably the best on the album but not because the album was below par but because she absolutely killed it.",
+        "cleaned_comment": "kanyes best work always favorite masterpiece nikkis verse probably best album album par absolutely killed",
+        "sentiment": {
+            "neg": 0.158,
+            "neu": 0.33,
+            "pos": 0.512,
+            "compound": 0.8935
+        },
+        "emotions": {
+            "Happy": 0.17,
+            "Angry": 0.0,
+            "Surprise": 0.33,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "Accounting for inflation, this is now a light 11. I’m glad Melon is not letting us down in these trying times.",
+        "cleaned_comment": "accounting inflation light im glad melon letting us trying times",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.75,
+            "pos": 0.25,
+            "compound": 0.4588
+        },
+        "emotions": {
+            "Happy": 0.33,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.33,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "I did not like this review, melon.",
+        "cleaned_comment": "like review melon",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.444,
+            "pos": 0.556,
+            "compound": 0.3612
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Listen to the way this mans speaks his opinion can’t be even taken seriously L take seek a therapist cuz clearly u r delusional",
+        "cleaned_comment": "listen way mans speaks opinion cant even taken seriously l take seek therapist cuz clearly u r delusional",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.755,
+            "pos": 0.245,
+            "compound": 0.497
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "worst rating, or worst rating",
+        "cleaned_comment": "worst rating worst rating",
+        "sentiment": {
+            "neg": 0.804,
+            "neu": 0.196,
+            "pos": 0.0,
+            "compound": -0.8481
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "fantano sometimes like he hates things that make no sense, I mean, why is the arpeggio bad in hell of a life? Furthermore, it is not a sex song, it is a satire of the romanticization of the lives of celebrities compared to the lives of porn actors, in runaway in the bars that you mentioned, Kanye&#39;s idea is to be ashamed, to admit that it is a Disgusting guy who is shit, and he says it with that unpleasant bar of sending photos of his penis, the verse that comes after Pusha T&#39;s is pretty good, the verse from Lost in the World is a poem that he dedicated to Kim, interpreted as Kim, is his &quot;salvation&quot; from this void he was in after everything that happened in his life but he knows how toxic this relationship can become since he knows what a disgusting person he is.",
+        "cleaned_comment": "fantano sometimes like hates things make sense mean arpeggio bad hell life furthermore sex song satire romanticization lives celebrities compared lives porn actors runaway bars mentioned kanyes idea ashamed admit disgusting guy shit says unpleasant bar sending photos penis verse comes pusha ts pretty good verse lost world poem dedicated kim interpreted kim quotsalvationquot void everything happened life knows toxic relationship become since knows disgusting person",
+        "sentiment": {
+            "neg": 0.309,
+            "neu": 0.527,
+            "pos": 0.164,
+            "compound": -0.9432
+        },
+        "emotions": {
+            "Happy": 0.06,
+            "Angry": 0.0,
+            "Surprise": 0.18,
+            "Sad": 0.59,
+            "Fear": 0.18
+        }
+    },
+    {
+        "original_comment": "nice video",
+        "cleaned_comment": "nice video",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.263,
+            "pos": 0.737,
+            "compound": 0.4215
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Delete your account brodi",
+        "cleaned_comment": "delete account brodi",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "Bro you need to open up your mind a lil bit this a perfect album an easy 10+ no skips either, your trippin",
+        "cleaned_comment": "bro need open mind lil bit perfect album easy skips either trippin",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.602,
+            "pos": 0.398,
+            "compound": 0.765
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.33,
+            "Sad": 0.33,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "i disagree but i think this redux review is great honestly, the original review was when he was just starting out and he didnt really articulate his feelings all too well, this review helps him explain it much better and it&#39;s understandable even if i entirely disagree",
+        "cleaned_comment": "disagree think redux review great honestly original review starting didnt really articulate feelings well review helps explain much better understandable even entirely disagree",
+        "sentiment": {
+            "neg": 0.139,
+            "neu": 0.4,
+            "pos": 0.461,
+            "compound": 0.9014
+        },
+        "emotions": {
+            "Happy": 0.25,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.25,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "This is the most delusional comment section ever, if he didn&#39;t said a rate it wouldn&#39;t be full of kid-spirited white spoiled hip-hop fans and RYM users",
+        "cleaned_comment": "delusional comment section ever didnt said rate wouldnt full kidspirited white spoiled hiphop fans rym users",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "L rating",
+        "cleaned_comment": "l rating",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Gorgeous is my favourite song on the album",
+        "cleaned_comment": "gorgeous favourite song album",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.429,
+            "pos": 0.571,
+            "compound": 0.6124
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "6/10 is a bit above average. Giving MBDTF a bit above average is wild😂",
+        "cleaned_comment": "bit average giving mbdtf bit average wild",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.714,
+            "pos": 0.286,
+            "compound": 0.34
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "One day he will understand good music, maybe next time in 2030",
+        "cleaned_comment": "one day understand good music maybe next time",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.707,
+            "pos": 0.293,
+            "compound": 0.4404
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I’m finally listening to this album for the first time, not even finished with it yet and I still would already give it above a 6",
+        "cleaned_comment": "im finally listening album first time even finished yet still would already give",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "A strong 5 to light 6 vs a light to decent 6 looooool. I agree I kind of like it less too",
+        "cleaned_comment": "strong light vs light decent looooool agree kind like less",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.339,
+            "pos": 0.661,
+            "compound": 0.8934
+        },
+        "emotions": {
+            "Happy": 0.67,
+            "Angry": 0.0,
+            "Surprise": 0.33,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "honestly gotta agree here",
+        "cleaned_comment": "honestly got ta agree",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.267,
+            "pos": 0.733,
+            "compound": 0.6705
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Thanks Melon for wasting my time",
+        "cleaned_comment": "thanks melon wasting time",
+        "sentiment": {
+            "neg": 0.355,
+            "neu": 0.263,
+            "pos": 0.382,
+            "compound": 0.0516
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "The funny thing is, all my life I ignorantly slept on Yeezy, only knowing and liking a few songs. Once Fantano sparked my curiosity, I ended up enjoying Dark Fantasy way more than I thought I would, and Yeezy is one of my favorite artists now. “We don’t die, we multiple.”",
+        "cleaned_comment": "funny thing life ignorantly slept yeezy knowing liking songs fantano sparked curiosity ended enjoying dark fantasy way thought would yeezy one favorite artists dont die multiple",
+        "sentiment": {
+            "neg": 0.069,
+            "neu": 0.53,
+            "pos": 0.401,
+            "compound": 0.9108
+        },
+        "emotions": {
+            "Happy": 0.29,
+            "Angry": 0.0,
+            "Surprise": 0.29,
+            "Sad": 0.14,
+            "Fear": 0.29
+        }
+    },
+    {
+        "original_comment": "sexy red vs mbdtf",
+        "cleaned_comment": "sexy red vs mbdtf",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.469,
+            "pos": 0.531,
+            "compound": 0.5267
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 1.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "IT IS A 10 YOU ARE CRAZY Y HJFGUYSAGFBYHSFHBYUFDGYSGYUTFSDGUYK",
+        "cleaned_comment": "crazy hjfguysagfbyhsfhbyufdgysgyutfsdguyk",
+        "sentiment": {
+            "neg": 0.706,
+            "neu": 0.294,
+            "pos": 0.0,
+            "compound": -0.34
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "I hate you",
+        "cleaned_comment": "hate",
+        "sentiment": {
+            "neg": 1.0,
+            "neu": 0.0,
+            "pos": 0.0,
+            "compound": -0.5719
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "This is a very thoughtful review, Anthony. Despite what the comments overwhelmingly say, I think your points were put much more admirably this time- and I still don’t agree with you on a lot of points! But what a boring world this would be if every big critic mindlessly fellated every single beloved album in existence.",
+        "cleaned_comment": "thoughtful review anthony despite comments overwhelmingly say think points put much admirably time still dont agree lot points boring world would every big critic mindlessly fellated every single beloved album existence",
+        "sentiment": {
+            "neg": 0.158,
+            "neu": 0.581,
+            "pos": 0.261,
+            "compound": 0.644
+        },
+        "emotions": {
+            "Happy": 0.12,
+            "Angry": 0.12,
+            "Surprise": 0.25,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I think its great that ,somehow, we live in a timeline where the only person in the entire world who dosent give mbdtf at least a 9/10 managed to start a successful review channel, you&#39;re the worlds most marginalized minority.",
+        "cleaned_comment": "think great somehow live timeline person entire world dosent give mbdtf least managed start successful review channel youre worlds marginalized minority",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.706,
+            "pos": 0.294,
+            "compound": 0.836
+        },
+        "emotions": {
+            "Happy": 0.25,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.75
+        }
+    },
+    {
+        "original_comment": "erguu lalar uulzhu gichii mn",
+        "cleaned_comment": "erguu lalar uulzhu gichii mn",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "it’s a light 8",
+        "cleaned_comment": "light",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Wish the dislike button still existed",
+        "cleaned_comment": "wish dislike button still existed",
+        "sentiment": {
+            "neg": 0.313,
+            "neu": 0.361,
+            "pos": 0.325,
+            "compound": 0.0258
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "is it just me or does he say good t hings about most of the songs then give it a 5?",
+        "cleaned_comment": "say good hings songs give",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.58,
+            "pos": 0.42,
+            "compound": 0.4404
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "Power might be my personal favorite kanye song but you are smoking something if you think the last 1/3rd of runaway shouldn&#39;t  have been cut. Who honestly enjoys 3 minutes of a couple piano notes with overly distorted vocals?",
+        "cleaned_comment": "power might personal favorite kanye song smoking something think last rd runaway shouldnt cut honestly enjoys minutes couple piano notes overly distorted vocals",
+        "sentiment": {
+            "neg": 0.257,
+            "neu": 0.586,
+            "pos": 0.157,
+            "compound": -0.471
+        },
+        "emotions": {
+            "Happy": 0.33,
+            "Angry": 0.33,
+            "Surprise": 0.0,
+            "Sad": 0.17,
+            "Fear": 0.17
+        }
+    },
+    {
+        "original_comment": "Fantano has only grown 800k in the 4 years since... I attribute this to the idea that for every 3 subscribers he receives, 2 find his original MBDTF review, one unsubs then, the other, after this video.",
+        "cleaned_comment": "fantano grown k years since attribute idea every subscribers receives find original mbdtf review one unsubs video",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.867,
+            "pos": 0.133,
+            "compound": 0.3182
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "If it was called Kids see dark fantasies you would have given it a ten",
+        "cleaned_comment": "called kids see dark fantasies would given ten",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "white af",
+        "cleaned_comment": "white af",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "This take is horrible. Worst take I&#39;ve seen from you or from anyone. I might hang myself in my room and just write the link of this horrible, deplorable ranking of the greatest rap album of all time as my entire suicide note. Im not suicidal in the slightest, but watching this horrible, disgusting, repulsing, garbage review has made me closer to that than when my own relatives die. As the biggest music nerd to walk the planet, you give raps magnum opus a mere 6/10. This can&#39;t be healthy behavior, you should attend hours and hours of therapy forr this take. You should be chained up in a bunker, forced to only listen to this album on repeat, with that being the only sound you hear. And when you get out of the bunker, the songs never escape your mind and they forever replay over and over again and everything just sounds like MBDTF to you for the rest of your life for this deplorable take. I hope when you sleep, your pillow is warm, you get crabs overnight, you&#39;ll feel so appalled when you wake up and see you have crabs you pass out and wake up in a dystopian world where you never get to hear the peep or sound of music again. I thought i could trust you fantano, you know more about music than i do and you&#39;re too blind to realize you found gold. Your brain should be experimented on for this idea in your mind that this album is anything less than a 10/10. You&#39;re a lab experiment with one mission that is to have the worst MBDTF take of all time. Even bone marrow babies can realize this album is beautiful, hense the album name. And not even youd can realize that, you must&#39;ve been forced into deep monkey sex unwillingly and full of unenjoyment when you listened to this so you have so much PTSD when you listen to this that you dont like it that much. To explain everything said in this essay of a comment: I don&#39;t really like that take",
+        "cleaned_comment": "take horrible worst take ive seen anyone might hang room write link horrible deplorable ranking greatest rap album time entire suicide note im suicidal slightest watching horrible disgusting repulsing garbage review made closer relatives die biggest music nerd walk planet give raps magnum opus mere cant healthy behavior attend hours hours therapy forr take chained bunker forced listen album repeat sound hear get bunker songs never escape mind forever replay everything sounds like mbdtf rest life deplorable take hope sleep pillow warm get crabs overnight youll feel appalled wake see crabs pass wake dystopian world never get hear peep sound music thought could trust fantano know music youre blind realize found gold brain experimented idea mind album anything less youre lab experiment one mission worst mbdtf take time even bone marrow babies realize album beautiful hense album name even youd realize mustve forced deep monkey sex unwillingly full unenjoyment listened much ptsd listen dont like much explain everything said essay comment dont really like take",
+        "sentiment": {
+            "neg": 0.242,
+            "neu": 0.649,
+            "pos": 0.109,
+            "compound": -0.9834
+        },
+        "emotions": {
+            "Happy": 0.04,
+            "Angry": 0.04,
+            "Surprise": 0.15,
+            "Sad": 0.19,
+            "Fear": 0.58
+        }
+    },
+    {
+        "original_comment": "ur worst review so far",
+        "cleaned_comment": "ur worst review far",
+        "sentiment": {
+            "neg": 0.577,
+            "neu": 0.423,
+            "pos": 0.0,
+            "compound": -0.6249
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "If this is a 6 then i have to see whats a 7 because frankly i think he&#39;s just tring to be different. Honestly I made 6 different accounts just to dislike this video.",
+        "cleaned_comment": "see whats frankly think hes tring different honestly made different accounts dislike video",
+        "sentiment": {
+            "neg": 0.157,
+            "neu": 0.663,
+            "pos": 0.181,
+            "compound": 0.1027
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.67,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "How do you praise Jay-Z&#39;s awful verse on Monster while bashing Nicki&#39;s greatest verse? And putting it below Donda, you&#39;ve gotta be kidding me. This review is a huge L",
+        "cleaned_comment": "praise jayzs awful verse monster bashing nickis greatest verse putting donda youve got ta kidding review huge l",
+        "sentiment": {
+            "neg": 0.113,
+            "neu": 0.453,
+            "pos": 0.434,
+            "compound": 0.8176
+        },
+        "emotions": {
+            "Happy": 0.33,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.33,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "his whole career is based on being a contrarian le redditor . lol grow some hair fantanamo",
+        "cleaned_comment": "whole career based contrarian le redditor lol grow hair fantanamo",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.763,
+            "pos": 0.237,
+            "compound": 0.4215
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Damn bro you are to harsh on this album",
+        "cleaned_comment": "damn bro harsh album",
+        "sentiment": {
+            "neg": 0.737,
+            "neu": 0.263,
+            "pos": 0.0,
+            "compound": -0.6808
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "To me this review feels more like a classic review than a typical Fantano review, which is what I think the album deserves as supposed to a numeral rating. The impact this album left on pop culture, the future of music, and the careers that were made because of it need to be acknowledged",
+        "cleaned_comment": "review feels like classic review typical fantano review think album deserves supposed numeral rating impact album left pop culture future music careers made need acknowledged",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.906,
+            "pos": 0.094,
+            "compound": 0.3612
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.33,
+            "Surprise": 0.0,
+            "Sad": 0.33,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "imagine the alternate universe where fantano still gives MBDTF a 6, but his ranking is out of 5 instead 10…",
+        "cleaned_comment": "imagine alternate universe fantano still gives mbdtf ranking instead",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "never review again 🔥",
+        "cleaned_comment": "never review",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "<b>BUZZER SOUND</b> WRONG",
+        "cleaned_comment": "buzzer sound wrong",
+        "sentiment": {
+            "neg": 0.608,
+            "neu": 0.392,
+            "pos": 0.0,
+            "compound": -0.4767
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "genuinely cannot fathom that an album with dark fantasy, runaway, power, all of the lights, devil in a new dress and lost in the world gets a 6, its impossible",
+        "cleaned_comment": "genuinely fathom album dark fantasy runaway power lights devil new dress lost world gets impossible",
+        "sentiment": {
+            "neg": 0.34,
+            "neu": 0.66,
+            "pos": 0.0,
+            "compound": -0.7717
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.17,
+            "Surprise": 0.17,
+            "Sad": 0.67,
+            "Fear": 0.0
+        }
+    }
+]

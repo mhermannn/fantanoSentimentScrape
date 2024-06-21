@@ -1,0 +1,1702 @@
+[
+    {
+        "original_comment": "this album is one of the only ones to creatively capture religious trauma and the sense of unwellness you carry with you as a woman, you would never understand it and you&#39;re bald so why should any of us care what you think anyway",
+        "cleaned_comment": "album one ones creatively capture religious trauma sense unwellness carry woman would never understand youre bald us care think anyway",
+        "sentiment": {
+            "neg": 0.11,
+            "neu": 0.667,
+            "pos": 0.224,
+            "compound": 0.4404
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "… i hate you real bad",
+        "cleaned_comment": "hate real bad",
+        "sentiment": {
+            "neg": 0.878,
+            "neu": 0.122,
+            "pos": 0.0,
+            "compound": -0.802
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Wrong it’s a 9 or a 10 😢",
+        "cleaned_comment": "wrong",
+        "sentiment": {
+            "neg": 1.0,
+            "neu": 0.0,
+            "pos": 0.0,
+            "compound": -0.4767
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Damn bro, you’re loud and wrong",
+        "cleaned_comment": "damn bro youre loud wrong",
+        "sentiment": {
+            "neg": 0.659,
+            "neu": 0.341,
+            "pos": 0.0,
+            "compound": -0.7003
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "my friend paul thinks ur lost and dumb, he says its an 8",
+        "cleaned_comment": "friend paul thinks ur lost dumb says",
+        "sentiment": {
+            "neg": 0.437,
+            "neu": 0.312,
+            "pos": 0.25,
+            "compound": -0.34
+        },
+        "emotions": {
+            "Happy": 0.33,
+            "Angry": 0.0,
+            "Surprise": 0.33,
+            "Sad": 0.33,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Men will never understand this album",
+        "cleaned_comment": "men never understand album",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "he’s bald… HES BALD AND TORTURING EVERYONE WHO HAS HAIR!!!",
+        "cleaned_comment": "hes bald hes bald torturing everyone hair",
+        "sentiment": {
+            "neg": 0.4,
+            "neu": 0.6,
+            "pos": 0.0,
+            "compound": -0.6124
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "This is your worst video",
+        "cleaned_comment": "worst video",
+        "sentiment": {
+            "neg": 0.804,
+            "neu": 0.196,
+            "pos": 0.0,
+            "compound": -0.6249
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "what is this, melon?",
+        "cleaned_comment": "melon",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Y’all remember that video of that guy screaming about Glinda being a princess, that’s the energy I feel right now lol. GROWWW UP",
+        "cleaned_comment": "yall remember video guy screaming glinda princess thats energy feel right lol growww",
+        "sentiment": {
+            "neg": 0.149,
+            "neu": 0.571,
+            "pos": 0.28,
+            "compound": 0.3182
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "The statement “I expected something darker” from Preacher’s Daughter is pretty crazy lmao but alas it is a very slow burn. It’s one of those works that has to catch you at the right time to click. Took me about a year of listening for it to fully resonate",
+        "cleaned_comment": "statement expected something darker preachers daughter pretty crazy lmao alas slow burn one works catch right time click took year listening fully resonate",
+        "sentiment": {
+            "neg": 0.147,
+            "neu": 0.621,
+            "pos": 0.232,
+            "compound": 0.5574
+        },
+        "emotions": {
+            "Happy": 0.4,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.2,
+            "Fear": 0.4
+        }
+    },
+    {
+        "original_comment": "6 for this album it&#39;s insane omg",
+        "cleaned_comment": "album insane omg",
+        "sentiment": {
+            "neg": 0.574,
+            "neu": 0.426,
+            "pos": 0.0,
+            "compound": -0.4019
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "this album is an 11 sorry",
+        "cleaned_comment": "album sorry",
+        "sentiment": {
+            "neg": 0.565,
+            "neu": 0.435,
+            "pos": 0.0,
+            "compound": -0.0772
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "WHAT THE EFUCK",
+        "cleaned_comment": "efuck",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "horrendously wrong about an incredible album done by a woman yet again.. fucking yawn dog",
+        "cleaned_comment": "horrendously wrong incredible album done woman yet fucking yawn dog",
+        "sentiment": {
+            "neg": 0.429,
+            "neu": 0.571,
+            "pos": 0.0,
+            "compound": -0.7184
+        },
+        "emotions": {
+            "Happy": 0.33,
+            "Angry": 0.0,
+            "Surprise": 0.67,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "This album DOES feel a bit like &quot;we have Lingua Ignota at home&quot; but I think her next album will likely be a huge standout. Good foundation, just needs some tweaking. I enjoyed what this had to offer, but I did leave it wanting something a little more harrowing.",
+        "cleaned_comment": "album feel bit like quotwe lingua ignota homequot think next album likely huge standout good foundation needs tweaking enjoyed offer leave wanting something little harrowing",
+        "sentiment": {
+            "neg": 0.037,
+            "neu": 0.621,
+            "pos": 0.342,
+            "compound": 0.8689
+        },
+        "emotions": {
+            "Happy": 0.33,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.33,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "this was/is a fantastic self produced record. it’s giving hater. grow up brother",
+        "cleaned_comment": "wasis fantastic self produced record giving hater grow brother",
+        "sentiment": {
+            "neg": 0.189,
+            "neu": 0.405,
+            "pos": 0.405,
+            "compound": 0.4939
+        },
+        "emotions": {
+            "Happy": 0.33,
+            "Angry": 0.0,
+            "Surprise": 0.33,
+            "Sad": 0.0,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "Pls review inbred, I’m curious about your thoughts",
+        "cleaned_comment": "pls review inbred im curious thoughts",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.526,
+            "pos": 0.474,
+            "compound": 0.3818
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "I am sick when you just start shitting on it ripping it apart",
+        "cleaned_comment": "sick start shitting ripping apart",
+        "sentiment": {
+            "neg": 0.67,
+            "neu": 0.33,
+            "pos": 0.0,
+            "compound": -0.7269
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Bro gives mumble rappers a higher rating than Ethel? wild.",
+        "cleaned_comment": "bro gives mumble rappers higher rating ethel wild",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Sun bleached flies is NOT dragged out 😭😭 it&#39;s good",
+        "cleaned_comment": "sun bleached flies dragged good",
+        "sentiment": {
+            "neg": 0.169,
+            "neu": 0.423,
+            "pos": 0.408,
+            "compound": 0.4019
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "bruh",
+        "cleaned_comment": "bruh",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "I just can’t see a world where you would rate this 6. I guess it has a lot to do with how hard it can be for a man to connect with the pain of a trans artist",
+        "cleaned_comment": "cant see world would rate guess lot hard man connect pain trans artist",
+        "sentiment": {
+            "neg": 0.299,
+            "neu": 0.701,
+            "pos": 0.0,
+            "compound": -0.5719
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.25,
+            "Surprise": 0.25,
+            "Sad": 0.25,
+            "Fear": 0.25
+        }
+    },
+    {
+        "original_comment": "This album is easily a masterpiece 10/10 for me idk what this guy is on about",
+        "cleaned_comment": "album easily masterpiece idk guy",
+        "sentiment": {
+            "neg": 0.141,
+            "neu": 0.202,
+            "pos": 0.657,
+            "compound": 0.7269
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "Shouldve listened to it 5 or 6 more times. It&#39;s now in my top 5 albums tbh but i agree the slow progression makes it one that has to grow on you.",
+        "cleaned_comment": "shouldve listened times top albums tbh agree slow progression makes one grow",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.699,
+            "pos": 0.301,
+            "compound": 0.5106
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "You stay lackin!!!!! 🎉 cause of shit like this",
+        "cleaned_comment": "stay lackin cause shit like",
+        "sentiment": {
+            "neg": 0.396,
+            "neu": 0.33,
+            "pos": 0.275,
+            "compound": -0.2732
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.5,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I recently had a dream that a mob boss kidnapped me and then he put one of his cronies in charge of watching me. Of course we fell in love and he let me go but I came back to him because our love was so strong. After I came back he morphed into Anthony Fantano and then I proceeded to give him hell for rating this album 6/10. One of the best dreams I’ve ever had.",
+        "cleaned_comment": "recently dream mob boss kidnapped put one cronies charge watching course fell love let go came back love strong came back morphed anthony fantano proceeded give hell rating album one best dreams ive ever",
+        "sentiment": {
+            "neg": 0.088,
+            "neu": 0.517,
+            "pos": 0.395,
+            "compound": 0.9432
+        },
+        "emotions": {
+            "Happy": 0.4,
+            "Angry": 0.2,
+            "Surprise": 0.1,
+            "Sad": 0.1,
+            "Fear": 0.2
+        }
+    },
+    {
+        "original_comment": "once again wrong",
+        "cleaned_comment": "wrong",
+        "sentiment": {
+            "neg": 1.0,
+            "neu": 0.0,
+            "pos": 0.0,
+            "compound": -0.4767
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Okay, I&#39;m not going to open up and flame you for your opinion; you&#39;re absolutely entitled to it, even if I find it thin. I&#39;m a metalhead for most of my life, so I know all too well what it&#39;s like to have my music ridiculed, berated, and outright vilified. I also understand that not all music is for everyone, and tastes and styles resonate differently. That said, I, like most other commenters here, find the Lana Del Rey comparison a bit lazy and short-sighted. I myself feel that the over-opulence of Del Rey doesn&#39;t come close to the Ethel Cain pantheon, but I digress so as not to sound like an over-zealous fan boy. I&#39;m far too old for that. However, I also agree that, as a few have said here, Ethel Cain could well be the voice that music has been pleading for in the last few years.  I&#39;m sure most of the fan base defending her here would call me a boomer old fart, and that&#39;s okay, too - I paid my dues to the music scene enough to know what I like, love and dislike, and I can appreciate their passion and defense of their artist and, in some cases, the voice for the more silent sufferers of traumas untold. They have found their champion and they love her for her honest, painful stories, fictionalized or not, hence such vehement defense. In the only sphere I&#39;d even mention Ethel Cain in the same sentence as Taylor Swift, I will state that both fan bases are insanely protective of and devoted to their chosen artist. For me, Ethel Cain provides far more substance than a messy Swiftie broken love affair (or several, as it were), but I digress again - she has her thing, Cain has hers. This adoration is what happens when an artist speaks to and for you in ways you never could or even would. She&#39;s a generational anomaly to be lauded, Ms. Cain, and she will be if she keeps up this pace as Preacher&#39;s Daughter belies. <br><br>As a metalhead yourself (assuming such from the ND shirt you&#39;re wearing), maybe this record just wasn&#39;t your bag, and I can dig that. I&#39;ve seen people more attuned to your channel and history that lay claims you&#39;re purposefully harder on women artists, and I won&#39;t assume that or poke at it as I simply don&#39;t know, but I do feel maybe you&#39;d like the totality of the piece if you gave it another listen or two. If not, all well and good. But I do find it interesting that the nuances you find critical and / or cliché are the same attributes extreme metal was built upon, right down to the minimalist production values to the long, drawn-out &#39;epics&#39; that are supposedly for &#39;atmosphere and effect&#39;. That aside, the lyrics / subject matter isn&#39;t as in your face as the ridiculously cartoonish Cannibal Corpse (a band I also enjoy), but Ethel Cain paints stark portraits that would reduce some of those bands to tears. Again, it&#39;s all preference and taste, but I simply found it odd, some of the criticisms your levied at this album, a personal 9/10 for me.       <br><br>Allow me to take up a bit more space to defend one thing, if not for you, then for some men...SOME. I&#39;ve read some comments here, and, to paraphrase, &quot;men shouldn&#39;t be allowed opinions or to listen to Ethel Cain&quot;. Again, I don&#39;t know your personal history on your channel, and I will be watching more of your videos to see what else you&#39;ve reviewed out of natural curiosity, but I think it&#39;s unfair to classify all of us men as clueless automatons unable to appreciate a woman&#39;s suffering and voice. Sure, the misogyny and outright bigotry runs rampant in the music industry (and in most areas, come to think of it), but I&#39;ll only say that you gave Cain&#39;s record an honest review as you saw it, and assuming you&#39;re not on a one-man crusade to bring down the voices of women everywhere, all men shouldn&#39;t be reduced to such disgusting criteria. I&#39;m a 52-year old straight, white, metalhead that has seen, heard and done it all, and some of us can actually hear Hayden&#39;s messages here and appreciate and applaud them, as well as the base she&#39;s reaching. I&#39;m glad to call myself an Ethel Cain fan, and I&#39;m not least bit ashamed to defend Hayden when the closed-minded assholes in and outside the metal community come blasting their insipidities. I&#39;ve always loved music and artists that touch me and show integrity and honesty; Ethel Cain represents that, and this album is a bit of genius to my ears, but, as I said oh so long ago in this booklet I left here, we&#39;re all different. <br><br>Give her older material a listen, man - she&#39;s got a very distinct voice both sonically and intuitively. Thanks for reviewing her and giving it a small push, despite it not hitting you as it has others.",
+        "cleaned_comment": "okay im going open flame opinion youre absolutely entitled even find thin im metalhead life know well like music ridiculed berated outright vilified also understand music everyone tastes styles resonate differently said like commenters find lana del rey comparison bit lazy shortsighted feel overopulence del rey doesnt come close ethel cain pantheon digress sound like overzealous fan boy im far old however also agree said ethel cain could well voice music pleading last years im sure fan base defending would call boomer old fart thats okay paid dues music scene enough know like love dislike appreciate passion defense artist cases voice silent sufferers traumas untold found champion love honest painful stories fictionalized hence vehement defense sphere id even mention ethel cain sentence taylor swift state fan bases insanely protective devoted chosen artist ethel cain provides far substance messy swiftie broken love affair several digress thing cain adoration happens artist speaks ways never could even would shes generational anomaly lauded ms cain keeps pace preachers daughter belies metalhead assuming nd shirt youre wearing maybe record wasnt bag dig ive seen people attuned channel history lay claims youre purposefully harder women artists wont assume poke simply dont know feel maybe youd like totality piece gave another listen two well good find interesting nuances find critical clich attributes extreme metal built upon right minimalist production values long drawnout epics supposedly atmosphere effect aside lyrics subject matter isnt face ridiculously cartoonish cannibal corpse band also enjoy ethel cain paints stark portraits would reduce bands tears preference taste simply found odd criticisms levied album personal allow take bit space defend one thing mensome ive read comments paraphrase quotmen shouldnt allowed opinions listen ethel cainquot dont know personal history channel watching videos see else youve reviewed natural curiosity think unfair classify us men clueless automatons unable appreciate womans suffering voice sure misogyny outright bigotry runs rampant music industry areas come think ill say gave cains record honest review saw assuming youre oneman crusade bring voices women everywhere men shouldnt reduced disgusting criteria im year old straight white metalhead seen heard done us actually hear haydens messages appreciate applaud well base shes reaching im glad call ethel cain fan im least bit ashamed defend hayden closedminded assholes outside metal community come blasting insipidities ive always loved music artists touch show integrity honesty ethel cain represents album bit genius ears said oh long ago booklet left different give older material listen man shes got distinct voice sonically intuitively thanks reviewing giving small push despite hitting others",
+        "sentiment": {
+            "neg": 0.099,
+            "neu": 0.646,
+            "pos": 0.255,
+            "compound": 0.997
+        },
+        "emotions": {
+            "Happy": 0.22,
+            "Angry": 0.06,
+            "Surprise": 0.13,
+            "Sad": 0.18,
+            "Fear": 0.4
+        }
+    },
+    {
+        "original_comment": "Horrible take",
+        "cleaned_comment": "horrible take",
+        "sentiment": {
+            "neg": 0.778,
+            "neu": 0.222,
+            "pos": 0.0,
+            "compound": -0.5423
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "you could never understand. just go back to your shitty bland male manipulator music",
+        "cleaned_comment": "could never understand go back shitty bland male manipulator music",
+        "sentiment": {
+            "neg": 0.286,
+            "neu": 0.714,
+            "pos": 0.0,
+            "compound": -0.5574
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "missed the entire point",
+        "cleaned_comment": "missed entire point",
+        "sentiment": {
+            "neg": 0.524,
+            "neu": 0.476,
+            "pos": 0.0,
+            "compound": -0.296
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.33,
+            "Sad": 0.33,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "Ok woman hater!",
+        "cleaned_comment": "ok woman hater",
+        "sentiment": {
+            "neg": 0.467,
+            "neu": 0.167,
+            "pos": 0.367,
+            "compound": -0.1531
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "This might be your worst take ever...this album is absolute gold. One of the best artists out rn that&#39;s making actual good thought out art",
+        "cleaned_comment": "might worst take everthis album absolute gold one best artists rn thats making actual good thought art",
+        "sentiment": {
+            "neg": 0.163,
+            "neu": 0.556,
+            "pos": 0.282,
+            "compound": 0.4588
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.67,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "BOOOOOOOOOOOOOOO",
+        "cleaned_comment": "booooooooooooooo",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Imagine being this wrong",
+        "cleaned_comment": "imagine wrong",
+        "sentiment": {
+            "neg": 0.756,
+            "neu": 0.244,
+            "pos": 0.0,
+            "compound": -0.4767
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I&#39;ve been pretty obsessed with this album as of late, because it&#39;s so different from the usual sounding music I listen to (i.e. different from goth, black metal, general heavy metal etc). I actually found it MORE disturbing that this incredibly dark and.... somehow weirdly familiar story (I also come from a small town in the Midwest) was blended with some &quot;pop&quot; music aspects. It made it creepier and more liminal to me and actually got to me harder than just straight forward heavy and/or dark music usually does. I was really impressed with this album and look forward to more of it. I do understand the points you&#39;ve made here and I think those sorts of things have been a generally divisive part of whether people like or don&#39;t like this album. I think it just depends on how it hits you.",
+        "cleaned_comment": "ive pretty obsessed album late different usual sounding music listen ie different goth black metal general heavy metal etc actually found disturbing incredibly dark somehow weirdly familiar story also come small town midwest blended quotpopquot music aspects made creepier liminal actually got harder straight forward heavy andor dark music usually really impressed album look forward understand points youve made think sorts things generally divisive part whether people like dont like album think depends hits",
+        "sentiment": {
+            "neg": 0.086,
+            "neu": 0.759,
+            "pos": 0.155,
+            "compound": 0.721
+        },
+        "emotions": {
+            "Happy": 0.13,
+            "Angry": 0.07,
+            "Surprise": 0.13,
+            "Sad": 0.53,
+            "Fear": 0.13
+        }
+    },
+    {
+        "original_comment": "Honestly what the fuck.",
+        "cleaned_comment": "honestly fuck",
+        "sentiment": {
+            "neg": 0.538,
+            "neu": 0.0,
+            "pos": 0.462,
+            "compound": -0.128
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "this is a lesson not to listen to critics all the time",
+        "cleaned_comment": "lesson listen critics time",
+        "sentiment": {
+            "neg": 0.423,
+            "neu": 0.577,
+            "pos": 0.0,
+            "compound": -0.296
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "If this album was called &quot;Hood Hottest Preacher&#39;s Daughter&quot; you would have given it an 8",
+        "cleaned_comment": "album called quothood hottest preachers daughterquot would given",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Ptolamaea (or however you spell it) and Sun Bleached Flies is NOT 6/10 material dawg 😭",
+        "cleaned_comment": "ptolamaea however spell sun bleached flies material dawg",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Folks, you know that you can still listen to and enjoy the album without Fantano&#39;s blessing right?",
+        "cleaned_comment": "folks know still listen enjoy album without fantanos blessing right",
+        "sentiment": {
+            "neg": 0.19,
+            "neu": 0.579,
+            "pos": 0.231,
+            "compound": 0.1461
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "that is so amazing.. lana is amazing.. but that is so not lana",
+        "cleaned_comment": "amazing lana amazing lana",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.208,
+            "pos": 0.792,
+            "compound": 0.8225
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Never disagreed more with a Fantano take",
+        "cleaned_comment": "never disagreed fantano take",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.605,
+            "pos": 0.395,
+            "compound": 0.2411
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Dawg whatever",
+        "cleaned_comment": "dawg whatever",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "this album takes more listens than the obvious one or two you gave to understand it because every word, every note, every breath, every break and stripping down of the production, it all serves a purpose",
+        "cleaned_comment": "album takes listens obvious one two gave understand every word every note every breath every break stripping production serves purpose",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.2,
+            "Surprise": 0.6,
+            "Sad": 0.0,
+            "Fear": 0.2
+        }
+    },
+    {
+        "original_comment": "this score is transphobic",
+        "cleaned_comment": "score transphobic",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 1.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Sir, you wasted my time",
+        "cleaned_comment": "sir wasted time",
+        "sentiment": {
+            "neg": 0.615,
+            "neu": 0.385,
+            "pos": 0.0,
+            "compound": -0.4939
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "an album like this wasnt intended to be a &quot;horror&quot; like sound because the songs where you say that the album is lacking because of the reverb are completely intended to be that way, the songs are made to give the album life, those tracks are simply letting the album breathe between tracks.",
+        "cleaned_comment": "album like wasnt intended quothorrorquot like sound songs say album lacking reverb completely intended way songs made give album life tracks simply letting album breathe tracks",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.828,
+            "pos": 0.172,
+            "compound": 0.6124
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.4,
+            "Fear": 0.6
+        }
+    },
+    {
+        "original_comment": "im sorry but did you listen to the same version of ‘sun bleached flies’ i did?",
+        "cleaned_comment": "im sorry listen version sun bleached flies",
+        "sentiment": {
+            "neg": 0.178,
+            "neu": 0.822,
+            "pos": 0.0,
+            "compound": -0.0772
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Finally unsubscribing because i think you just hate women",
+        "cleaned_comment": "finally unsubscribing think hate women",
+        "sentiment": {
+            "neg": 0.481,
+            "neu": 0.519,
+            "pos": 0.0,
+            "compound": -0.5719
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "I agree 🫢",
+        "cleaned_comment": "agree",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 1.0,
+            "compound": 0.3612
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "this is probably <b>the</b> single worst take you’ve ever expressed publicly boy what",
+        "cleaned_comment": "probably single worst take youve ever expressed publicly boy",
+        "sentiment": {
+            "neg": 0.339,
+            "neu": 0.661,
+            "pos": 0.0,
+            "compound": -0.6249
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.33,
+            "Sad": 0.33,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "Are you deaf?",
+        "cleaned_comment": "deaf",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "I don&#39;t understand the comparison to Lana. Why does everyone say that? I genuinely want to know.",
+        "cleaned_comment": "dont understand comparison lana everyone say genuinely want know",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.86,
+            "pos": 0.14,
+            "compound": 0.0772
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "genuinely don’t know how a music critic can listen to this album and make this boring ass 5 min review like it’s insane",
+        "cleaned_comment": "genuinely dont know music critic listen album make boring ass min review like insane",
+        "sentiment": {
+            "neg": 0.39,
+            "neu": 0.413,
+            "pos": 0.198,
+            "compound": -0.6353
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.25,
+            "Sad": 0.75,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Sun bleached flies was my #1 song on Spotify in 2023, an entire year+ after it came out. To say the piano and instrumentals are stiff - when the whole point of the song is her reviewing her journey through the album, a massive undertaking - is to miss the intention of the track entirely. I’m so tired of men washing women’s experiences into neat categories and moving on as if they’ve spoken something profound. Let’s let Lana and other indie artists stand on their own please.",
+        "cleaned_comment": "sun bleached flies song spotify entire year came say piano instrumentals stiff whole point song reviewing journey album massive undertaking miss intention track entirely im tired men washing womens experiences neat categories moving theyve spoken something profound lets let lana indie artists stand please",
+        "sentiment": {
+            "neg": 0.095,
+            "neu": 0.799,
+            "pos": 0.106,
+            "compound": 0.1335
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.14,
+            "Sad": 0.29,
+            "Fear": 0.57
+        }
+    },
+    {
+        "original_comment": "not him saying theres cliches when the naive cliche lyrics are the point.........",
+        "cleaned_comment": "saying theres cliches naive cliche lyrics point",
+        "sentiment": {
+            "neg": 0.259,
+            "neu": 0.741,
+            "pos": 0.0,
+            "compound": -0.2732
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "HE CALLED HOUSE IN NEBRASKA TEDIOUS - TRIAL THIS MAN AT THE HAGUE NOW!!!",
+        "cleaned_comment": "called house nebraska tedious trial man hague",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "literally a criminal review like how do you rate that low?",
+        "cleaned_comment": "literally criminal review like rate low",
+        "sentiment": {
+            "neg": 0.5,
+            "neu": 0.273,
+            "pos": 0.227,
+            "compound": -0.4588
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.67,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "Shut Up",
+        "cleaned_comment": "shut",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 1.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "You should Paint the walls with your brains &lt;3",
+        "cleaned_comment": "paint walls brains lt",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 1.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Can always count on you to shit all over anything lmao.",
+        "cleaned_comment": "always count shit anything lmao",
+        "sentiment": {
+            "neg": 0.343,
+            "neu": 0.286,
+            "pos": 0.371,
+            "compound": 0.0772
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "Why do I still click on these videos? 😂 Terrible critique.",
+        "cleaned_comment": "still click videos terrible critique",
+        "sentiment": {
+            "neg": 0.437,
+            "neu": 0.563,
+            "pos": 0.0,
+            "compound": -0.4767
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "this is definitely my fav album of all time",
+        "cleaned_comment": "definitely fav album time",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.26,
+            "pos": 0.74,
+            "compound": 0.6908
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "oh wow - i love house in nebraska and it was a fave on my first listen. guess it&#39;s just not for u",
+        "cleaned_comment": "oh wow love house nebraska fave first listen guess u",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.355,
+            "pos": 0.645,
+            "compound": 0.8979
+        },
+        "emotions": {
+            "Happy": 0.33,
+            "Angry": 0.0,
+            "Surprise": 0.67,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "no offense bc I dont listen to music like you do but wtf are you talking about….",
+        "cleaned_comment": "offense bc dont listen music like wtf talking",
+        "sentiment": {
+            "neg": 0.613,
+            "neu": 0.387,
+            "pos": 0.0,
+            "compound": -0.7851
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Man, you are lost.",
+        "cleaned_comment": "man lost",
+        "sentiment": {
+            "neg": 0.697,
+            "neu": 0.303,
+            "pos": 0.0,
+            "compound": -0.3182
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "This one is so in our face, its obvious. It&#39;s a deal made with a high level demonic entity, possibly Satan himself.  It&#39;s all there.. .mocking God, religion, societal norms, destruction of any remaining good that can be claimed about America and the American family. Pretty sure Hayden basically says she is Ethel. This is evil art at its finest.  If you are true to yourself, you will be forced to admit that even duning  the incredibly beautiful moments on the album, you are still left with an intense uneasiness. That&#39;s because the source of this type of creativity it so unpure. To reach a certain level of fame and/or wealth on this realm, there is a similar deal that must be made. This album is basically revealing something you start to see everywhere when you start to look into the occult. &quot;Revalation of the method&quot;. They have tell us what they are doing/planning to do us. And occasionally, like with tjis album, tell us exactly how they do it.",
+        "cleaned_comment": "one face obvious deal made high level demonic entity possibly satan mocking god religion societal norms destruction remaining good claimed america american family pretty sure hayden basically says ethel evil art finest true forced admit even duning incredibly beautiful moments album still left intense uneasiness thats source type creativity unpure reach certain level fame andor wealth realm similar deal must made album basically revealing something start see everywhere start look occult quotrevalation methodquot tell us doingplanning us occasionally like tjis album tell us exactly",
+        "sentiment": {
+            "neg": 0.141,
+            "neu": 0.56,
+            "pos": 0.299,
+            "compound": 0.9231
+        },
+        "emotions": {
+            "Happy": 0.11,
+            "Angry": 0.05,
+            "Surprise": 0.21,
+            "Sad": 0.16,
+            "Fear": 0.47
+        }
+    },
+    {
+        "original_comment": "Melon- you need to be tried at The Hague for this review because what the FUCK",
+        "cleaned_comment": "melon need tried hague review fuck",
+        "sentiment": {
+            "neg": 0.412,
+            "neu": 0.588,
+            "pos": 0.0,
+            "compound": -0.5423
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "You always have the same thing to say about indie female artists. Maybe you should really open your mind to music. Once again you’re disappointing",
+        "cleaned_comment": "always thing say indie female artists maybe really open mind music youre disappointing",
+        "sentiment": {
+            "neg": 0.211,
+            "neu": 0.789,
+            "pos": 0.0,
+            "compound": -0.4939
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.33,
+            "Sad": 0.33,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "Any record would be okay with everyone. Any Fili Album and its fine, Any Album......",
+        "cleaned_comment": "record would okay everyone fili album fine album",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.619,
+            "pos": 0.381,
+            "compound": 0.4019
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "reality love this album",
+        "cleaned_comment": "reality love album",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.323,
+            "pos": 0.677,
+            "compound": 0.6369
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Hayden does not care about „the interludes being too long“ it’s a story in one of them she does in the tower she ascends two the afterlife it’s not supposed to be anything but a cinematic masterpiece",
+        "cleaned_comment": "hayden care interludes long story one tower ascends two afterlife supposed anything cinematic masterpiece",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.622,
+            "pos": 0.378,
+            "compound": 0.8074
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.33,
+            "Sad": 0.0,
+            "Fear": 0.67
+        }
+    },
+    {
+        "original_comment": "im literally under ur bed",
+        "cleaned_comment": "im literally ur bed",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "I’m listening to this album in 2023 and came back to disagree with Fantano. Everything he dislikes are stylistic choices I loved. A strong 9 for me.",
+        "cleaned_comment": "im listening album came back disagree fantano everything dislikes stylistic choices loved strong",
+        "sentiment": {
+            "neg": 0.247,
+            "neu": 0.419,
+            "pos": 0.335,
+            "compound": 0.4404
+        },
+        "emotions": {
+            "Happy": 0.67,
+            "Angry": 0.33,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "this album is a 10/10 truly a masterpiece the songwriting is actually so well crafted it’s insane as well as the production it just blew me away also why compare her to Lana? I see you do that a lot in places where it’s not necessarily true",
+        "cleaned_comment": "album truly masterpiece songwriting actually well crafted insane well production blew away also compare lana see lot places necessarily true",
+        "sentiment": {
+            "neg": 0.088,
+            "neu": 0.456,
+            "pos": 0.456,
+            "compound": 0.8834
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.17,
+            "Surprise": 0.5,
+            "Sad": 0.17,
+            "Fear": 0.17
+        }
+    },
+    {
+        "original_comment": "Dieses Album ist besser als alles was du jemals machen wirst du glatzköpfiger Freak",
+        "cleaned_comment": "dieses album ist besser als alles du jemals machen wirst du glatzkpfiger freak",
+        "sentiment": {
+            "neg": 0.195,
+            "neu": 0.805,
+            "pos": 0.0,
+            "compound": -0.4404
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "it’s okay Melon man, everybody has to be wrong sometimes. the day you posted this review was your turn 😌",
+        "cleaned_comment": "okay melon man everybody wrong sometimes day posted review turn",
+        "sentiment": {
+            "neg": 0.238,
+            "neu": 0.615,
+            "pos": 0.146,
+            "compound": -0.296
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "he said &quot;i wanted something darker&quot; when a sentence before he talks about how the last song depicts ethel being consumed💀",
+        "cleaned_comment": "said quoti wanted something darkerquot sentence talks last song depicts ethel consumed",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.894,
+            "pos": 0.106,
+            "compound": 0.0772
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "the way you talk about this album makes it sound like you’ve never lived life outside of a 4 walled white room making as many music review videos as possible to find relevance",
+        "cleaned_comment": "way talk album makes sound like youve never lived life outside walled white room making many music review videos possible find relevance",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.894,
+            "pos": 0.106,
+            "compound": 0.3612
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.17,
+            "Surprise": 0.0,
+            "Sad": 0.33,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "if you listen to the a capella version of this album, which is available here on youtube, you&#39;d actually think that 6/10 is a nonsensical fantano rating. this album is freaking incredible. full of layers, just in the production value alone. i think it&#39;s ageing really well",
+        "cleaned_comment": "listen capella version album available youtube youd actually think nonsensical fantano rating album freaking incredible full layers production value alone think ageing really well",
+        "sentiment": {
+            "neg": 0.162,
+            "neu": 0.676,
+            "pos": 0.162,
+            "compound": -0.0018
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.5,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I feel like the fact that she&#39;s trans ads lots of layers",
+        "cleaned_comment": "feel like fact shes trans ads lots layers",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.737,
+            "pos": 0.263,
+            "compound": 0.3612
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "NOOOONONNONONONOOOONONONONOONONONOOO<br>This is my mbdtf",
+        "cleaned_comment": "noooononnonononoooononononoonononooothis mbdtf",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "That happens when you haven’t had hardships in life. Every time he reviews an album like this he does the same.",
+        "cleaned_comment": "happens havent hardships life every time reviews album like",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.762,
+            "pos": 0.238,
+            "compound": 0.3612
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "I was literally bawling my eyes out all night listening to &quot;American Teenager&quot; over and over.  I just discovered Ethel, and her lyrics + music resonate so incredibly strongly with me.  This album is astounding.   I really hate to say &quot;you just don&#39;t get it&quot;, but, yeah, you really don&#39;t.  Which is fine, but you&#39;re reviewing it, so.",
+        "cleaned_comment": "literally bawling eyes night listening quotamerican teenagerquot discovered ethel lyrics music resonate incredibly strongly album astounding really hate say quotyou dont get itquot yeah really dont fine youre reviewing",
+        "sentiment": {
+            "neg": 0.208,
+            "neu": 0.645,
+            "pos": 0.147,
+            "compound": -0.317
+        },
+        "emotions": {
+            "Happy": 0.2,
+            "Angry": 0.0,
+            "Surprise": 0.4,
+            "Sad": 0.2,
+            "Fear": 0.2
+        }
+    },
+    {
+        "original_comment": "Honestly hard agree<br>There were fleeting moments of brilliance in the album<br>I felt like I wanted to love it, but it’s just too disjointed and left me wanting more",
+        "cleaned_comment": "honestly hard agreethere fleeting moments brilliance albumi felt like wanted love disjointed left wanting",
+        "sentiment": {
+            "neg": 0.146,
+            "neu": 0.316,
+            "pos": 0.538,
+            "compound": 0.8979
+        },
+        "emotions": {
+            "Happy": 0.25,
+            "Angry": 0.25,
+            "Surprise": 0.0,
+            "Sad": 0.25,
+            "Fear": 0.25
+        }
+    },
+    {
+        "original_comment": "bullshit Ethel Cain is a goddess ❤",
+        "cleaned_comment": "bullshit ethel cain goddess",
+        "sentiment": {
+            "neg": 0.559,
+            "neu": 0.441,
+            "pos": 0.0,
+            "compound": -0.5859
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "I love the dark story unfolding as i listen to the album. I thought the instrumentals are kinda bland and one note, (i love varied soundscape in an album) but still liked the album. I give it 8/10, I&#39;m looking forward to Ethel&#39;s next album i think she can do much better.",
+        "cleaned_comment": "love dark story unfolding listen album thought instrumentals kinda bland one note love varied soundscape album still liked album give im looking forward ethels next album think much better",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.639,
+            "pos": 0.361,
+            "compound": 0.9337
+        },
+        "emotions": {
+            "Happy": 0.4,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.4,
+            "Fear": 0.2
+        }
+    },
+    {
+        "original_comment": "Were you really a Christian if you were  a Baptist?",
+        "cleaned_comment": "really christian baptist",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Oh you haven&#39;t been this wrong in a minute, Melon.",
+        "cleaned_comment": "oh havent wrong minute melon",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.61,
+            "pos": 0.39,
+            "compound": 0.3724
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Ethel Cain is what Lana del Rey ever wanted to be",
+        "cleaned_comment": "ethel cain lana del rey ever wanted",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "For me this album grew on me and I would highly recommend it. Though Inbred and earlier singles for me had a quicker impact, the more I listen to Preacher’s Daughter the more I’m drawn to it, even as it (and much of her work) emotionally wrecks me as a parent.",
+        "cleaned_comment": "album grew would highly recommend though inbred earlier singles quicker impact listen preachers daughter im drawn even much work emotionally wrecks parent",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.883,
+            "pos": 0.117,
+            "compound": 0.4201
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.2,
+            "Surprise": 0.0,
+            "Sad": 0.2,
+            "Fear": 0.6
+        }
+    },
+    {
+        "original_comment": "I don&#39;t like every song on the album, but it&#39;s pretty interesting overall and Ptolemaea is absolutely incredible.",
+        "cleaned_comment": "dont like every song album pretty interesting overall ptolemaea absolutely incredible",
+        "sentiment": {
+            "neg": 0.132,
+            "neu": 0.5,
+            "pos": 0.369,
+            "compound": 0.5845
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.25,
+            "Sad": 0.0,
+            "Fear": 0.25
+        }
+    },
+    {
+        "original_comment": "the producing could use some seasoning? BOYY that is literally the best seasoned album ever dafuq. the producing is so deep and full of layers, be fr",
+        "cleaned_comment": "producing could use seasoning boyy literally best seasoned album ever dafuq producing deep full layers fr",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.781,
+            "pos": 0.219,
+            "compound": 0.6369
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "man shut up 💀",
+        "cleaned_comment": "man shut",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 1.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "no way he gave it a 6/10. what the fuck",
+        "cleaned_comment": "way gave fuck",
+        "sentiment": {
+            "neg": 0.636,
+            "neu": 0.364,
+            "pos": 0.0,
+            "compound": -0.5423
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "this might be his worst take ever bruh",
+        "cleaned_comment": "might worst take ever bruh",
+        "sentiment": {
+            "neg": 0.506,
+            "neu": 0.494,
+            "pos": 0.0,
+            "compound": -0.6249
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "As usual came to the comments for the true review",
+        "cleaned_comment": "usual came comments true review",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.588,
+            "pos": 0.412,
+            "compound": 0.4215
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "We don&#39;t need an album front to back with Ptolemaea-esque tracks because that track has a moment that stands completely on its own. The blood curdling scream plus the overall arrangement being the most horrifying on the album is what makes it special. The whole album doesn&#39;t need to be that dark. If anything, I would say a full understanding of this album&#39;s plot is what really gave me chills, not necessarily the production&#39;s darker moments. The lyrics really shine through.",
+        "cleaned_comment": "dont need album front back ptolemaeaesque tracks track moment stands completely blood curdling scream plus overall arrangement horrifying album makes special whole album doesnt need dark anything would say full understanding albums plot really gave chills necessarily productions darker moments lyrics really shine",
+        "sentiment": {
+            "neg": 0.135,
+            "neu": 0.81,
+            "pos": 0.055,
+            "compound": -0.6077
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.11,
+            "Sad": 0.33,
+            "Fear": 0.56
+        }
+    }
+]

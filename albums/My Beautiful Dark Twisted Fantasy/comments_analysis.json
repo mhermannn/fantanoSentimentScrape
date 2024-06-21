@@ -1,0 +1,1702 @@
+[
+    {
+        "original_comment": "nice",
+        "cleaned_comment": "nice",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 1.0,
+            "compound": 0.4215
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "He didn&#39;t like it because it wasn&#39;t as twisted as his melon fantasy",
+        "cleaned_comment": "didnt like wasnt twisted melon fantasy",
+        "sentiment": {
+            "neg": 0.297,
+            "neu": 0.703,
+            "pos": 0.0,
+            "compound": -0.2755
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "I swear he called this album overrated in this review. Am I tweaking",
+        "cleaned_comment": "swear called album overrated review tweaking",
+        "sentiment": {
+            "neg": 0.194,
+            "neu": 0.806,
+            "pos": 0.0,
+            "compound": -0.0516
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.5,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "i saw &quot;13 years ago&quot; and thought wtf mbtf did not release in 2007 then i clicked on more and realized it was in 2010 (TFMMFO)",
+        "cleaned_comment": "saw quot years agoquot thought wtf mbtf release clicked realized tfmmfo",
+        "sentiment": {
+            "neg": 0.275,
+            "neu": 0.725,
+            "pos": 0.0,
+            "compound": -0.5859
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Disagree about the hooks lmao",
+        "cleaned_comment": "disagree hooks lmao",
+        "sentiment": {
+            "neg": 0.347,
+            "neu": 0.133,
+            "pos": 0.52,
+            "compound": 0.3182
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Imma give this dislike button a 6/10",
+        "cleaned_comment": "imma give dislike button",
+        "sentiment": {
+            "neg": 0.464,
+            "neu": 0.536,
+            "pos": 0.0,
+            "compound": -0.3818
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "“I did not care for the godfather”",
+        "cleaned_comment": "care godfather",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.238,
+            "pos": 0.762,
+            "compound": 0.4939
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "You gave sexyy reds album more than mbdtf wow",
+        "cleaned_comment": "gave sexyy reds album mbdtf wow",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.568,
+            "pos": 0.432,
+            "compound": 0.5859
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.33,
+            "Surprise": 0.33,
+            "Sad": 0.0,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "Yeah ive just listened to this Album and now I understand how terrible this review is lmao",
+        "cleaned_comment": "yeah ive listened album understand terrible review lmao",
+        "sentiment": {
+            "neg": 0.218,
+            "neu": 0.352,
+            "pos": 0.43,
+            "compound": 0.4588
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "i bet if kanye had 200 monthly listeners, this would be a masterpiece, dumbass melon",
+        "cleaned_comment": "bet kanye monthly listeners would masterpiece dumbass melon",
+        "sentiment": {
+            "neg": 0.263,
+            "neu": 0.438,
+            "pos": 0.299,
+            "compound": 0.128
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "Maybe Thanos was right...",
+        "cleaned_comment": "maybe thanos right",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "As of May 2024, this review has about 68k dislikes",
+        "cleaned_comment": "may review k dislikes",
+        "sentiment": {
+            "neg": 0.574,
+            "neu": 0.426,
+            "pos": 0.0,
+            "compound": -0.4019
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "atleast kanye has a wife",
+        "cleaned_comment": "atleast kanye wife",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "i respect your opinion.",
+        "cleaned_comment": "respect opinion",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.244,
+            "pos": 0.756,
+            "compound": 0.4767
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Too high a score",
+        "cleaned_comment": "high score",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.5,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "How come it says Nov 16. When the album came out 22nd Nov",
+        "cleaned_comment": "come says nov album came nd nov",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Let me get this straight: The music is fantastic in every way but you weren&#39;t vibing with the message so the album is a 6? Absolute nonsense 😂",
+        "cleaned_comment": "let get straight music fantastic every way werent vibing message album absolute nonsense",
+        "sentiment": {
+            "neg": 0.148,
+            "neu": 0.549,
+            "pos": 0.302,
+            "compound": 0.4215
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "I disagree Anthony, this is a 10/10",
+        "cleaned_comment": "disagree anthony",
+        "sentiment": {
+            "neg": 0.722,
+            "neu": 0.278,
+            "pos": 0.0,
+            "compound": -0.3818
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "I agree with him",
+        "cleaned_comment": "agree",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 1.0,
+            "compound": 0.3612
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "dude ur delusional pls dont speak again do me a favour",
+        "cleaned_comment": "dude ur delusional pls dont speak favour",
+        "sentiment": {
+            "neg": 0.276,
+            "neu": 0.574,
+            "pos": 0.149,
+            "compound": -0.2746
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "no one cares lil bro",
+        "cleaned_comment": "one cares lil bro",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.5,
+            "pos": 0.5,
+            "compound": 0.4588
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "S T R O N G L Y disagree, have a nice day!",
+        "cleaned_comment": "r n g l disagree nice day",
+        "sentiment": {
+            "neg": 0.406,
+            "neu": 0.156,
+            "pos": 0.437,
+            "compound": 0.0516
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "iconic internet moment. ive never seen people get this universally angry at a guy saying a thing was just pretty good instead of amazing. this dislike bar will be studied by historians centuries into the future.",
+        "cleaned_comment": "iconic internet moment ive never seen people get universally angry guy saying thing pretty good instead amazing dislike bar studied historians centuries future",
+        "sentiment": {
+            "neg": 0.175,
+            "neu": 0.533,
+            "pos": 0.293,
+            "compound": 0.6124
+        },
+        "emotions": {
+            "Happy": 0.2,
+            "Angry": 0.2,
+            "Surprise": 0.2,
+            "Sad": 0.0,
+            "Fear": 0.4
+        }
+    },
+    {
+        "original_comment": "This was uploaded on my 6th birthday",
+        "cleaned_comment": "uploaded th birthday",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Reviewing vultures1.... Atleast anthony&#39;s consistent.",
+        "cleaned_comment": "reviewing vultures atleast anthonys consistent",
+        "sentiment": {
+            "neg": 0.365,
+            "neu": 0.635,
+            "pos": 0.0,
+            "compound": -0.3182
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "In 2077<br><br>Fantano review is in the history books",
+        "cleaned_comment": "fantano review history books",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "You are bald and divorced knd ragards carlie lasso. <br><br>P.S. You are not nice and should never reproduce.<br><br>P.P.S. I am 10 yers old and alredy no mor than u<br><br>P.P.P.S. My dad drunk al the alcehole in the hose and now my mummy is mad! 😠 <br><br>P.P.P.P.S. I wood beet u in a figt!",
+        "cleaned_comment": "bald divorced knd ragards carlie lasso ps nice never reproducepps yers old alredy mor uppps dad drunk al alcehole hose mummy mad pppps wood beet u figt",
+        "sentiment": {
+            "neg": 0.178,
+            "neu": 0.732,
+            "pos": 0.089,
+            "compound": -0.4215
+        },
+        "emotions": {
+            "Happy": 0.33,
+            "Angry": 0.33,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "I&#39;m not a huge Kanye fan but this album aged like fine wine. Every song feels so different and the production is so grandeur. Not a 10 but it&#39;s close",
+        "cleaned_comment": "im huge kanye fan album aged like fine wine every song feels different production grandeur close",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.472,
+            "pos": 0.528,
+            "compound": 0.8834
+        },
+        "emotions": {
+            "Happy": 0.67,
+            "Angry": 0.33,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "This is scarily similar to the vultures review, fantano been a ye hater since day 1, I lowk respect it",
+        "cleaned_comment": "scarily similar vultures review fantano ye hater since day lowk respect",
+        "sentiment": {
+            "neg": 0.315,
+            "neu": 0.494,
+            "pos": 0.191,
+            "compound": -0.25
+        },
+        "emotions": {
+            "Happy": 0.67,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.33
+        }
+    },
+    {
+        "original_comment": "the sound on this is ass",
+        "cleaned_comment": "sound ass",
+        "sentiment": {
+            "neg": 0.778,
+            "neu": 0.222,
+            "pos": 0.0,
+            "compound": -0.5423
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "<a href=\"https://www.youtube.com/watch?v=Jo4S2qlQGs0&amp;t=55\">0:55</a> “This is music, pay attention to the music.”<br>Vultures Rating:",
+        "cleaned_comment": "music pay attention musicvultures rating",
+        "sentiment": {
+            "neg": 0.259,
+            "neu": 0.741,
+            "pos": 0.0,
+            "compound": -0.1027
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "I agree this does deserve a 9 (I live in Australia btw)",
+        "cleaned_comment": "agree deserve live australia btw",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.615,
+            "pos": 0.385,
+            "compound": 0.3612
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "yea i hate u bald man",
+        "cleaned_comment": "yea hate u bald man",
+        "sentiment": {
+            "neg": 0.552,
+            "neu": 0.448,
+            "pos": 0.0,
+            "compound": -0.5719
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "here are the like/dislike stats<br><br>21k likes<br>68k dislikes",
+        "cleaned_comment": "likedislike statsk likesk dislikes",
+        "sentiment": {
+            "neg": 0.474,
+            "neu": 0.526,
+            "pos": 0.0,
+            "compound": -0.4019
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "You cant review the album without listening to the album",
+        "cleaned_comment": "cant review album without listening album",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "hello mellon man",
+        "cleaned_comment": "hello mellon man",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "&quot;pay attention to the music leave your hate at the door&quot;",
+        "cleaned_comment": "quotpay attention music leave hate doorquot",
+        "sentiment": {
+            "neg": 0.551,
+            "neu": 0.449,
+            "pos": 0.0,
+            "compound": -0.5994
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "trash",
+        "cleaned_comment": "trash",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 1.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "💀",
+        "cleaned_comment": "",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Yet sexy red album gets a higher review that’s crazy man get ur ears checked",
+        "cleaned_comment": "yet sexy red album gets higher review thats crazy man get ur ears checked",
+        "sentiment": {
+            "neg": 0.135,
+            "neu": 0.674,
+            "pos": 0.191,
+            "compound": 0.25
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.5,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "this video is probably the reason they stopped showing the amount of dislikes",
+        "cleaned_comment": "video probably reason stopped showing amount dislikes",
+        "sentiment": {
+            "neg": 0.479,
+            "neu": 0.521,
+            "pos": 0.0,
+            "compound": -0.5574
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "Why does this look like it was filmed in 1993",
+        "cleaned_comment": "look like filmed",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.444,
+            "pos": 0.556,
+            "compound": 0.3612
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "it somehow got ratioed even harder",
+        "cleaned_comment": "somehow got ratioed even harder",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Kanye meat riders came to battle in these comments lmao",
+        "cleaned_comment": "kanye meat riders came battle comments lmao",
+        "sentiment": {
+            "neg": 0.226,
+            "neu": 0.435,
+            "pos": 0.339,
+            "compound": 0.3182
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Does Fantano even know how to mix a youtube video?",
+        "cleaned_comment": "fantano even know mix youtube video",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Interesting juxtaposition with the new review. Or non-review.",
+        "cleaned_comment": "interesting juxtaposition new review nonreview",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.597,
+            "pos": 0.403,
+            "compound": 0.4019
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "His main gripe back then was that you’d need to have interest in Kanye as a person to truly enjoy this album. <br><br>Today, his main gripe is that he knows too much about Kanye as a person to enjoy his new album. <br><br>Bookends.",
+        "cleaned_comment": "main gripe back youd need interest kanye person truly enjoy album today main gripe knows much kanye person enjoy new album bookends",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.594,
+            "pos": 0.406,
+            "compound": 0.9062
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Delete your account",
+        "cleaned_comment": "delete account",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "I miss the dislike button",
+        "cleaned_comment": "miss dislike button",
+        "sentiment": {
+            "neg": 0.808,
+            "neu": 0.192,
+            "pos": 0.0,
+            "compound": -0.4939
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "this fkin sucks",
+        "cleaned_comment": "fkin sucks",
+        "sentiment": {
+            "neg": 0.714,
+            "neu": 0.286,
+            "pos": 0.0,
+            "compound": -0.3612
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "“I’m feeling a light to decent 6 on this record”<br>Famous last words",
+        "cleaned_comment": "im feeling light decent recordfamous last words",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.8,
+            "pos": 0.2,
+            "compound": 0.128
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.5,
+            "Surprise": 0.5,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I think I&#39;m the only guy who agrees with this rating",
+        "cleaned_comment": "think im guy agrees rating",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.69,
+            "pos": 0.31,
+            "compound": 0.2023
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Lost all credibility I think he’s better at reviewing rock or metal but he’s pretty bad at hip hop",
+        "cleaned_comment": "lost credibility think hes better reviewing rock metal hes pretty bad hip hop",
+        "sentiment": {
+            "neg": 0.278,
+            "neu": 0.431,
+            "pos": 0.292,
+            "compound": 0.0772
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "21K LIKES 67K DISLIKES AS OF RIGHT NOW",
+        "cleaned_comment": "k likes k dislikes right",
+        "sentiment": {
+            "neg": 0.415,
+            "neu": 0.154,
+            "pos": 0.431,
+            "compound": 0.0258
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "“Kanye’s favorite thing to rap about is himself” literally every rapper ever in history",
+        "cleaned_comment": "kanyes favorite thing rap literally every rapper ever history",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.727,
+            "pos": 0.273,
+            "compound": 0.4588
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "Cant believe he gave this album a 6/5,thank you melon man",
+        "cleaned_comment": "cant believe gave album thank melon man",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.706,
+            "pos": 0.294,
+            "compound": 0.3612
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "Kanye on MBDTF: “I was never much of a romantic, couldn’t take the intimacy, but I know I did damage, ‘cause the look in your eyes are killing me, I guess you knew of that advantage, ‘cause you could blame me for everything, and I don&#39;t know how I&#39;ma manage, if one day, you just up and leave.” <br>Melon: 6/10 (twice)<br>Kanye of KSG: “GRRAT GRRAT, GRRAT GAT GAT GAT, GRRAT GAT GAT GAT, GRRAT GAT GAT.”<br>Melon: 10/10",
+        "cleaned_comment": "kanye mbdtf never much romantic couldnt take intimacy know damage cause look eyes killing guess knew advantage cause could blame everything dont know ima manage one day leave melon twicekanye ksg grrat grrat grrat gat gat gat grrat gat gat gat grrat gat gatmelon",
+        "sentiment": {
+            "neg": 0.252,
+            "neu": 0.711,
+            "pos": 0.037,
+            "compound": -0.8875
+        },
+        "emotions": {
+            "Happy": 0.57,
+            "Angry": 0.0,
+            "Surprise": 0.29,
+            "Sad": 0.0,
+            "Fear": 0.14
+        }
+    },
+    {
+        "original_comment": "This album is amazing perfect production perfect lyricsm perfect storytelling perfect sequencing, 6/10",
+        "cleaned_comment": "album amazing perfect production perfect lyricsm perfect storytelling perfect sequencing",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.212,
+            "pos": 0.788,
+            "compound": 0.9618
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.2,
+            "Sad": 0.8,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "He gave ksi’s album a 7 and this a 6🤦🏾‍♂️ ridiculous",
+        "cleaned_comment": "gave ksis album ridiculous",
+        "sentiment": {
+            "neg": 0.455,
+            "neu": 0.545,
+            "pos": 0.0,
+            "compound": -0.3612
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "lol mbdtf is so incredibly overrated. 808s &amp; heartbreak, yeezus, and graduation are literally better.",
+        "cleaned_comment": "lol mbdtf incredibly overrated amp heartbreak yeezus graduation literally better",
+        "sentiment": {
+            "neg": 0.238,
+            "neu": 0.42,
+            "pos": 0.342,
+            "compound": 0.1868
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "Guys chill! He gave it a 6 out of 6…right?",
+        "cleaned_comment": "guys chill gave right",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "Yeah, that&#39;s just, like, your opinion, man.",
+        "cleaned_comment": "yeah thats like opinion man",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.39,
+            "pos": 0.61,
+            "compound": 0.5719
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "In this video you admit that you rate albums lower for artists you don’t like personally",
+        "cleaned_comment": "video admit rate albums lower artists dont like personally",
+        "sentiment": {
+            "neg": 0.356,
+            "neu": 0.495,
+            "pos": 0.149,
+            "compound": -0.3632
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "you will never reach the gates of heaven",
+        "cleaned_comment": "never reach gates heaven",
+        "sentiment": {
+            "neg": 0.654,
+            "neu": 0.346,
+            "pos": 0.0,
+            "compound": -0.4168
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "6 XD? wtf is wrong with this guy",
+        "cleaned_comment": "xd wtf wrong guy",
+        "sentiment": {
+            "neg": 0.59,
+            "neu": 0.085,
+            "pos": 0.325,
+            "compound": -0.4767
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Nah he just did this for the exposure",
+        "cleaned_comment": "nah exposure",
+        "sentiment": {
+            "neg": 0.583,
+            "neu": 0.417,
+            "pos": 0.0,
+            "compound": -0.1027
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "<b>THAT 6 BETTER BE OUTTA 6 MA NIGGA</b>",
+        "cleaned_comment": "better outta nigga",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.408,
+            "pos": 0.592,
+            "compound": 0.4404
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "I dont see anything wrong with not liking Mbdtf its not even that great 💀",
+        "cleaned_comment": "dont see anything wrong liking mbdtf even great",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.348,
+            "pos": 0.652,
+            "compound": 0.8539
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "ffs",
+        "cleaned_comment": "ffs",
+        "sentiment": {
+            "neg": 1.0,
+            "neu": 0.0,
+            "pos": 0.0,
+            "compound": -0.5859
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Worst review ever",
+        "cleaned_comment": "worst review ever",
+        "sentiment": {
+            "neg": 0.672,
+            "neu": 0.328,
+            "pos": 0.0,
+            "compound": -0.6249
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "2010 was crazy",
+        "cleaned_comment": "crazy",
+        "sentiment": {
+            "neg": 1.0,
+            "neu": 0.0,
+            "pos": 0.0,
+            "compound": -0.34
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "It’s crazy because he’s absolutely right.",
+        "cleaned_comment": "crazy hes absolutely right",
+        "sentiment": {
+            "neg": 0.444,
+            "neu": 0.556,
+            "pos": 0.0,
+            "compound": -0.34
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "Bro played himself",
+        "cleaned_comment": "bro played",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.294,
+            "pos": 0.706,
+            "compound": 0.34
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "w take",
+        "cleaned_comment": "w take",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Hopefully by 6 he means 10",
+        "cleaned_comment": "hopefully means",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.27,
+            "pos": 0.73,
+            "compound": 0.4019
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "This was the day needledrop lost his credibility",
+        "cleaned_comment": "day needledrop lost credibility",
+        "sentiment": {
+            "neg": 0.434,
+            "neu": 0.566,
+            "pos": 0.0,
+            "compound": -0.3182
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "The fact that this review didn’t end this clown’s credibility immediately is insane",
+        "cleaned_comment": "fact review didnt end clowns credibility immediately insane",
+        "sentiment": {
+            "neg": 0.278,
+            "neu": 0.722,
+            "pos": 0.0,
+            "compound": -0.4019
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Finally decided to watch this review, and it’s good to know that his take on this album is incredibly wrong",
+        "cleaned_comment": "finally decided watch review good know take album incredibly wrong",
+        "sentiment": {
+            "neg": 0.237,
+            "neu": 0.56,
+            "pos": 0.203,
+            "compound": -0.1263
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.25,
+            "Sad": 0.0,
+            "Fear": 0.75
+        }
+    },
+    {
+        "original_comment": "This is where Anthony Fantano became melon",
+        "cleaned_comment": "anthony fantano became melon",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "You gave it a 6 because you love Drake more",
+        "cleaned_comment": "gave love drake",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.323,
+            "pos": 0.677,
+            "compound": 0.6369
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.5
+        }
+    },
+    {
+        "original_comment": "best album fr",
+        "cleaned_comment": "best album fr",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.323,
+            "pos": 0.677,
+            "compound": 0.6369
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "crazy as bitch",
+        "cleaned_comment": "crazy bitch",
+        "sentiment": {
+            "neg": 1.0,
+            "neu": 0.0,
+            "pos": 0.0,
+            "compound": -0.7351
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "This video was Fantano&#39;s canon event",
+        "cleaned_comment": "video fantanos canon event",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "GREAT VDIEO",
+        "cleaned_comment": "great vdieo",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.196,
+            "pos": 0.804,
+            "compound": 0.6249
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Bro you forgot to flip the 6 upside down",
+        "cleaned_comment": "bro forgot flip upside",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 1.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Hes kinda right on the drama part",
+        "cleaned_comment": "hes kinda right drama part",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Bros just yappin",
+        "cleaned_comment": "bros yappin",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "Cool review Anthony!",
+        "cleaned_comment": "cool review anthony",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.465,
+            "pos": 0.535,
+            "compound": 0.3182
+        },
+        "emotions": {
+            "Happy": 1.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I’m just gonna do my part and dislike it",
+        "cleaned_comment": "im gon na part dislike",
+        "sentiment": {
+            "neg": 0.394,
+            "neu": 0.606,
+            "pos": 0.0,
+            "compound": -0.3818
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "This review is almost as bad as your My Beautiful Dark Twisted Fantasy review",
+        "cleaned_comment": "review almost bad beautiful dark twisted fantasy review",
+        "sentiment": {
+            "neg": 0.25,
+            "neu": 0.468,
+            "pos": 0.282,
+            "compound": 0.1065
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "If it was My beautiful dark twisted fantasy by Kanye West you would’ve given this a 6",
+        "cleaned_comment": "beautiful dark twisted fantasy kanye west wouldve given",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.642,
+            "pos": 0.358,
+            "compound": 0.5994
+        },
+        "emotions": {
+            "Happy": 0.5,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.5,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "if he called it &quot;to twist a fantasy&quot; you would&#39;ve given it a 10",
+        "cleaned_comment": "called quotto twist fantasyquot wouldve given",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "I mean this is one of Kanye&#39;s nest albums. I didn&#39;t really get into him until this album. So I don&#39;t know old old Kanye it wasn&#39;t ever my vibe really. <br><br>I like : yeezus, mbdtf, life of Pablo, and 808s.",
+        "cleaned_comment": "mean one kanyes nest albums didnt really get album dont know old old kanye wasnt ever vibe really like yeezus mbdtf life pablo",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.887,
+            "pos": 0.113,
+            "compound": 0.4201
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.0,
+            "Fear": 1.0
+        }
+    },
+    {
+        "original_comment": "Fantano talks about how critics “jUsT dIdNt UnDeRsTaNd KaNyEs GeNiUs aT tHe TiMe oF rElEaSe”  but neither has he, until recently.",
+        "cleaned_comment": "fantano talks critics didnt understand kanyes genius time release neither recently",
+        "sentiment": {
+            "neg": 0.18,
+            "neu": 0.82,
+            "pos": 0.0,
+            "compound": -0.296
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 1.0,
+            "Sad": 0.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "If it was called KIDS SEE MY BEAUTIFUL DARK TWISTED FANTASY he would&#39;ve given it a 10",
+        "cleaned_comment": "called kids see beautiful dark twisted fantasy wouldve given",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.672,
+            "pos": 0.328,
+            "compound": 0.5994
+        },
+        "emotions": {
+            "Happy": 0.67,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 0.33,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "This nigga lost all credibility as a music reviewer to me after this shit. I watch his videos from time to time, but just for the LOLZ",
+        "cleaned_comment": "nigga lost credibility music reviewer shit watch videos time time lolz",
+        "sentiment": {
+            "neg": 0.335,
+            "neu": 0.455,
+            "pos": 0.21,
+            "compound": -0.296
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.67,
+            "Sad": 0.33,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "Yeezy didn&#39;t teach him",
+        "cleaned_comment": "yeezy didnt teach",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 1.0,
+            "pos": 0.0,
+            "compound": 0.0
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.0,
+            "Sad": 1.0,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "I think the melon hate masterpiece and like music sounding like a guy shitting.",
+        "cleaned_comment": "think melon hate masterpiece like music sounding like guy shitting",
+        "sentiment": {
+            "neg": 0.316,
+            "neu": 0.243,
+            "pos": 0.442,
+            "compound": 0.3818
+        },
+        "emotions": {
+            "Happy": 0.0,
+            "Angry": 0.0,
+            "Surprise": 0.67,
+            "Sad": 0.33,
+            "Fear": 0.0
+        }
+    },
+    {
+        "original_comment": "It’s okay guys, it’s out of 5!",
+        "cleaned_comment": "okay guys",
+        "sentiment": {
+            "neg": 0.0,
+            "neu": 0.345,
+            "pos": 0.655,
+            "compound": 0.2263
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    },
+    {
+        "original_comment": "how is it a 6/10 yet you have no least fav tracks 💀",
+        "cleaned_comment": "yet least fav tracks",
+        "sentiment": {
+            "neg": 0.453,
+            "neu": 0.547,
+            "pos": 0.0,
+            "compound": -0.357
+        },
+        "emotions": {
+            "Happy": 0,
+            "Angry": 0,
+            "Surprise": 0,
+            "Sad": 0,
+            "Fear": 0
+        }
+    }
+]
